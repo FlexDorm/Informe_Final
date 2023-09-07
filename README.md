@@ -102,30 +102,43 @@ Nuestra visión es ser una empresa reconocida a nivel nacional e internación po
     
   </tr>
   <tr>
+    <td><b>Nombre:</b> Sebastian Alejandro Montes Molina<br>
+        <b>Carrera:</b> Ingenieria de Software <br>
+       <b>Descripcion:</b> Mi nombre es Sebastian Alejandro Montes Molina con código u201712366 y soy estudiante de la carrera de ingeniería de software. Lo que puedo aportar con el equipo es en poder flexibilizar con la carga de tareas dentro del equipo, asimismo con mi experiencia en cursos pasados llevados y adelantados, como manejo de Azure y conocimientos en Angular y React. Mis expectativas para el curso es poder aprender un poco más de Backend con Java, ya que lo siento más profundo, al ser un tema muy amplio y con muchas configuraciones. 
+    <td><img src="https://media.discordapp.net/attachments/1149328487358930944/1149490319201681490/image.png" alt="Anthony" width="150" height="200"></td>
+   
+  </tr>
     <td><b>Nombre:</b> Anthony Avalos Santos<br>
         <b>Carrera:</b> Ingenieria de Software <br>
        <b>Descripcion:</b> Las habilidades que poseo pueden ayudar <br>mucho al equipo, puesto que mi capacidad comunicativa, organización y disciplina<br> pueden hacer que logremos realizar un excelente trabajo.<br> Además, mis conocimientos en redacción pueden hacer que este proyecto se realice y presente sin errores. </td>
     <td><img src="https://cdn.discordapp.com/attachments/1149328487358930944/1149409291745370213/image.png" alt="Anthony" width="150" height="200"></td>
-   
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td>Perfil</td>
-    <td>Foto</td>
-    
-  </tr>
-  <tr>
+<tr>
     <td><b>Nombre:</b> Jamutaq Ortega Vélez<br>
         <b>Carrera:</b> Ingeniería de Software <br>
        <b>Descripción:</b> Tengo experiencia en el desarrollo frontend con tecnologías como React, Angular y HTML, y también en el backend con Spring, .Net Core y Express.js; sin embargo, me especializo más en el desarrollo backend y base de datos. Soy una persona honesta, responsable y dispuesto a aprender más y dar lo mejor de mi persona.</td>
     <td><img src="https://media.discordapp.net/attachments/1149328487358930944/1149490452978995250/photo_2020-11-29_17-19-46_2.jpg?width=655&height=655" alt="Anthony"></td>
-   
+<tr>
+    <td><b>Nombre:</b> Lucía Aliaga Trevejo<br>
+        <b>Carrera:</b> Ingenieria de Software <br>
+       <b>Descripcion:</b> 
+       Mi nombre es Lucía Aliaga y soy estudiante de la carrera de Ingeniería <br>de Software. Como algunas de mis fortalezas, considero que soy proactiva, responsable <br>y organizada, además, me gusta aportar ideas creativas y contribuir a la solución <br>de problemas cuando trabajo en equipo.
+       </td>
+    <td><img src="https://media.discordapp.net/attachments/818234057389375488/1149491490528165980/img.jpg?width=436&height=582" alt="Lucía A" width="150" height="200"></td>
   </tr>
+
+  <tr>
+    <td>
+        <b>Nombre:</b> Manuel Angel Sanchez Arenas<br>
+        <b>Carrera:</b> Ingeniería de Software <br>
+        <b>Descripción:</b> Encontré mi pasión por el software hace 5 años y desde entonces me encuentro estudiando nuevas herramientas y lenguajes para mejorar mis habilidades. Actualmente cuento con conocimientos de Javascript, Node.js, React.js, C#, Python y bases de datos como SQL y MongoDB<br>
+    </td>
+    <td>
+        <img src="https://media.discordapp.net/attachments/1149328487358930944/1149490975543152660/AITFw-z7B-oYAblp6lDVbRER5WGAL7MNJVaPulwfiir30Xtj_6XK-Vm89ul4Y0HstWXQpch7jyuTov9FTbPQCtAPQtG_lKN50gw1920-h897.png?width=451&height=583" alt="Manuel">
+    </td>
+</tr
+
 </table>
 
-En este ejemplo, hemos añadido los atributos width y height a cada etiqueta <img> para controlar el tamaño de las imágenes en píxeles. Puedes ajustar los valores de width y height según tus necesidades para lograr el tamaño deseado para cada imagen en la tabla. También puedes utilizar porcentajes en lugar de valores en píxeles si prefieres dimensionar las imágenes en relación con su tamaño original. Por ejemplo, width="50%" hará que la imagen tenga la mitad del ancho original.
 
 
 
