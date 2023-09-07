@@ -109,6 +109,22 @@ Nuestra visión es ser una empresa reconocida a nivel nacional e internación po
    
   </tr>
 </table>
+
+<table>
+  <tr>
+    <td>Perfil</td>
+    <td>Foto</td>
+    
+  </tr>
+  <tr>
+    <td><b>Nombre:</b> Jamutaq Ortega Vélez<br>
+        <b>Carrera:</b> Ingeniería de Software <br>
+       <b>Descripción:</b> Tengo experiencia en el desarrollo frontend con tecnologías como React, Angular y HTML, y también en el backend con Spring, .Net Core y Express.js; sin embargo, me especializo más en el desarrollo backend y base de datos. Soy una persona honesta, responsable y dispuesto a aprender más y dar lo mejor de mi persona.</td>
+    <td><img src="https://media.discordapp.net/attachments/1149328487358930944/1149490452978995250/photo_2020-11-29_17-19-46_2.jpg?width=655&height=655" alt="Anthony"></td>
+   
+  </tr>
+</table>
+
 En este ejemplo, hemos añadido los atributos width y height a cada etiqueta <img> para controlar el tamaño de las imágenes en píxeles. Puedes ajustar los valores de width y height según tus necesidades para lograr el tamaño deseado para cada imagen en la tabla. También puedes utilizar porcentajes en lugar de valores en píxeles si prefieres dimensionar las imágenes en relación con su tamaño original. Por ejemplo, width="50%" hará que la imagen tenga la mitad del ancho original.
 
 
@@ -1877,9 +1893,9 @@ _En esta entrega, no se incluyó dicha sección, ya que se enfocó en el desarro
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
-Enlace del vídeo: [Execution Evidence for Sprint Review.mp4]()
+Enlace del vídeo: [Execution Evidence for Sprint Review.mp4](https://upcedupe.sharepoint.com/:v:/s/APLICACIONESOPENSOURCE850/EdToVCWvPlVBsWQJPIy8Q_8Bs2g-fI81j5akXnB6JGwDJg?e=UZXwUK)
 
-![preview]()
+![preview](https://media.discordapp.net/attachments/1149328486868209678/1149492942449426572/image.png?width=1272&height=655)
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
