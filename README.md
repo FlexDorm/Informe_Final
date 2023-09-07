@@ -1896,3 +1896,30 @@ En el primer Sprint, se utilizaron Visual Studio Code, HitHub Desktop y Git para
 ![Commits](https://media.discordapp.net/attachments/1149328487358930944/1149443737366319165/image.png)
 
 ![Commits2](https://media.discordapp.net/attachments/1149328487358930944/1149444104837677164/image.png)
+
+# Conclusiones
+
+- Llevar a cabo un análisis exhaustivo de la competencia nos brinda la capacidad de identificar nuestras áreas de destaque y aquellas que necesitan mejoras. Esto, a su vez, nos capacita para ofrecer un servicio que se ajuste perfectamente a las demandas de nuestra audiencia.
+
+- Las entrevistas realizadas con nuestros segmentos objetivo han sido de importancia vital en nuestro proyecto. Han proporcionado información valiosa, contribuyeron a nuestro entendimiento de las necesidades y sentimientos de nuestros usuarios, y nos impulsaron a diseñar una aplicación que supera las expectativas puramente funcionales. Nos comprometemos a aplicar estas percepciones para desarrollar una solución que tenga un impacto positivo en la vida de nuestros usuarios.
+
+- La creación de un prototipo de alta fidelidad nos permitió visualizar la aplicación en su totalidad y nos ayudó a identificar áreas de mejora. Además, nos permitió obtener comentarios de nuestros usuarios, lo que nos permitió realizar cambios en el diseño de la aplicación para que se ajuste mejor a sus necesidades.
+
+- El desarrollo de la aplicación tiene el potencial de ser una herramienta valiosa para los estudiantes universitarios y las instituciones educativas. Para tener éxito, se debe llevar a cabo un desarrollo cuidadoso y una implementación sólida, junto con una estrategia de marketing efectiva para atraer a los usuarios. Con el enfoque adecuado y la atención a los detalles, esta aplicación podría mejorar la vida de los estudiantes y simplificar la gestión de las reservas de habitaciones universitarias.
+
+- Este informe funcional ha proporcionado una visión detallada de la aplicación de reserva de habitaciones diseñada específicamente para estudiantes universitarios. Hemos analizado exhaustivamente los requisitos del sistema, la arquitectura técnica, las características esenciales, los desafíos potenciales y las ventajas que ofrece esta aplicación.
+
+# Bibliografía
+Instituto Nacional de Estadística e Informática. (2020). EL 27,2% DE LA POBLACIÓN DE 15 Y MÁS AÑOS DE EDAD FUE VÍCTIMA DE ALGÚN HECHO DELICTIVO EN EL SEMESTRE AGOSTO 2019-ENERO 2020. Instituto Nacional de Estadística e Informática. https://m.inei.gob.pe/media/MenuRecursivo/noticias/notadeprensa031.pdf  
+
+Andrade, M., Paz, A., Rodríguez, M., & Valdivia, P. (2018). Plan de negocio para la creación de una empresa dedicada a brindar hospedaje para estudiantes universitarios en el distrito de La Molina [Tesis de maestría, Universidad ESAN]. Repositorio ESAN. https://repositorio.esan.edu.pe/handle/20.500.12640/1642  
+
+Instituto Nacional de Estadística e Informática (2015). Encuesta Nacional a Egresados Universitarios y Universidades, 2014. INEI. https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1298/Libro.pdf  
+
+Dirección General de Educación Superior Universitaria. (2021). Encuesta Nacional de Estudiantes de Educación Superior Universitaria 2019: principales resultados. Ministerio de Educación. https://repositorio.minedu.gob.pe/handle/20.500.12799/7745  
+
+Almeida, A. (2019, 2 de agosto).  Lima, el tercer peor tráfico del mundo. Radio Programas del Perú. https://rpp.pe/columnistas/alexandrealmeida/lima-el-tercer-peor-trafico-del-mundo-noticia-1212423?ref=rpp 
+
+Sota, D., & Viteri, G. (2021). Factores que influyen en la elección de una universidad por parte de los jóvenes en la ciudad de Piura, año 2021. [Tesis de licenciatura, Universidad Privada Atenor Orrego]. Repositorio UPAO. https://repositorio.upao.edu.pe/handle/20.500.12759/8267  
+
+Chavarría, D., Beckford, H., Ortega, J., Peña, N., Aguirre, J., & Alfaro, R. (2020). Estrés y congestionamiento vial en universitarios costarricenses. Revista Cubana de Medicina General Integral, 36(4), 1-10. https://www.medigraphic.com/pdfs/revcubmedgenint/cmi-2020/cmi204m.pdf 
