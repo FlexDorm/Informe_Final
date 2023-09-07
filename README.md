@@ -940,3 +940,356 @@ En el 6to mes contaremos con un promedio de reservas de 130 por mes|![foto2](htt
 |   **11**   |       US011       | Arrendatario agrega una habitacion a su lista de favoritos.                                                      | Como arrendatario quiero agregar una habitacion a mi lista de favoritos para en un futuro volver a reservarlo.        |         2        |
 |   **12**   |       US012       | Arrendatario revisa sus reservas activas.                                                                        | Como arrendatario quiero revisar las reservas activas para poder darle seguimiento.                                   |         2        |
 |   **13**   |       US013       | Arrendatario revisa los reservas realizadas anteriormente                                                        | Como arrendatario quiero revisar mis reservas realizadas para poder tener conocimiento de ellas                       |         3        |
+
+# Capítulo IV: Product Design
+
+## 4.1. Style Guidelines.
+
+### 4.1.1. General Style Guidelines.
+
+Con conocimientos previos de cursos anteriores, se determina estilos fundamentales para la implementación de las responsive web interfaces:
+
+-	Branding: Se presenta el logo de nuestro producto: FlexiDorm. Se escogió principalmente el color gris ya que representa elegancia, sofisticación, tecnología y modernidad.
+
+
+![Logo](https://i.imgur.com/AqDyPF0.png)
+
+**-Colors:**
+Como se mencionó en la sección de Branding, decidimos utilizar principalmente el color Morado. A continuación, se mostrará la combinación de colores con sus respectivos códigos
+
+![cuadro01](https://i.imgur.com/HlnJTqV.png)
+
+**-Spacing:**
+Para la elección de colores, se tuvo en cuenta el propósito de la aplicación y el servicio y lo que esta debería transmitir al usuario.
+
+**-Padding:**
+ Se refiere al espacio entre los elementos UI.
+
+![cuadro02 ](https://i.imgur.com/AswCmpf.png)
+
+
+**-Dimensions:**
+Se refiere al ancho y largo de los componentes.
+
+![Cuadro04](https://i.imgur.com/wPtoe1w.png)
+
+**-Alignments:**
+Es la ubicación de elementos dentro de un componente
+
+![Alignments](https://i.imgur.com/uKZRxXE.png)
+
+**-Typography:**
+Decidimos usar el font Montserrat, ya que hasta la actualidad se destaca por su simplicidad geométrica entre sus letras.
+
+![Typographyro](https://i.imgur.com/O5VZH2E.png)
+
+### 4.1.2. Web Style Guidelines.
+
+**-Paleta de colores:** En este apartado se muestra la guía de la paleta de colores, tantos primarios, secundarios y grises.
+  
+**-Colores Primarios:** Optamos por escoger el color Morado ya que es señal de una aplicación única, además de ser muy formal y etc. A continuación, se mostrará el color principal.
+
+
+![Cuadro05](https://i.imgur.com/ZLu0bKc.png)
+
+**-Colores Secundarios:** Se escogió la siguiente paleta de colores secundarios, acorde al color principal (Morado).
+
+![Colores](https://i.imgur.com/NJBvvvb.png)
+
+**-Paleta de Grises:** Escogimos la siguiente paleta de grises con tonos ligeros de la paleta secundaria para fortalecer un poco la asociación de confianza y productividad.
+
+![grises](https://i.imgur.com/ucjlyg2.png)
+
+**-Fonts:** Decidimos usar el font Montserrat, ya que hasta la actualidad sigue demostrando su versatibilidad. y cómo puede ser utilizado en múltiples dominios, tales como Websites, el mundo de la publicidad, brandings, editoriales, logos, etc.
+
+![Fonts](https://i.imgur.com/O5VZH2E.png)
+
+**-Icons:** Se incluyó los siguientes íconos que serán utilizados en el landing page.
+
+![Fonts](https://i.imgur.com/1bhGvMm.png)
+
+**-	Formulario de Registros:** El formulario que hemos diseñado, seguirá las convenciones anteriormente mencionadas, como el espaciado, tipo de letra, que están basados en material design.
+
+![Fonts](https://i.imgur.com/9ORfbLt.png)
+
+**-	Botones** 
+
+**-	Botones con texto:** Los botones con texto se representarán de la siguiente manera
+
+![Fonts](https://i.imgur.com/uHBVUWG.png)
+
+**-	Botones con Icono:** Los botones con iconos de redes sociales, se representarán de la siguiente manera
+
+![Fonts](https://i.imgur.com/sSVVJve.png)
+
+**-	Patrones de Diseño web:** Como StartUp, decidimos utilizar el patrón de diseño web “Pantalla Dividida”, ya que es ideal para aplicaciones web que combinan el contenido visual y escrito a partes iguales.
+
+![Fonts](https://i.imgur.com/HZDDTCc.png)
+
+**-	Notificaciones**
+
+**-	Notificaciones de error:** Para evidenciar algún proceso incorrecto, o campos incompletos, se mostrará a continuación el formato:
+
+![Fonts](https://i.imgur.com/iol46nx.png)
+
+**-	Notificaciones de exito:** Para evidenciar que el proceso ha sido completado correctamente, se mostrará a continuación el formato:
+
+![Fonts](https://cdn.discordapp.com/attachments/1149328487358930944/1149393541659889736/Imagen18.png)
+
+
+## 4.2. Information Architecture.
+
+### 4.2.1. Organization Systems.
+
+La información, que mostraremos en la plataforma, es informativa en un primer momento, ya que el usuario debe saber el servicio que brindamos y de qué manera funciona. Durante el proceso de funcionamiento se organizó de manera secuencial, a través de eventos en un orden establecido que nos dirige a los end-points que han sido fijados. Esto puede evidenciar en nuestro evento más importante, que es el reservar una habitación, ya que primero debemos iniciar sesión para seguir con el proceso de reserva. Además, durante su búsqueda, las habitaciones se mostrarán según la popularidad de los universitarios, que depende de las expectativas y resultados de los usuarios sobre las habitaciones reservadas.
+
+### 4.2.2. Labeling Systems.
+
+Las interfaces para los usuarios son de complejidad sencilla, ya que los datos presentados serán entendidos de manera rápida. Por un lado, en el segmento de universitarios, ellos tienen opciones básicas de configuración de su perfil. El sistema de arriendo se basa en la búsqueda de habitaciones que cumplan con sus necesidades, finalizando con la coordinación de ambos segmentos y un contrato de por medio. Por otro lado, en el segmento de arrendadores, también cuentan con la organización de sus datos personales. Además, puede publicar y administrar los anuncios de sus habitaciones de manera rápida y sencilla. El sistema automatiza muchas tareas que de manera tradicional se tornaría tedioso y complicado.
+
+![Fonts](https://media.discordapp.net/attachments/1149328487358930944/1149393857704902657/image.png?width=944&height=671)
+
+### 4.2.3. SEO Tags and Meta Tags
+
+En esta sección, se incluyen las etiquetas SEO (Search Engine Optimization), Meta Tags y ASO (App Store Optimization) que se asignarán en las principales aplicaciones de nuestra plataforma, tanto en el sitio web estático (Landing Page) como en las aplicaciones web y móviles. Estas etiquetas y elementos son esenciales para mejorar la visibilidad en los motores de búsqueda y las tiendas de aplicaciones, atrayendo así a más usuarios a nuestro servicio de alquiler de automóviles.
+Para las aplicaciones web, incluiremos al menos las siguientes etiquetas:
+
+
+**Tittle:**
+
+![Fonts](https://media.discordapp.net/attachments/1149328487358930944/1149394442386690120/image.png)
+
+**Meta Tags**
+
+**Description:**
+
+![Fonts](https://media.discordapp.net/attachments/1149328487358930944/1149394455930081320/image.png)
+
+**Keywords:**
+
+![Fonts](https://media.discordapp.net/attachments/1149328487358930944/1149394467401519177/image.png)
+
+**Author:**
+
+![Fonts](image-1.png)
+
+
+### 4.2.4. Searching Systems.
+
+La funcionalidad de búsqueda es más relevante para los estudiantes que buscan las habitaciones. Estos, cuentan con filtros combinados para tener un resultado de una habitación que se acople más a sus necesidades. Los resultados se muestran en una matriz, donde se visualiza la imagen principal de la habitación, y unos pequeños detalles de este. En el caso del arrendador, adicional a la funcionalidad mencionada, puede hacer pequeñas búsquedas sobre anuncios publicados de sus habitaciones y la lista de contratos realizados. También, ambos pueden buscar los mensajes enviados o respondidos
+
+![Fonts](https://media.discordapp.net/attachments/1149328487358930944/1149395196329607168/image.png?width=944&height=671)
+
+### 4.2.5. Navigation Systems.
+
+La Landing Page presenta la información más importante del servicio que brindamos. Se explica el objetivo del proyecto, los beneficios y servicios que están a su disposición. La funcionalidad más relevante es el sistema de reserva, ya que podrán seleccionar sus mejores opciones entre todos los que cumplan sus necesidades, pueden visualizar los detalles de las habitaciones y coordinar un contrato para que sea beneficioso para ambos. Finalmente, brindamos la información del equipo y del proyecto.
+
+## 4.3. Landing Page UI Design.
+
+### 4.3.1. Landing Page Wireframe.
+
+![m1](https://media.discordapp.net/attachments/1149328487358930944/1149395530905042994/image.png?width=250&height=671)
+
+
+[Enlace a Figma "Ver Diseños"](https://www.figma.com/file/egSLVmoQy8qoMrPGvbyvYy/Designs?type=design&node-id=0%3A1&mode=design&t=8El9n413S2Y3ozDv-1)
+
+### 4.3.2. Landing Page Mock-up.
+
+![m01](https://media.discordapp.net/attachments/1149328487358930944/1149395928122404954/image.png?width=250&height=671)
+
+[Enlace a Figma "Ver Diseños"](https://www.figma.com/file/egSLVmoQy8qoMrPGvbyvYy/Designs?type=design&node-id=0%3A1&mode=design&t=8El9n413S2Y3ozDv-1)
+
+## 4.4. Web Applications UX/UI Design.
+
+### 4.4.1. Web Applications Wireframes.
+
+A continuación, se muestran los diseños elaborados de acuero a las funcionalidades de la aplicación.
+
+Registro de usuario (Estudiante)
+
+![m001](image-2.png)
+![m002](image-3.png)
+
+Registro de usuario (Arrendador)
+
+![m003](https://media.discordapp.net/attachments/1149328487358930944/1149397156403364032/image.png)
+![m004](image-4.png)
+
+Inicio de Sesion
+
+![m005](image-5.png)
+
+Editar datos personales (Estudiante)
+
+![m006](https://media.discordapp.net/attachments/1149328487358930944/1149397501456154635/image.png)
+
+Editar datos personales (Arrendador)
+
+![m006](image-6.png)
+
+[Enlace a Figma "Ver Diseños"](https://www.figma.com/file/egSLVmoQy8qoMrPGvbyvYy/Designs?type=design&node-id=0%3A1&mode=design&t=8El9n413S2Y3ozDv-1)
+
+Búsqueda de habitaciones (Estudiante)
+
+![m006](https://media.discordapp.net/attachments/1149328487358930944/1149399075012231168/image.png)
+
+Realizar Reserva (Estudiante)
+
+![m006](https://media.discordapp.net/attachments/1149328487358930944/1149399201537605702/image.png)
+
+Vista de reservas realizadas (Estudiante)
+
+![m006](https://media.discordapp.net/attachments/1149328487358930944/1149399262883487786/image.png)
+
+Vista de Favoritos (Estudiante)
+
+![m006](https://media.discordapp.net/attachments/1149328487358930944/1149399321880567918/image.png)
+
+Guardar habitación como Favorito (Estudiante)
+
+![m006](https://media.discordapp.net/attachments/1149328487358930944/1149399373055271002/image.png)
+
+Detalle de movimiento realizado (Estudiante)
+
+![m006](https://media.discordapp.net/attachments/1149328487358930944/1149399441036558528/image.png)
+
+Movimientos realizados en la aplicación (Estudiante)
+
+![m006](https://media.discordapp.net/attachments/1149328487358930944/1149399453380378724/image.png)
+
+### 4.4.2. Web Applications Wireflow Diagrams.
+
+**User goal:** El estudiante se registra en la aplicación
+El usuario inicia en la pantalla de registro, en la cual se solicitan los datos de usuario, contraseña y correo institucional. Si el usuario llena todos los campos solicitados, acepta los términos y condiciones y hace clic en “Crear cuenta”, aparecerá un mensaje de “¡Tu cuenta se creó con éxito!” y será redirigido 
+
+![y1](https://media.discordapp.net/attachments/1149328487358930944/1149399951080685638/image.png)
+
+**User goal:** El arrendador se registra en la aplicación
+El usuario inicia en la pantalla de registro, en la cual se solicitan los datos de usuario, contraseña y correo electrónico. Si completa todos los campos, acepta los términos y condiciones y hace clic en “Crear cuenta”, aparecerá un mensaje de “¡Tu cuenta se creó con éxito!” y será redirigido a otro formulario para completar su información personal. Si hay campos en blanco, se mostrará un mensaje de “Hay campos incompletos” y los campos faltantes mostrarán una señal de color rojo.
+ 
+
+![y1](https://media.discordapp.net/attachments/1149328487358930944/1149400150947664012/image.png)
+
+**User goal:** El arrendador completa su registro
+El usuario es redirigido al formulario para completar su información personal después de crear su cuenta. Si completa todos los campos solicitados y hace clic en “Registrar”, aparecerá un mensaje de “Registro completo”. Si hay campos faltantes, se mostrará un mensaje en rojo y se marcarán con señales los datos incompletos.
+
+![y1](https://media.discordapp.net/attachments/1149328487358930944/1149400403897753620/image.png)
+
+**User goal:** Ambos usuarios inician sesión
+El usuario completará todos sus datos solicitados como correo electrónico y contraseña, de ser ambos correctos, dará clic en el botón “Iniciar sesión” y será redirigido a la aplicación. Caso contrario, se le mostrara mensajes de alerta sobre los datos ingresados.
+
+![y1](https://media.discordapp.net/attachments/1149328487358930944/1149400631677812797/image.png)
+
+**User goal:** El estudiante cambia sus datos personales
+Una vez que el usuario ha creado su cuenta, podrá cambiar sus datos personales si asi lo desea, el usuario deberá completar todos los cambios que desea realizar y luego dar clic en el botón “Guardar”. Si todos los campos no están completados o dejo campos obligatorios sin rellenar, se le mostrara un mensaje de alerta. Caso contrario se mostrará el mensaje de “Guardado exitoso”.
+
+![y1](https://media.discordapp.net/attachments/1149328487358930944/1149400773789225110/image.png)
+
+**User goal:** El arrendador cambia sus datos personales
+Una vez que el arrendador ha creado su cuenta, podrá cambiar sus datos personales si asi lo desea, el usuario deberá completar todos los cambios que desea realizar y luego dar clic en el botón “Guardar”. Si todos los campos no están completados o dejo campos obligatorios sin rellenar, se le mostrara un mensaje de alerta. Caso contrario se mostrará el mensaje de “Guardado exitoso”.
+
+
+![y1](https://media.discordapp.net/attachments/1149328487358930944/1149400951858413609/image.png)
+
+### 4.4.3. Web Applications Mock-ups.
+
+![X1](https://media.discordapp.net/attachments/1149328487358930944/1149401117579550720/image.png)
+![X2](https://media.discordapp.net/attachments/1149328487358930944/1149401133765382194/image.png)
+![X3](image-7.png)
+![X4](image-8.png)
+![X5](https://media.discordapp.net/attachments/1149328487358930944/1149401171291811901/image.png)
+![X6](https://media.discordapp.net/attachments/1149328487358930944/1149401184885555323/image.png)
+![X7](https://media.discordapp.net/attachments/1149328487358930944/1149401199796310016/image.png)
+![X7](https://media.discordapp.net/attachments/1149328487358930944/1149401213121593354/image.png)
+![X7](https://media.discordapp.net/attachments/1149328487358930944/1149405312495915128/image.png?width=944&height=671)
+![X7](https://media.discordapp.net/attachments/1149328487358930944/1149404321641943040/image.png?width=944&height=671)
+![X7](https://media.discordapp.net/attachments/1149328487358930944/1149404377904328774/image.png?width=944&height=671)
+![X7](https://media.discordapp.net/attachments/1149328487358930944/1149404587653079122/image.png?width=944&height=671)
+![X7](https://media.discordapp.net/attachments/1149328487358930944/1149405601449910453/image.png?width=944&height=671)
+![X7](https://media.discordapp.net/attachments/1149328487358930944/1149405698329940158/image.png?width=944&height=671)
+![X7](https://media.discordapp.net/attachments/1149328487358930944/1149405779296784394/image.png?width=944&height=671)
+![X7](https://media.discordapp.net/attachments/1149328487358930944/1149408327965622383/image.png?width=944&height=671)
+![X7](https://media.discordapp.net/attachments/1149328487358930944/1149408351239802952/image.png?width=944&height=671)
+![X7](https://media.discordapp.net/attachments/1149328487358930944/1149408396093702304/image.png?width=944&height=671)
+![X7](https://media.discordapp.net/attachments/1149328487358930944/1149408416020832346/image.png?width=944&height=671)
+### 4.4.4. Web Applications User Flow Diagrams.
+
+**User Goal:** El estudiante se registra en la aplicación
+En el siguiente user flow diagram se observa el happy path y unhappy path para el user goal descrito. El happy path ocurre cuando el usuario completa todos los campos adecuadamente y hace clic en el botón, logrando crear su cuenta. El unhappy path ocurre cuando el usuario olvida llenar un campo y se le solicita completar el formulario. 
+
+
+![C1](https://media.discordapp.net/attachments/1149328487358930944/1149409667680829560/image.png)
+
+**User Goal:** El estudiante se registra en la aplicación
+En el siguiente user flow diagram se observa el happy path y unhappy path para el user goal descrito. El happy path ocurre cuando el usuario completa todos los campos adecuadamente y hace clic en el botón, logrando crear su cuenta. El unhappy path ocurre cuando el usuario olvida llenar un campo y se le solicita completar el formulario. 
+
+![C1](https://media.discordapp.net/attachments/1149328487358930944/1149409874028023968/image.png)
+
+**User Goal:** El arrendador se registra en la aplicación
+En este user flow diagram, el happy path ocurre cuando el arrendador crea su cuenta luego de completar los datos de usuario, contraseña y correo electrónico. El unhappy path se da al dar clic en “Crear cuenta” sin haber terminado de llenar del formulario.
+
+![C1](https://media.discordapp.net/attachments/1149328487358930944/1149410059068112947/image.png)
+
+**User Goal:** El arrendador completa su registro
+Para este user goal, el happy path ocurre cuando el arrendador completa su información personal y hace clic en el botón “Registrar”. El unhappy path se da cuando se intenta registrar el formulario sin haber completado todos los campos.
+
+![C1](https://media.discordapp.net/attachments/1149328487358930944/1149410179197177886/image.png)
+
+**User Goal:** El usuario inicia sesion en la aplicacion
+En el siguiente user flow diagram se observa el happy path y unhappy path para el user goal descrito. El happy path ocurre cuando el usuario completa todos los campos adecuadamente y hace clic en el iniciar sesion, logrando entrar a su cuenta. El unhappy path ocurre cuando el usuario ingresa su usuario o una contraseña incorrecta.
+
+![C1](https://media.discordapp.net/attachments/1149328487358930944/1149410389449265324/image.png)
+
+**User Goal:** El estudiante cambia sus datos personales
+En este user flow diagram, el happy path ocurre cuando el estudiante completa todos los campos obligatorios para su respectivo cambio y da clic en el botón “Guardar”. El unhappy path se da cuando da clic en el botón y se salen alertas por tener campos obligatorios sin llenar.
+
+![C1](https://media.discordapp.net/attachments/1149328487358930944/1149410721080291489/image.png)
+
+**User Goal:** El arrendador cambia sus datos personales
+En este user flow diagram, el happy path ocurre cuando el estudiante completa todos los campos obligatorios para su respectivo cambio y da clic en el botón “Guardar”. El unhappy path se da cuando da clic en el botón y se salen alertas por tener campos obligatorios sin llenar.
+
+![C1](https://media.discordapp.net/attachments/1149328487358930944/1149410829981192264/image.png)
+
+### Web Applications Prototyping. 
+
+![C1](https://media.discordapp.net/attachments/1149328487358930944/1149476079216640101/image.png?width=1396&height=670)
+
+[Enlace a Figma "Ver Prototipos"](https://www.figma.com/proto/egSLVmoQy8qoMrPGvbyvYy/Designs?type=design&node-id=48-2694&t=Gqeg76mnEHsLKdlA-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=48%3A2694&show-proto-sidebar=1&mode=design)
+
+### Software Architecture Context Diagram. 
+
+![C1](https://media.discordapp.net/attachments/1149328487358930944/1149474648375955466/structurizr-85915-Contexto_1.png?width=819&height=671)
+
+
+
+### Software Architecture Container Diagrams.
+
+![C1](https://media.discordapp.net/attachments/1149328487358930944/1149474671037788281/structurizr-85915-Contenedor_1.png?width=880&height=671)
+
+### Software Architecture Components Diagrams. 
+
+![C1](https://media.discordapp.net/attachments/1149328487358930944/1149474739144892556/structurizr-85937-Components.png?width=1035&height=671)
+
+### Class Diagrams. 
+
+![C1](https://media.discordapp.net/attachments/1149328487358930944/1149475363634823179/image.png)
+
+### Class Dictionary.
+
+Para dar un mejor entendimiento a nuestro diagrama de clases, se explicará a detalle cada una de las entidades mencionadas 
+
+anteriormente:
+
+User_Base: Esta clase se dedica a almacenar atributos y métodos en común de nuestros dos tipos de usuarios: arrendadores y estudiantes.
+User_Student: Esta clase pertenece a nuestro usuario “estudiante” es cual posee un atributo independiente para validar que se trata del mismo.
+
+User_Lessor: Esta clase pertenece a nuestro usuario “arrendador” es cual posee un atributo independiente para validar que se trata del mismo.
+
+Reserve: Esta clase representa las diversas reservas que podrán realizar los estudiantes en la plataforma.
+
+Accommodation: Esta clase representa las propiedades de alojamiento disponibles en la plataforma, los mismos que también son publicados por los arrendadores para que sean visibles para los estudiantes. 
+
+Room: Esta clase representa las habitaciones dentro de un alojamiento que es publicado por el arrendador. El arrendador puede tener más de 1 habitación disponible para alquilar, la misma que tendrá diferentes descripciones referentes a las demás.
+
+Picture: Esta clase representa las imágenes asociadas a cada una de las habitaciones que tendrá disponible el arrendador.
+Notification: Esta clase representa las notificaciones que ambos usuarios pueden o no recibir en la plataforma.
