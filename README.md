@@ -295,3 +295,590 @@ Uno de nuestros segmentos objetivos son los estudiantes universitarios que se de
 Otro de nuestros segmentos objetivos son las personas que tienen propiedades en ubicaciones estratégicas cerca de universidades y buscan aprovechar el mercado estudiantil para obtener ingresos adicionales. Además, que estén dispuestos a alquilar sus habitaciones por horas o días para satisfacer las necesidades de estudiantes con horarios específicos.
 
 
+# Capítulo II: Requirements Elicitation & Analysis
+
+## 2.1. Competidores
+
+| Nombre del Competidor                                      |                                                                                                                                                    Descripción                                                                                                                                                     |
+| :--------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| ByHours (Web browser) https://www.byhours.com/ <img  src="https://media.discordapp.net/attachments/1149328487358930944/1149407046773522592/byhours.png?width=1185&height=259" alt="ByHours"/>   | ByHours es una plataforma líder en alojamiento diurno que ofrece a los usuarios la flexibilidad de reservar habitaciones de hotel por horas. Su propuesta de valor se centra en brindar opciones de alojamiento cómodo y privado durante el día, atendiendo a las necesidades de viajeros en tránsito, profesionales y personas que buscan momentos de relajación y trabajo durante horas específicas. ByHours se destaca por su amplia red de hoteles colaboradores en diversas ubicaciones globales, y su enfoque en adaptarse a diferentes segmentos de mercado a través de estrategias de marketing específicas.  |
+| Dayuse (Web browser) https://www.dayuse.es/ <img  src="https://media.discordapp.net/attachments/1149328487358930944/1149407046131789884/dayuse.png?width=1185&height=299" alt="Dayuse"/> |        Dayuse es una plataforma que se especializa en la reserva de habitaciones de hotel durante el día, ofreciendo soluciones a profesionales y viajeros que necesitan espacios privados y tranquilos para trabajar o descansar entre sus actividades diurnas. La propuesta de valor de Dayuse radica en brindar un ambiente propicio para la productividad y el relax en un entorno hotelero. La plataforma también destaca la posibilidad de acceder a servicios adicionales, como instalaciones de spa, para enriquecer la experiencia del usuario.         |
+| Roomforday (Web Browser) https://www.roomforday.com/es/ <img  src="https://media.discordapp.net/attachments/1149328487358930944/1149407046479908864/roomforday.png" alt="Roomforday"/>       |            Roomforday es una plataforma que permite a los usuarios reservar habitaciones de hotel por horas durante el día, ofreciendo opciones de alojamiento diurno flexible y privado. Su propuesta de valor se basa en satisfacer una variedad de necesidades, desde descanso entre vuelos hasta momentos de privacidad y relajación. La plataforma busca diferenciarse al ofrecer servicios adicionales en algunos hoteles, como acceso a instalaciones de spa o áreas de trabajo, para brindar una experiencia completa durante la estancia diurna.            |
+
+Estos competidores comparten la premisa de proporcionar opciones de alojamiento diurno, pero cada uno se enfoca en diferentes aspectos y segmentos del mercado, lo que les permite destacar en diversas áreas y satisfacer necesidades específicas de los usuarios. 
+
+### 2.1.1. Análisis competitivo
+
+<table>
+  <tr>
+    <th colspan="7" valign="top"><b>Competitive Analysis Landscape</b></th>
+  </tr>
+  <tr>
+    <td colspan="2" rowspan="2">¿Por qué llevar a cabo este análisis?</td>
+  </tr>
+  <tr>
+    <td colspan="5">¿Cómo se diferencia nuestra empresa en su propuesta de valor, estrategias de marketing, oferta de productos y servicios, precios y estructura de costos, canales de distribución, y cómo evaluamos nuestras fortalezas, debilidades, oportunidades y amenazas?</td>
+  </tr>
+  <tr>
+    <td colspan="3">Competidores</td>
+    <td colspan="1" valign="top" style="font-weight: bold;text-align: center">
+        FlexiDorm
+        <div style="text-align: center; margin-top: 10px;">
+                <img src="https://media.discordapp.net/attachments/1149328487358930944/1149434986055872522/image.png" alt="Flexidorm" width="70px">
+        </div>
+    <td colspan="1" valign="top" style="font-weight: bold;text-align: center">
+        ByHours
+        <div style="text-align: center; margin-top: 10px;">
+                <img src="https://media.discordapp.net/attachments/1149328487358930944/1149407046773522592/byhours.png?width=1185&height=259" alt="ByHours" width="80px">
+        </div>
+    </td>
+    <td colspan="1" valign="top" style="font-weight: bold;text-align: center" >
+        Dayuse
+        <div style="text-align: center; margin-top: 10px;">
+                <img src="https://media.discordapp.net/attachments/1149328487358930944/1149407046131789884/dayuse.png?width=1185&height=299" alt="Dayuse" width="80px">
+        </div>
+      </td>
+    <td colspan="1" valign="top" style="font-weight: bold;text-align: center" >
+        Roomforday
+        <div style="text-align: center; margin-top: 10px;">
+                <img src="https://media.discordapp.net/attachments/1149328487358930944/1149407046479908864/roomforday.png" alt="Roomforday" width="120px">
+        </div>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="2"><p>Perfil</p></td>
+    <td colspan="2">Overview</td>
+    <td colspan="1" valign="top">Ofrece a estudiantes, una habitacion por horas cerca de su universidad para que en el caso tenga que quedarse cerca de ella y sea muy tarde para poder regresar o que tenga que estar mas temprano, pueda tener una opcion para quedarse.
+    </td>
+    <td colspan="1" valign="top">Ofrece reservas de hoteles por horas, lo que brinda flexibilidad a los viajeros que necesitan un lugar para descansar durante un corto período de tiempo
+    </td>
+    <td colspan="1" valign="top">Ofrece a los usuarios la posibilidad de reservar habitaciones de hotel durante el día en lugar de durante la noche completa.
+    </td>
+    <td colspan="1" valign="top">Se especializa en proporcionar opciones de alojamiento diurno a los usuarios. A través de su sitio web, ofrece la posibilidad de reservar habitaciones de hotel por unas horas durante el día.
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Ventaja competitiva</td>
+    <td colspan="1" valign="top">Ofrece a los estudiantes la posibilidad de reservar una habitacion por horas o por dia en un lugar comodo cerca a su centro de estudios siendo asi una buena opcion en el caso tenga que quedarse hasta tarde o tenga una reunion temprano</td>
+    <td colspan="1" valign="top">Ofrece a los clientes la posibilidad de reservar habitaciones de hotel por horas en lugar de noches completas, lo que se adapta a las necesidades de quienes buscan descanso durante intervalos más cortos</td>
+    <td colspan="1" valign="top">Brindar a los clientes un espacio cómodo y privado durante el día. Esto satisface una necesidad que no siempre es cubierta por los modelos de reserva tradicionales, ofreciendo a los usuarios la oportunidad de aprovechar al máximo su tiempo durante sus estancias diurnas.</td>
+    <td colspan="1" valign="top"> Ofrece a los usuarios un valor agregado al permitirles acceder a habitaciones de hotel para descansar, trabajar o relajarse durante horas específicas, en lugar de reservar una noche completa. Esto brinda flexibilidad y comodidad a una variedad de situaciones.
+    </td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="2"><p>Perfil de Marketing</p></td>
+    <td colspan="2">Mercado objetivo</td>
+    <td colspan="1" valign="top">Universitarios quienes vivan lejos de su centro universitario y requieran llegar temprano o salgan muy tarde de su centro de estudios</td>
+    <td colspan="1" valign="top">Viajeros, Universitarios, parejas en busca de unas horas de privacidad, y cualquier persona que necesite un lugar para descansar durante unas horas.</td>
+    <td colspan="1" valign="top">Viajeros en tránsito que necesitan un espacio de descanso durante sus escalas, profesionales en busca de ambientes tranquilos y cómodos para trabajar o sostener reuniones cortas, parejas que anhelan momentos de privacidad y relajación durante el día, y aquellas personas que desean escapar de la rutina y relajarse en entornos distintos a su hogar.</td>
+    <td colspan="1" valign="top">Satisface una variedad de necesidades al dirigirse a viajeros en tránsito que requieren un lugar de descanso entre vuelos o viajes, profesionales en búsqueda de un espacio tranquilo y privado para trabajar o sostener reuniones, parejas que anhelan momentos de intimidad y relajación diurna, y aquellos individuos que buscan escapar de la rutina cotidiana y experimentar un entorno diferente durante el día.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Estrategias de marketing</td>
+    <td colspan="1" valign="top">Promocion en las universidades cercanas, asi como en sus redes sociales o eventos del mismo</td>
+    <td colspan="1" valign="top">Segmentación Precisa, Promoción de Experiencias Exclusivas, Socios Estratégicos</td>
+    <td colspan="1" valign="top">Enfoque en Productividad, Experiencias de Bienestar, Eventos y Celebraciones.</td>
+    <td colspan="1" valign="top">Enfoque en Sostenibilidad, Reservas de Último Minuto, Experiencias Gastronómicas.</td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="3"><p>Perfil de Producto</p></td>
+    <td colspan="2">Productos & Servicios</td>
+    <td colspan="1" valign="top">Reserva de habitaciones por hora o por noche, con servicios adicionales que un universitario requiera como Wifi, etc. </td>
+    <td colspan="1" valign="top">Reservas de habitaciones de hotel por horas y cuenta con hoteles asociados.</td>
+    <td colspan="1" valign="top">Reservas de habitaciones de hotel durante el día, generalmente en horarios diurnos, espacios cómodos y privados para descansar, trabajar o relajarse y una diversa asociacion con hospedajes en varias ubicaciones.</td>
+    <td colspan="1" valign="top">Reservas de habitaciones de hotel por horas durante el día, brindando espacios cómodos y privados que se adaptan a diversas necesidades. Además, proporciona la opción de acceder a servicios adicionales en ciertos hoteles, como instalaciones de spa o áreas de trabajo, para enriquecer la experiencia del usuario.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Precios y Costos</td>
+    <td colspan="1" valign="top">Los precios varían según el propietario de la habitacion y el período de tiempo reservado.</td>
+    <td colspan="1" valign="top">Los precios varían según el hotel y el período de tiempo reservado.</td>
+    <td colspan="1" valign="top">Los precios varían según la ubicación del hotel, la duración de la estancia y las comodidades ofrecidas.</td>
+    <td colspan="1" valign="top">Los precios pueden variar según la ubicación, la duración de la estancia y las comodidades ofrecidas por cada hotel.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Canales de distribución</td>
+    <td colspan="1" valign="top">Cuenta con una aplicación web</td>
+    <td colspan="1" valign="top">Cuenta con una aplicación Web y con una aplicación Móvil</td>
+    <td colspan="1" valign="top">Cuenta con una aplicación Web y con una aplicación Móvil</td>
+    <td colspan="1" valign="top">Cuenta con una aplicación Web y con una aplicación Móvil</td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="5"><p>Análisis SWOT</p></td>
+    
+  </tr>
+  <tr>
+    <td colspan="2">Fortalezas</td>
+    <td colspan="1" valign="top">Flexibilidad de reserva, diversidad de opciones, puntos core para un universitario</td>
+    <td colspan="1" valign="top">Flexibilidad de Reserva, Diversidad de Opciones, Personalización. </td>
+    <td colspan="1" valign="top">Opciones en Horarios diurnos, Diversas de Opciones de hoyeles y Atención a Segmentos Objetivos amplios</td>
+    <td colspan="1" valign="top">Satisface Necesidades Particulare, Amplia Variedad de Elección, Enfocado en la Privacidad.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Debilidades</td>
+    <td colspan="1" valign="top">Alta demanda en zonas universitarias, falta de experiencia dentro de la habitacion</td>
+    <td colspan="1" valign="top">Limitación de Disponibilidad, No se percibe la experiencia completa del hospedaje, No es demandante para reservas largas</td>
+    <td colspan="1" valign="top">Disponibilidad limitada, Perdidad de valor del negocio y Concienciación del Concepto</td>
+    <td colspan="1" valign="top">Disponibilidad que Puede Cambiar, Cómo se Valora el Servicio, Educar sobre su Uso</td>
+  </tr>
+  <tr>
+    <td colspan="2">Oportunidades</td>
+    <td colspan="1" valign="top">Ampliar la vision del mercado objetivo y poder competir con lineas similares ademas de la que nos enfocamos actualmente</td>
+    <td colspan="1" valign="top">Ampliar la vision del Mercado, Colaboracion con servicios que esten en su ecosistema, Aumentar las ciudades donde ofrezca su servicio</td>
+    <td colspan="1" valign="top">Expansión a Nivel Global, Alianzas Estratégicas y Diversificación de Ofertas</td>
+    <td colspan="1" valign="top">Crecimiento a Nivel Mundial, Mejora de Servicios Adicionales, Asociaciones Estratégicas.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Amenazas</td>
+    <td colspan="1" valign="top">Competencias actuales del mercado, con mayor porcentaje de credibilidad o mejor interfaz</td>
+    <td colspan="1" valign="top">Competencias Comunes, Restricciones Locales, Camapañas que cambian el comportamiento del consumidor</td>
+    <td colspan="1" valign="top">La replica de la idea de negocio, Regulaciones y Normativas y Cambios en la Demanda por camapañas</td>
+    <td colspan="1" valign="top">Competencia en el Mercado, Regulaciones Locales, Cambios en la Demanda y en el Comportamiento de los Usuarios.</td>
+  </tr>
+</table>
+
+### 2.1.2. Estrategias y tácticas frente a competidores
+
+Una interfaz de usuario intuitiva y fácil de usar puede ser una importante ventaja competitiva. Además, de brindar una experiencia de usuario atractiva y amigable con un diseño minimalista y amigable, navegación intuitiva y opciones de personalización que satisfagan las preferencias del usuario. 
+
+Por otro lado, también proporcionar funciones avanzadas de filtros y búsquedas, y añadir más políticas para la privacidad y seguridad de los estudiantes como exigir que se implementen o cumplan ciertos requisitos, pasar un proceso de aprobación para saber qué espacio está apto y cuáles no e implementar un sistema de calificaciones de los estudiantes para recomendar habitaciones de acuerdo a estos datos. 
+
+Además, dado que nuestra aplicación está dirigido a jóvenes que en su mayoría tienden a ser estudiantes de educación superior, se pueden desarrollar estrategias específicas para incentivar a hacer uso de los espacios como ofrecer descuentos en épocas de exámenes parciales o finales, sortear horas sin costo y entre otras promociones y servicios. 
+
+## 2.2. Entrevistas
+
+### 2.2.1. Diseño de entrevistas
+
+**Segmento 1: Estudiantes universitarios**
+
+- ¿Cuál es tu nombre completo? 
+- ¿Cuál es tu edad? 
+- ¿En qué distrito vives?  
+- ¿Cómo describirías tu personalidad? 
+- ¿Qué dispositivos usas con más frecuencia? 
+- ¿Qué marcas son tus favoritas? 
+- ¿Cuáles son los canales digitales o redes sociales que más utilizas? 
+- ¿Qué habilidades tienes? 
+- ¿En qué universidad estudias?  
+- ¿En qué distrito queda tu universidad? 
+- ¿Sueles estudiar en la mañana, tarde o noche?
+- ¿Cuánto tiempo en promedio tardas en llegar desde tu casa a tu universidad? 
+- ¿Cuáles son los desafíos a los que te enfrentas cuando vas de tu casa a tu universidad?  
+- ¿Cómo te hace sentir eso? 
+- ¿Qué opinas acerca de alquilar habitaciones cerca del campus en situaciones urgentes? 
+- ¿Estarías dispuesto(a) a utilizar una aplicación con esas características? 
+- ¿Qué tipo de información te gustaría encontrar en esta app? 
+- ¿Con cuánta anticipación te gustaría poder reservar una habitación? 
+- ¿Qué medidas de seguridad consideras que pueden ser importantes para que confíes en esta app? 
+- ¿Te sentirías cómodo(a) compartiendo tu ubicación para encontrar habitaciones cercanas o preferirías realizar la búsqueda de otra manera? 
+- ¿Qué métodos de pago te gustaría tener en la app? 
+¿Qué otras características debería tener esta app para facilitarte la búsqueda de habitaciones? 
+¿Tienes alguna otra sugerencia que podamos incluir en esta app para mejorar tu experiencia como usuario? 
+
+**Segmento 2: Arrendadores**
+
+- ¿Cuál es su nombre completo? 
+- ¿En qué distrito vive?  
+- ¿Cuál es su estado civil? 
+- ¿Cuál es su profesión o a qué se dedica? 
+- ¿Cómo describiría su personalidad? 
+- ¿Qué dispositivos usa con más frecuencia? 
+- ¿Qué marcas son sus favoritas? 
+- ¿Cuáles son los canales digitales o redes sociales que más utiliza? 
+- ¿Qué habilidades tiene? 
+- ¿En qué distrito alquila habitaciones para estudiantes? 
+- ¿Estaría dispuesto(a) a usar una aplicación para alquilar una habitación a un estudiante por pocos días o unas horas?  
+- ¿Qué información le gustaría compartir sobre la habitación que arrienda, de modo que sea llamativa para los estudiantes? 
+- ¿Cómo preferiría establecer sus precios de alquiler? ¿Por horas o días 
+- ¿Qué métodos de pago serían más convenientes para usted? 
+- ¿Qué características debe tener esta aplicación para que pueda comunicarse con los estudiantes y gestionar sus reservas de manera eficiente? 
+- ¿Con cuánta anticipación considera que se debería reservar una habitación? 
+- ¿Qué servicios estaría dispuesto a brindar a los estudiantes?  
+- ¿Qué medidas de seguridad considera que son importantes para que usted confíe en esta aplicación? 
+- ¿Tiene alguna otra sugerencia que podamos incluir en esta aplicación para mejorar su experiencia como arrendador? 
+
+
+### 2.2.2. Registro de entrevistas
+
+En esta sección se presenta la información recolectada en las entrevistas realizadas a los usuarios de los segmentos objetivo. 
+
+
+**Segmento 1: Estudiantes universitarios**
+
+- **Entrevista 1**
+
+<table border=1>
+  <tr>
+    <td>
+      <b>Nombres y apellidos:</b> Lorena Sophia Castro Nuñez <br>
+      <b>Edad:</b> 19 años <br>
+      <b>Distrito:</b> Los Olivos <br>
+      <b>Timing:</b> 00:04 - 08:56 <br>
+      <b>Duración:</b> 8:52 minutos 
+    </td>
+    <td align=center>
+      <img src="https://media.discordapp.net/attachments/1149328487358930944/1149335875214389308/image.png" alt="img"  width="80%"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2>
+      <b>Enlace:</b> <a>https://upcedupe.sharepoint.com/:v:/s/APLICACIONESOPENSOURCE850/EUwKjCeVpmBJrHiSvrAX1TMBeU9W77Ml0ZYInd5_sEesGQ?e=Epv5HE</a>
+      <br>
+      <b>Resumen:</b> Lorena Sophia es una estudiante de la carrera de Diseño Profesional Gráfico de la Universidad Peruana de Ciencias Aplicadas, Sede San Miguel. Se considera una persona optimista, empática y amigable. Una de sus habilidades es resolver problemas de manera creativa y es buena comunicadora. Suele utilizar su laptop con frecuencia y su marca favorita es Apple. En la entrevista, Sophia comenta que pierde mucho tiempo movilizándose a la universidad y, como estudia en el horario tarde-noche se siente insegura cuando va en el transporte público. A ella le gustaría utilizar una aplicación para arrendar habitaciones cerca del campus siempre y cuando esta le brinde información confiable sobre los servicios disponibles, ubicación y servicios de cada lugar. Además, le gustaría poder reservar y cancelar reservaciones con facilidad. Algunos servicios adicionales que considera que podrían brindar los arrendadores son: servicio de lavandería y movilidad.  
+    </td>
+  </tr>
+</table>
+
+<br>
+
+- **Entrevista 2**
+
+<table border=1>
+  <tr>
+    <td>
+      <b>Nombres y apellidos:</b> Julmer Caleb Alcocer Cachay <br>
+      <b>Edad:</b> 18 años <br>
+      <b>Distrito:</b> Ventanilla  <br>
+      <b>Timing:</b> 08:57 - 16:14 <br>
+      <b>Duración:</b> 7:18 minutos
+    </td>
+    <td align=center>
+      <img src="https://media.discordapp.net/attachments/1149328487358930944/1149338813458554890/image.png" alt="img"  width="80%"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2>
+    <b>Enlace:</b> <a>https://upcedupe.sharepoint.com/:v:/s/APLICACIONESOPENSOURCE850/EUwKjCeVpmBJrHiSvrAX1TMBeU9W77Ml0ZYInd5_sEesGQ?e=Epv5HE</a>
+      <br>
+      <b>Resumen:</b> Julmer es un estudiante de Ingeniería de Sistemas de la Universidad Peruana de Ciencias Aplicadas, sede San Miguel. Se considera una persona entusiasta a la que le gusta trabajar en equipo y que tiene habilidades blandas (comunicación). Suele utilizar su computadora y celular con frecuencia y una de sus marcas preferidas es Sony. Se comunica por Instagram y Whatsapp. En la entrevista, Julmer comenta que uno de sus problemas al movilizarse hacia la universidad es el tráfico, ya que pasar horas en el transporte público desorganiza su tiempo, por eso consideraría utilizar una aplicación para arrendar una habitación cerca al campus. Algo que le gustaría encontrar en la aplicación es información precisa sobre las habitaciones para estudiantes (precios, disponibilidad, comentarios, etc.) y un apartado para poder reservarlas con al menos un día de anticipación. Por último, como usuario le gustaría que la aplicación sea fácil de usar y que le brinde seguridad. 
+    </td>
+  </tr>
+</table>
+
+<br>
+
+- **Entrevista 3**
+
+<table border=1>
+  <tr>
+    <td>
+      <b>Nombres y apellidos:</b> Aldo Mendoza Canchari <br>
+      <b>Edad:</b> 20 años <br>
+      <b>Distrito:</b> San Juan de Lurigancho <br>
+      <b>Timing:</b> 16:15 - 25:29 <br>
+      <b>Duración:</b> 9:14 minutos
+    </td>
+    <td align=center>
+      <img src="https://media.discordapp.net/attachments/1149328487358930944/1149338864197050368/image.png" alt="img"  width="80%"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2>
+        <b>Enlace:</b> <a>https://upcedupe.sharepoint.com/:v:/s/APLICACIONESOPENSOURCE850/EUwKjCeVpmBJrHiSvrAX1TMBeU9W77Ml0ZYInd5_sEesGQ?e=Epv5HE</a>
+      <br>
+      <b>Resumen:</b> Aldo es un estudiante de la carrera de Odontología de la Universidad Nacional Federico Villarreal en Pueblo Libre. Se considera una persona tranquila y conversadora, cuya habilidad más resaltante es bailar. Los dispositivos que usa con más frecuencia son su laptop y celular. Sus marcas favoritas son HP y Samsung. Sus canales principales de comunicación son Whatsapp y Facebook, los cuales usa para comunicarse con sus compañeros de la universidad. Aldo comenta que tarda un promedio de dos horas en movilizarse desde su casa a la universidad y sus principales desafíos son el tráfico y la delincuencia, en especial durante la noche, lo cual le hace sentir agobiado. Por esta razón, estaría dispuesto a usar una aplicación que le ayude a encontrar habitaciones cerca del campus. Él sugiere que la búsqueda se realice ingresando la dirección de la universidad y no necesariamente requiera que se comparta su ubicación. Le gustaría que la app contenga información detallada de las habitaciones y poder visualizarlas en un mapa. También considera útil tener un chat de voz o videollamada con el arrendador para tener una comunicación más fluida. 
+    </td>
+  </tr>
+</table>
+
+<br>
+
+- **Entrevista 4**
+
+<table border=1>
+  <tr>
+    <td>
+      <b>Nombres y apellidos:</b> Quique Vladimir Jara Benites <br>
+      <b>Edad:</b> 20 años <br>
+      <b>Distrito:</b> Lurín <br>
+      <b>Timing:</b> 25:30 - 33:02<br>
+      <b>Duración:</b> 7:32 minutos
+    </td>
+    <td align=center>
+      <img src="https://media.discordapp.net/attachments/1149328487358930944/1149412123491958936/image.png" alt="img"  width="80%"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2>
+    <b>Enlace:</b> <a>https://upcedupe.sharepoint.com/:v:/s/APLICACIONESOPENSOURCE850/EUwKjCeVpmBJrHiSvrAX1TMBeU9W77Ml0ZYInd5_sEesGQ?e=Epv5HE</a>
+      <br>
+      <b>Resumen:</b> Vladimir estudia la carrera de Ingeniería de Software en la UPC, se considera una persona ambivertida y los dispositivos que más usa es su laptop, teléfono y tableta. Con respecto a sus marcas favoritas, son Lenovo y Samsung. Vladimir comenta que vive en Lurín y tarda aproximadamente 2 horas en movilizarse desde su casa a su universidad que se encuentre en Santiago de Surco, su principal preocupación es salir temprano para llegar a tiempo a sus clases y estar al pendiente del tráfico, a la vuelta también se tarda otras 2 horas, por lo que comenta que son 4 horas en total en las que pierde solo en movilizarse y le gustaría aprovechar ese tiempo en estudiar o sus pasatiempos. Es por ello que estaría dispuesto a usar la aplicación para encontrar alguna habitación para poder estar ahí por un semestre o solo semanas o días para que le facilite en su movilidad a su campus universitario.  Vladimir comenta que sería útil incluir un chat, sistema de calificaciones y que las habitaciones sean seguras para que pueda pasar su estadía con tranquilidad.   
+    </td>
+  </tr>
+</table>
+
+<br>
+
+**Segmento 2: Arrendadores**
+
+- **Entrevista 1**
+
+<table border=1>
+  <tr>
+    <td>
+      <b>Nombres y apellidos:</b> Kiriam Firan <br>
+      <b>Edad:</b> 30 años <br>
+      <b>Distrito:</b> Pueblo Libre <br>
+      <b>Timing:</b>33:09 - 41:42 <br>
+      <b>Duración:</b> 8:33 minutos
+    </td>
+    <td align=center>
+      <img src="https://media.discordapp.net/attachments/1149328487358930944/1149383934195535872/image.png?width=1044&height=582"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2>
+        <b>Enlace:</b> <a>https://upcedupe.sharepoint.com/:v:/s/APLICACIONESOPENSOURCE850/EUwKjCeVpmBJrHiSvrAX1TMBeU9W77Ml0ZYInd5_sEesGQ?e=Epv5HE</a>
+      <br>
+      <b>Resumen:</b> Kiriam es un arrendador de Pueblo Libre. Se dedica a la ingeniería de sistemas y también al alquiler de habitaciones a estudiantes. Se considera como una persona amable y carismática. Sus dispositivos fundamentales son la laptop y el celular. Sus marcas favoritas son Apple y ASUS. Las redes sociales que usa más son Twitter (X), Whatsapp y Facebook. Sus habilidades son la comunicación y lógica. En la entrevista menciona que una aplicación para hacer arrendamientos a corto plazo podría ser conveniente para él y para los estudiantes. Le gustaría promocionar las habitaciones que arrienda con imágenes en la app para que los estudiantes vean los servicios que ofrece. A su parecer, sería más conveniente establecer los precios de las habitaciones por días y recibir los pagos por depósito, efectivo o transferencia. Considera útil tener un historia o forma de controlar los arrendamientos que realiza. Algo que valora en la app es la confidencialidad para asegurar que no se filtren sus datos o transacciones.
+    </td>
+  </tr>
+</table>
+
+<br>
+
+- **Entrevista 2**
+
+<table border=1>
+  <tr>
+    <td>
+      <b>Nombres y apellidos:</b> Haydee Fitzcarrald <br>
+      <b>Edad:</b> 56 años <br>
+      <b>Distrito:</b> Los Olivos <br>
+      <b>Timing:</b> 41:43 - 46:22 <br>
+      <b>Duración:</b> 4:39 minutos
+    </td>
+    <td align=center>
+      <img src="https://media.discordapp.net/attachments/1149328487358930944/1149384581645082716/image.png?width=1040&height=582"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2>
+        <b>Enlace:</b> <a>https://upcedupe.sharepoint.com/:v:/s/APLICACIONESOPENSOURCE850/EUwKjCeVpmBJrHiSvrAX1TMBeU9W77Ml0ZYInd5_sEesGQ?e=Epv5HE</a>
+      <br>
+      <b>Resumen:</b> Haydee es una arrendadora que vive y alquila habitaciones en el distrito de Los Olivos. Se dedica a la venta en una tienda y a hacer alquileres. El dispositivo que más utiliza en su día a día es su celular y su marca preferida es Apple. La red social que más usa es Facebook. Una de sus habilidades principales son las manualidades. Ella comenta en la entrevista que no haría contratos a corto plazo debido a la inseguridad, así que prefiere alquilar sus habitaciones por seis meses. También comenta que no suele publicar fotografías de las habitaciones que arrienda, sino que prefiere agendar citas con sus posibles inquilinos. Le gustaría establecer sus precios de alquiler de manera mensual y los métodos de pago que quisiera tener en la aplicación son transferencias. Considera útil tener un chat para comunicarse con los estudiantes y brindaría los servicios básicos de internet y cable.
+    </td>
+  </tr>
+</table>
+
+<br>
+
+- **Entrevista 3**
+
+<table border=1>
+  <tr>
+    <td>
+      <b>Nombres y apellidos:</b> Mireile Molina <br>
+      <b>Edad:</b> 50 años <br>
+      <b>Distrito:</b> Comas <br>
+      <b>Timing:</b> 46:23 - 54:24 <br>
+      <b>Duración:</b> 8:01 minutos
+    </td>
+    <td align=center>
+      <img src="https://media.discordapp.net/attachments/1149328487358930944/1149384979973939291/image.png?width=1040&height=582"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2>
+        <b>Enlace:</b> <a>https://upcedupe.sharepoint.com/:v:/s/APLICACIONESOPENSOURCE850/EUwKjCeVpmBJrHiSvrAX1TMBeU9W77Ml0ZYInd5_sEesGQ?e=Epv5HE</a>
+      <br>
+      <b>Resumen:</b> Mireile es una arrendadora que vive en el distrito de Comas y arrienda habitaciones en ese lugar. Se considera como una persona alegre, activa y de buen carácter. Suele utilizar con frecuencia su celular y su marca favorita es Samsung. La red social que más usa es Whatsapp y también utiliza el correo electrónico. Ella comenta que estaría dispuesta a arrendar habitaciones a estudiantes por algunos días y le gustaría poder compartir fotografías y descripciones de los servicios que brinda. Considera que la aplicación debe permitir a los estudiantes visualizar las habitaciones más cerca de sus universidades y los servicios que les brindaría, además del alojamiento, son internet y servicio de alimentos. Considera indispensable que se valide la identidad de los usuarios para garantizar la seguridad de los estudiantes y arrendadores.
+    </td>
+  </tr>
+</table>
+
+### 2.2.3. Análisis de entrevistas
+
+**Segmento 1: Estudiantes universitarios**
+
+De acuerdo a las entrevistas realizadas, los estudiantes se describen como jóvenes optimistas, conversadores y con habilidades blandas. Todos ellos comentan que utilizan el celular con frecuencia, siendo la Laptop o Computadora el segundo dispositivo más usado. 
+
+<table border=1>
+  <tr>
+    <td align=center>
+      <img src="https://media.discordapp.net/attachments/1149328487358930944/1149386335333916833/image.png"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2 style="text-align:center">
+      <b> Fuente: </b> Elaboración propia
+  </tr>
+</table>
+
+Por otra parte, el 50% de ellos mencionó que su marca favorita es Samsung. 
+
+<table border=1>
+  <tr>
+    <td align=center>
+      <img src="https://media.discordapp.net/attachments/1149328487358930944/1149386471539757126/image.png"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2 style="text-align:center">
+      <b> Fuente: </b> Elaboración propia
+  </tr>
+</table>
+
+Al preguntarles si utilizarían una aplicación para buscar y alquilar habitaciones cerca de sus universidades, el 100% de los estudiantes respondió que sí. 
+
+<table border=1>
+  <tr>
+    <td align=center>
+      <img src="https://media.discordapp.net/attachments/1149328487358930944/1149386583431188490/image.png"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2 style="text-align:center">
+      <b> Fuente: </b> Elaboración propia
+  </tr>
+</table>
+
+Asimismo, algunas de las características que más valorarían en esta aplicación son: que garantice privacidad y seguridad, que sea fácil de usar y que brinde información suficiente y confiable sobre las habitaciones disponibles.
+
+**Segmento 2: Arrendadores**
+
+En el segmento de arrendadores encontramos usuarios con características más heterogéneas y con diferentes edades. El dispositivo más usado entre estos usuarios es el celular y solo uno de ellos usa la computadora con frecuencia. 
+
+<table border=1>
+  <tr>
+    <td align=center>
+      <img src="https://media.discordapp.net/attachments/1149328487358930944/1149386690780213328/image.png"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2 style="text-align:center">
+      <b> Fuente: </b> Elaboración propia
+  </tr>
+</table>
+
+En este grupo, la marca favorita es Apple y solo un usuario reportó usar la marca Samsung. 
+
+<table border=1>
+  <tr>
+    <td align=center>
+      <img src="https://media.discordapp.net/attachments/1149328487358930944/1149386712653516990/image.png"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2 style="text-align:center">
+      <b> Fuente: </b> Elaboración propia
+  </tr>
+</table>
+
+Respecto a la modalidad de arrendamiento, dos de los usuarios mencionaron que les gustaría arrendar habitaciones por algunos días. Solo uno consideró conveniente realizar contratos por horas, mientras que otro usuario solo estaría dispuesto a arrendar por meses. 
+
+<table border=1>
+  <tr>
+    <td align=center>
+      <img src="https://media.discordapp.net/attachments/1149328487358930944/1149386738331041895/image.png"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2 style="text-align:center">
+      <b> Fuente: </b> Elaboración propia
+  </tr>
+</table>
+
+Los usuarios de este segmento manifestaron que una aplicación para arrendar sus habitaciones debe garantizarles seguridad y tener funciones que les permitan gestionar los arrendamientos y comunicarse con los estudiantes. 
+
+## 2.3. Needfinding
+
+La información recolectada en base a las experiencias, opiniones y necesidades de usuarios sobre el tema que estamos abordando, fue realizada a través de entrevistas. Esta información la vamos a clasificar en las secciones internas para User Personas, User Task Matrix, User Journey Maps, Empathy Mapping y As-Is Scenario Mapping. 
+
+### 2.3.1. User Personas
+
+En esta seccion presentaremos las fichas de los User Personas, las cuales nos ayudaran a comprender mejor las necesidades de nuestros usuarios, y como nuestro producto podría impactar directamente para satisfacerlas. 
+
+**Segmento 1: Estudiantes universitarios**
+
+Diana como User Persona pertenece al segmento objetivo de estudiantes universitarios que busca un alquiler temporal ya que ella termina sus clases muy tarde en la universidad y necesita un lugar donde quedarse por unas horas para evitar exponerse. 
+
+<img src="https://media.discordapp.net/attachments/1149328487358930944/1149401776525676564/user_persona_estudiante.png?width=496&height=582"/>
+
+**Segmento 2: Arrendadores**
+
+Maricarmen como User Persona pertenece al segmento objetivo de arrendadores que busca aprovechar el mercado estudiantil para obtener ingresos adicionales y dispone de algunas habitaciones seguras para alquilar por algunas horas a estudiantes. 
+
+<img src="https://media.discordapp.net/attachments/1149328487358930944/1149401984491847680/user_persona_arrendador.png?width=507&height=582"/>
+
+### 2.3.2. User Task Matrix
+
+En esta sección se detallarán las tareas que cada uno de nuestros segmentos objetivos deben realizar para cumplir sus objetivos. 
+
+**Segmento Objetivo: Estudiantes universitarios**
+
+User Persona: Diana 
+
+| Tarea                                                              |  Frecuencia  | Severidad |
+| :----------------------------------------------------------------- | :----------: | :--------: |
+| Explorar opciones de alojamiento temporal                          |     Alta     |    Alta   |
+| Investigar ubicaciones cercanas al campus                          |     Alta     |    Alta   |
+| Evaluar la disponibilidad del alojamiento                          |     Alta     |    Alta   |
+| Comparar opciones considerando precio, comodidad y ubicación       |     Alta     |    Alta   |
+| Planificar los horarios de estancia                                |    Media     |    Alta   |
+| Evaluar la seguridad del área                                      |     Alta     |    Alta   |
+| Investigar las políticas del check-in y check-out                  |     Baja     |    Baja   |
+| Consultar con compañeros sobre recomendaciones del lugar           |    Media     |    Alta   |
+| Investigar sobre opciones de transporte cercanas                   |    Media     |   Media   |
+| Evaluar opciones de alimentos cercanos                             |    Media     |   Media   |
+| Evaluar y considerar políticas de reembolso en caso de cancelación |     Baja     |    Baja   |
+
+
+**Segmento Objetivo: Arrendadores**
+
+User Persona: Maricarmen 
+
+| Tarea                                                  |  Frecuencia  | Severidad |
+| :----------------------------------------------------- | :----------: | :--------: |
+| Evaluar la concurrencia de estudiantes por la zona     |     Alta     |    Alta   |
+| Preparar y acondicionar las habitaciones               |     Alta     |    Alta   |
+| Establecer condiciones de alquiler                     |     Alta     |    Alta   |
+| Planificar y establecer los protocolos de check-in     |     Alta     |    Alta   |
+| Decidir los métodos de pago aceptados                  |    Media     |   Media   |
+| Establecer políticas de cancelación                    |    Media     |   Media   |
+| Diseñar forma de comunicación con inquilino            |     Baja     |    Baja   |
+| Calcular gatos asociados (servicios, limpieza, etc.)   |     Alta     |    Alta   |
+| Preparar descripción detalladas en las habitaciones    |     Alta     |    Alta   |
+| Fotografiar las habitación y espacios comunes          |     Alta     |    Alta   |
+| Considerar opciones de publicidad o promoción          |     Baja     |    Baja   |
+| Definir horarios de disponibilidad                     |    Media     |   Media   |
+
+La comunicación con inquilinos y la seguridad son prioritarias, buscando brindar una experiencia de alojamiento positiva. Ambos grupos comparten la importancia de la comunicación efectiva y la disponibilidad de habitaciones. Las diferencias residen en las perspectivas únicas, como la seguridad para los estudiantes y la promoción para arrendadores. Las coincidencias destacan áreas comunes, como la planificación de horarios y la transparencia en la información, que unen a estudiantes y arrendadores en la búsqueda de una experiencia de alojamiento exitosa. 
+
+### 2.3.3. User Journey Mapping
+
+**Segmento Objetivo: Estudiantes universitarios**
+
+<img src="https://media.discordapp.net/attachments/1149328487358930944/1149400880018370600/ujm_estudiante.png?width=898&height=582"/>
+
+**Segmento Objetivo: Arrendadores**
+
+<img src="https://media.discordapp.net/attachments/1149328487358930944/1149401214908366949/ujm_arrendador.png?width=873&height=582"/>
+
+### 2.3.4. Empathy Mapping
+
+**Segmento Objetivo: Estudiantes universitarios**
+
+<img src="https://media.discordapp.net/attachments/1149328487358930944/1149399896894484500/em_arrendador.png?width=1036&height=582"/>
+
+**Segmento Objetivo: Arrendadores**
+
+<img src="https://media.discordapp.net/attachments/1149328487358930944/1149399896626057317/em.png?width=1023&height=582"/>
+
+### 2.3.5. As-is Scenario Mapping
+
+A continuación se muestran los As-Is Scenario Mapping, que contienen los flujos de actividades que realizan los usuarios de cada segmento en el contexto actual, sin hacer uso de nuestra solución.
+
+Enlace: https://miro.com/app/board/uXjVMo__Pr0=/?share_link_id=613705330124  
+
+**Segmento Objetivo: Estudiantes universitarios**
+
+<img src="https://media.discordapp.net/attachments/1149328487358930944/1149391355563487232/image.png?width=943&height=582"/>
+
+**Segmento Objetivo: Arrendadores**
+
+<img src="https://media.discordapp.net/attachments/1149328487358930944/1149392534611705986/image.png?width=1185&height=513"/>
+
+<br>
+
+
+
