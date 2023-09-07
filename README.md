@@ -880,5 +880,63 @@ Enlace: https://miro.com/app/board/uXjVMo__Pr0=/?share_link_id=613705330124
 
 <br>
 
+# Capítulo III: Requirements Specification
+## To-Be Scenario Mapping
+### User Persona: Diana (Estudiante)
+---
+|PHASES|**Búsqueda** de alojamiento cercano|**Comunicación** con arrendadores|**Retorno** a su vivienda|
+|--|--|--|--|
+|**DOING**|<ul><li>Estudiante abre la aplicación de búsqueda</li><li>Ingresa criterios de búsqueda</li><li>explora las opciones disponibles y realiza búsquedas en tiempo real</li></ul>|<ul><li>Interacción con los propietarios u otros estudiantes</li><li>Recibe preguntas y respuestas sobre la disponibilidad, precios o reglamentos de manera más rápida y precisa</li></ul>|<ul><li>Dejar comentarios y calificaciones sobre las habitaciones</li><li>Evaluación de la competencia</li><li>Satisfacción con la aplicación</li></ul>|
+|**THINKING**|<ul><li>Evaluación y análisis de cuán adecuados son los criterios de búsqueda y que tan beneficiosos</li><li>Comparación de precios, ubicación, comodidades, etc.</li></ul>|<ul><li>Resolución de dudas o problemas</li><li>Aclaración de requisitos con mayor eficiencia</li><li>Mejor comunicacion fluida y rápida </li></ul>|<ul><li>Reflexión sobre la elección de habitaciones</li><li>Decisión final sobre la reserva</li></ul>|
+|**FEELING**|<ul><li>Siente emoción, satisfacción o preocupación durante la búsqueda</li><li>Nerviosismo y buenas expectativas durante la etapa reserva</li></ul>|<ul><li>Siente confianza y seguridad en la transacción</li></ul>|<ul><li>Sentimiento final sobre la experiencia de reserva</li></ul>|
+---
+### User Persona: Maricarmen (Arrendadora)
+---
+|**PHASES**|Publicacion de la habitacion|Revisión de solicitudes|Arrendamiento de la habitación|Finalización del contrato|
+|--|--|--|--|--|
+|**DOING**|<ul><li>Preparar y organizar la informacion de la habitacion para la publicación</li><li>Tomar fotos de la habitacion y describir sus caracteristicas</li></ul>|<ul><li>Revisión de solicitudes de arrendatarios</li><li>Selección de estudiantes adecuados</li><li>Comunicación con estudiantes para más detalles</li></ul>|<ul><li>Negociación de términos y condiciones con los estudiantes potenciales</li><li>Firma de contrato de arrendamiento con los estudiantes</li></ul>|<ul><li>Proceso de finalización de contrato y acuerdos de arrendamiento según lo establecido en las politicas y regulaciones pertinentes</li><li>Coordinación de la entrega de llaves y la inspección de la habitación</li><li>Preparación de la habitación</li></ul>|
+|**THINKING**|<ul><li>Pensar en una estrategia de fijación de precio y revisar políticas de alquiler</li><li>Planificación de marketing y promoción de la habitación</li></ul>|<ul><li>Evaluación de solicitudes y selección de estudiantes</li><li>Comunicación efectiva con estudiantes potenciales</li></ul>|<ul><li>Definición de términos finales y acuerdo de arrendamiento</li><li>Organización de la mudanza y entrega de las llaves</li></ul>|<ul><li>Reflexión sobre la experiencia de alquiler</li><li>Mejoras y ajustes para futuros alquileres</li></ul>|
+|**FEELING**|<ul><li>Confianza en la estrategia de alquiler y precios</li><li>Reacción a la interacción con los estudiantes</li></ul>|<ul><li>Satisfacción con las decisiones y selecciones de estudiantes</li></ul>|<ul><li>Satisfacción con el proceso de arrendamiento</li><li>Feedback de los estudiantes</li></ul>|<ul><li>Evaluación de la experiencia de alquiler</li><li>Comentarios y calificaciones sobre la experiencia</li></ul>|
 
+## User Stories.
+### Usuarios en general
+![foto](https://drive.google.com/uc?export=view&id=1sIqZRjtpTFsJBNyvH0nrgXWcoPHE7dsx)
+![foto](https://drive.google.com/uc?export=view&id=1T5_3Fx2cX2YrsKY3R_pumgHNJw9Hjvoi)
+![foto](https://drive.google.com/uc?export=view&id=1oCFpxAGYDF0whz1VxVhitJE-K5LkIcHh)
+![foto](https://drive.google.com/uc?export=view&id=16qOMpcgUPwa8h0r9Ei-0EWV-hYDRGaVp)
+### Arrendatarios
+![foto](https://drive.google.com/uc?export=view&id=12DPXyO3mO5PTQC5KX_QrpHOUdkWiYqc8)
+![foto](https://drive.google.com/uc?export=view&id=1aQSzX9WqjGMGczPPn1nZ4aQ8NhexvLbM)
+![foto](https://drive.google.com/uc?export=view&id=1DwRSnGUbiqYGnKvuYFv_z3khSPShY0QM)
+![foto](https://drive.google.com/uc?export=view&id=1Dka5MRy8Dd-9E0NqpPyrO5dr9xDSkZ0x)
+### Arrendadores
+![foto](https://drive.google.com/uc?export=view&id=12W46cvTdMesv7l7IXWDElzwMEftVZ33l)
+![foto](https://drive.google.com/uc?export=view&id=1buM3kpixEqpWgbIECVQf7Dh88Fso8nTg)
+![foto](https://drive.google.com/uc?export=view&id=1C5xgRowpoTACmqy03Jm9U4mTOAejOelN)
+![foto](https://drive.google.com/uc?export=view&id=1YftviC53W2uqxU0wmaNFHRFvFsYqaepj)
 
+## Impact Mapping.
+### User Persona: Diana (Estudiante)
+|**Business goals**|**Personas**|**Impacts**|**Deliverables**|**User Stories**|
+|--|--|--|--|--|
+El 4to mes conseguiré haber logrado 32 reservas en promedio 2 veces por semana|![foto1](https://promadre.do/wp-content/uploads/2017/05/S02.jpg "persona 1")|<ul><li>Cambiar el canal tradicional de reservas por uno más automatizados</li><li>Reservar una habitación que no esté cercano a su universidad</li><li>Recomendar la aplicación a sus compañeros</li></ul>|<ul><li>Implementar formularios estandarizados, según la necesidad de los dueños</li><li>Implementar filtros para determinar la distancia en la que se encuentra la habitación a su universidad</li><li>Implementar checkboxs donde pueden seleccionar servicios adicionales</li></ul>|<ul><li>"El proceso no debería ser tan engorroso"</li><li>"Conseguir habitaciones cerca a mi universidad es difícil"</li><li>"Prefiero alquilar habitaciones, porque pueden ser más cómodos y flexibles a diferencia de un hotel"</li></ul>|
+### User Persona: Maricarmen (Arrendadora)
+|**Business goals**|**Personas**|**Impacts**|**Deliverables**|**User Stories**|
+|--|--|--|--|--|
+En el 6to mes contaremos con un promedio de reservas de 130 por mes|![foto2](https://drive.google.com/uc?export=view&id=1vloWR34V-YGQAWSu1jZR_EOC9Um2SbBx "persona 2")|<ul><li>Invertir más tiempo en la aplicación</li><li>Convertirse en una persona influyente en la variación de costos de las habitaciones por hora</li><li>Recomendar a mis conocidos que también alquilen habitaciones</li></ul>|<ul><li>Implementar un segmento blog para mostrar tendencias en la captación de estudiantes</li><li>Implementar una vista con un ranking comparativo de tarifas por hora y tarifas por dia</li><li>Añadir un sistema de recompensas</li></ul>|<ul><li>“Conseguir más estudiantes”</li><li>“Las reservas por hora son más convenientes que por día"</li><li>"Me gustaría tener un beneficio adicional si comparto la aplicación a mis conocidos</li></ul>|
+## Product Backlog.
+| **#Orden** | **User Story Id** |                                                    **Título**                                                    |                                                    **Descripción**                                                    | **Story Points** |
+|:----------:|:-----------------:|:----------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------:|:----------------:|
+|    **1**   |       US001       | Usuario se registra en la aplicación con usuario, contraseña, datos personales y correo institucional            | Como usuario quiero registrarme para poder acceder a sus funciones.                                                   |         2        |
+|    **2**   |       US002       | Usuario completa su registro con sus datos personales.                                                           | Como usuario quiero completar mi registro con mis datos personales  para poder acceder a la aplicación                |         2        |
+|    **3**   |       US003       | Usuario registrado inicia sesión con su usuario y contraseña.                                                    | Como usuario registrado quiero iniciar sesión con mi usuario y contraseña registrados para poder utilizarla.          |         2        |
+|    **4**   |       US004       | Usuario registrado desea cambiar su información personal.                                                        | Como usuario registrado, quiero cambiar mi información personal para modificar o agregar algún dato.                  |         2        |
+|    **5**   |       US005       | Como usuario quiero cerrar sesión del dispositivo en el que me encuentro                                         | Como usuario quiero cerrar sesión para salir de la plataforma                                                         |         2        |
+|    **6**   |       US006       | Arrendador registra su habitacion alquilar en la aplicación con la dirección, precio y tamaño                    | Como arrendador quiero registrar mi habitacion para poder publicarla.                                                 |         5        |
+|    **7**   |       US007       | Arrendador revisa sus reservas con la informacion de la habitacion y el estado del mismo                         | Como arrendador quiero revisar mis reservas realizadas para poder tener conocimiento de ellas                         |         3        |
+|    **8**   |       US008       | Arrendador revisa sus movimientos realizados por las reservas de sus habitaciones                                | Como arrendador quiero los movimientos que mi habitacion anteriormente ha realizado.                                  |         3        |
+|    **9**   |       US009       | Arrendador revisa sus estadisticas para ver el avance de su ingreso como demanda por la reserva de su habitacion | Como arrendador quiero revisar mis estadisticas para poder ver el avance de ingresos y demanda que tuvo mi habitacion |         5        |
+|   **10**   |       US010       | Arrendatario reserva una habitacion dentro de la aplicación.                                                     | Como arrendatario quiero reservar una habitacion a su preferencia.                                                    |         8        |
+|   **11**   |       US011       | Arrendatario agrega una habitacion a su lista de favoritos.                                                      | Como arrendatario quiero agregar una habitacion a mi lista de favoritos para en un futuro volver a reservarlo.        |         2        |
+|   **12**   |       US012       | Arrendatario revisa sus reservas activas.                                                                        | Como arrendatario quiero revisar las reservas activas para poder darle seguimiento.                                   |         2        |
+|   **13**   |       US013       | Arrendatario revisa los reservas realizadas anteriormente                                                        | Como arrendatario quiero revisar mis reservas realizadas para poder tener conocimiento de ellas                       |         3        |
