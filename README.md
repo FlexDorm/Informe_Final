@@ -1293,3 +1293,606 @@ Room: Esta clase representa las habitaciones dentro de un alojamiento que es pub
 
 Picture: Esta clase representa las imágenes asociadas a cada una de las habitaciones que tendrá disponible el arrendador.
 Notification: Esta clase representa las notificaciones que ambos usuarios pueden o no recibir en la plataforma.
+
+# Capítulo V: Product Implementation, Validation & Deployment
+
+## 5.1. Software Configuration Management
+
+### 5.1.1. Software Development Environment Configuration
+
+**Desarrollo del Landing Page:** Para el desarrollo del landing page, se decidió con el equipo usar HTML, JS y CSS (desarrollo puro) y para llevarlo a cabo se eligieron diversas herramientas tecnológicas de las cuales el equipo ya está familiarizado y tiene dominio. Estas herramientas son las siguientes:
+
+- **Visual Studio Code:** Esta herramienta es un editor de código gratuito, moderno y potente gracias a que cuenta con varias funciones y extensiones para trabajar con casi cualquier lenguaje de programación y framework. Además, esta es bastante conocida por todos los integrantes del equipo y es por dicha razón por la cual se decidió trabajar con Visual Studio Code.
+  ![VSCode](https://media.discordapp.net/attachments/1146490170917535764/1147770083377172532/image.png)
+  Para la instalación del programa, el instalador se puede obtener de su página web oficial [Visual Studio Code - Code Editing. Redefined](https://code.visualstudio.com/), una vez descargado se puede proceder con la instalación de forma rápida y fácil siguiendo las instrucciones del instalador.
+
+- **Git y GitHub:** Se decidió hacer uso de estas herramientas por la razón de que hoy en día es un estándar usar Git para el control de versiones de software y se eligió GitHub por ser la plataforma más popular y fácil de usar para crear y manejar repositorios de software, tener funciones para ver los cambios, commits, pull requests y entre otros.
+  ![GitHub](https://media.discordapp.net/attachments/1146490170917535764/1147770083633020928/image.png)
+  El enlace de descarga del instalador de GitHub Desktop es [GitHub Desktop | Simple collaboration from your desktop](https://desktop.github.com/).
+
+- **Live server:** Finalmente, para acelerar el desarrollo del landing page, se hizo uso de esta herramienta que es una extensión para editor Visual Studio Code que sirve para visualizar los cambios inmediatamente después de alguna modificación que se hace en el código, así se evita estar recargando la página lo cual se traduce en ahorro de tiempo y comodidad a la hora de desarrollar:
+  ![LiveServer](https://media.discordapp.net/attachments/1146490170917535764/1147770083888869416/image.png?width=1195&height=671)
+
+**Desarrollo de la aplicación web:** Se hizo uso del framework Vue.js para el desarrollo del frontend de la aplicación, mientras que para el backend y los servicios web se usó .Net, puesto que brinda un enfoque más amplio y completo para el desarrollo de cada módulo de la aplicación. Para ello se usaron las siguientes herramientas:
+
+- **JetBrains WebStorm:** Esta herramienta es un potente IDE para desarrollo web que ofrece soporte completo para Vue.js. Facilita la creación eficiente de aplicaciones gracias a su destacado conjunto de herramientas y características de refactorización, depuración y autocompletado.
+  ![WebStorm](https://media.discordapp.net/attachments/1146490170917535764/1147770084157313084/image.png?width=1440&height=612)
+  Para la instalación del programa, este se puede descargar desde su página web [WebStorm: The Smartest JavaScript IDE, by JetBrains](https://www.jetbrains.com/webstorm/)
+
+- **Node.js:** Esta herramienta de desarrollo es un entorno de tiempo de ejecución de JavaScript de alto rendimiento, el cual es necesario para el desarrollo de aplicaciones con Vue.js, ya que se obtiene las características completas de desarrollo JavaScript tanto en el lado del cliente como en el servidor.
+  ![Node.js](https://media.discordapp.net/attachments/1146490170917535764/1147770084392189962/image.png?width=1440&height=327)
+  Esta herramienta se puede descargar desde su página oficial [Node.js (nodejs.org)](https://nodejs.org/es)
+
+- **JetBrains IntelliJ Ultimate:** Se decidió usar este IDE de desarrollo para Java por que destaca por su eficiencia y rendimiento y facilita el desarrollo de aplicaciones con el framework de Spring con herramientas avanzadas y una interfaz más intuitiva.
+  ![IntelliJ](https://media.discordapp.net/attachments/1149328487358930944/1149329796086644826/image.png)
+  Se puede descargar el programa desde su página web [IntelliJ IDEA: el IDE líder para Java y Kotlin (jetbrains.com)](https://www.jetbrains.com/es-es/idea/)
+
+### 5.1.2. Source Code Management
+
+Para mantener el orden al desarrollar una solución y evitar conflictos o superposiciones de información, los proyectos se trabajaron en una organización de GitHub y dentro de esta se encuentran los diferentes repositorios para cada proyecto cuyos enlaces de los repositorios son los siguientes:
+
+1. Repositorio para el landing page: 
+2. Repositorio para los tests de aceptación: 
+3. Repositorio de la aplicación web: **_En Desarrollo_**
+
+Con respecto a la implementación de Gitflow, este se llevará a cabo de la siguiente manera:
+
+- Para cada commit que se realice, ya sea para el landing page o los archivos .feature, se utilizará el formato de mensaje "Conventional Commits" para ayudar a reconocer mejor lo que se hizo en los commits y de esta forma conocer mejor el estado del proyecto.
+
+- Cada repositorio de código tendrá sus respectivas ramas tal como lo describe Vincent Driessen en su artículo “A successful Git branching model”, donde estará presente la rama Master (que almacenará las versiones estables y finales), Develop (donde se irán integrando los cambios implementados por cada feature y estará en constante actualización), Release (donde se encontrará el código final de las versiones release) y Hotfix.
+
+- Además, cada feature desarrollado tendrá su propia rama que seguirá la siguiente convención para el nombre: feature-\<apellidos del colaborador\>
+
+![Insights](https://media.discordapp.net/attachments/1146490170917535764/1148284115498573904/image.png)
+
+### 5.1.3. Source Code Style Guide & Conventions
+
+A continuación, se darán a conocer las convenciones, formatos, estilos y entre otras propiedades de los lenguajes trabajados en la presente solución las cuales son: HTML, JavaScript/TypeScript, Java y CSS. Además, por el lado de las pruebas de aceptación también se darán a conocer dichos temas para el lenguaje Gherkin.
+
+**HTML:** Se hará uso de la guía “HTML Style Guide and Coding” de la página W3Schools, la cual menciona las convenciones y estándares de este lenguaje de etiquetas. Hemos considerado las siguientes como las más importantes:
+
+- _Declarar siempre el tipo documento:_ Es decir, colocar siempre la etiqueta \<!DOCTYPE html\> en la primera línea del código.
+- _Utilizar el nombre de las etiquetas y sus atributos en minúscula:_ Por un tema de estética y orden del código para que este se vea más limpio y sea más fácil de escribir.
+- _Cerrar todas las etiquetas:_ Esto evita futuros problemas o errores de sintaxis.
+- _Siempre coloca comillas para los valores de los atributos de las etiquetas:_ De esta forma los valores son más fáciles de leer y se deben utilizar obligatoriamente si este contiene espacios.
+- _Especificar siempre los atributos alt, width y height para las imágenes:_ Es importante en caso de que la imagen no se pueda mostrar por algún motivo y también ayuda con el tema de la accesibilidad de los usuarios.
+- _No omitir la etiqueta \<title\> ni los metadatos (\<meta\>):_ Estas etiquetas son importantes para la optimización de motores de búsqueda (SEO).
+
+**CSS:** Se siguió la guía “Google HTML/CSS Style Guide” donde se indican las convenciones, reglas y buenas prácticas para este lenguaje. Hemos considerado las siguientes recomendaciones como las más destacadas:
+
+- _Nombre de clases:_ Se recomienda usar nombres generales para las clases, no deben ser específicas por la razón de que deben comportarse como padres.
+- _Usar nombres de clase cortos:_ Se recomienda utilizar nombres de clase que sean cortos y descriptivos, para transmitir la idea de lo que representa de manera concisa.
+- _Usar delimitadores de nombres de clase adecuados:_ Se debe de separar las palabras en los nombres de clase con solo guiones.
+- _Evitar los selectores de ID:_ No se recomienda implementar este tipo de selectores, por la razón de que estos deben ser únicos en toda la página y en proyectos grandes que tengan muchos componentes es difícil de garantizar esa unicidad, es preferible usar selectores de clase.
+- _Usar propiedades abreviadas:_ Es muy recomendable usar propiedades que soporten ser declarados de forma abreviada (por ejemplo, la propiedad padding, margin, border, etc.) por la razón de que reduce de forma significativa la cantidad de líneas de código, y es más legible para el programador o diseñador.
+
+**JavaScript:** Se consideró importante seguir una guía de buenas prácticas para un mejor desarrollo del código, para este caso se eligió la guía de la wiki “JavaScript best practices“ del World Wide Web (W3C). Lo cual se destaca lo siguiente:
+
+- _Usar nombres cortos y fáciles de leer:_ Es recomendable nombrar adecuadamente las variables, clases, funciones y otros elementos para que sea más sencillo de leer y comprender.
+- _Evitar el uso de variables globales (keyword “var”):_ No se recomienda el uso de este tipo de variables en un proyecto, porque pueden generar muchos errores a medida que el proyecto crece y estas pueden sobrescribirse fácilmente afectando el valor y se pueden declarar otros elementos como funciones con el mismo nombre de la variable y generar errores.
+- _Comentar y documentar lo necesario:_ Se recomienda comentar líneas de código que son complejos de entender a simple vista explicando o dejando mensajes para que otros programadores lo entiendan.
+- _Usar notaciones sencillas de entender:_ Javascript cuenta con diversas notaciones y operadores para crear o modificar ciertas estructuras de datos como objetos, arrays, selectivas, etc.
+
+**TypeScript:** Se siguieron las convenciones y guías de estilo de código de “TypeScript Style Guide” de Google. Lo cual se destaca lo siguiente: 
+
+- _PascalCase para Clases y Tipos:_ Los nombres de clases y tipos deben usar PascalCase, donde cada palabra comienza con una letra mayúscula. Ejemplo: MiClase. 
+- _camelCase para Variables y Funciones:_ Los nombres de variables y funciones deben usar camelCase, donde la primera palabra comienza con minúscula y las siguientes con mayúscula. Ejemplo: miVariable. 
+- _UPPER_CASE para Constantes:_ Los nombres de constantes se escriben completamente en mayúsculas y se separan con guiones bajos. Ejemplo: MI_CONSTANTE. 
+- _Evitar el tipo Any:_ Se debe evitar el uso de any en TypeScript y, en su lugar, se deben declarar tipos explícitos para variables y parámetros de función siempre que sea posible. 
+- _Interfaces para Estructuras de Datos:_ Utilizar interfaces para definir la estructura de datos de objetos y clases.  
+- _Uso de Tipos Genéricos:_ Utilizar tipos genéricos para crear componentes y funciones reutilizables que funcionen con varios tipos de datos. 
+- _Uso de Modificadores de Acceso:_ Utilizar modificadores de acceso como public, private y protected para controlar la visibilidad y el acceso a propiedades y métodos de una clase. 
+- _Nombrar Funciones según su Propósito:_ Dar nombres descriptivos a las funciones que reflejen su propósito y su acción. 
+
+**Angular:** Se siguieron las convenciones y guías de estilo de código de “Angular coding style guide” de la página oficial de Angular.io. Lo cual se destaca lo siguiente: 
+
+- _Nombres de Archivos en kebab-case:_ Los nombres de los archivos de componentes, módulos y servicios deben usar la convención kebab-case, donde las palabras se separan con guiones. Ejemplo: mi-componente.component.ts. 
+- _Uso de Decoradores:_ Utilizar decoradores como @Component y @Injectable para anotar componentes, servicios y otros elementos de Angular. 
+- _Convención de Carpetas:_ Organizar los archivos de Angular en carpetas según su tipo, como componentes, servicios, módulos, etc. 
+- _Uso de Módulos:_ Utilizar módulos para organizar y encapsular funcionalidades relacionadas en la aplicación. 
+- _Uso de RxJS:_ Emplear RxJS para gestionar flujos de datos asíncronos y observables en la aplicación. 
+- _Uso de Directivas Personalizadas:_ Crear directivas personalizadas cuando sea necesario para agregar funcionalidad específica a elementos del DOM. 
+- _Uso de Servicios:_ Separar la lógica de negocio y la comunicación con el servidor en servicios reutilizables. 
+- _Evitar Lógica en Plantillas:_ Evitar lógica compleja en las plantillas de componentes y, en su lugar, moverla a los métodos del componente. 
+- _Gestión de Rutas:_ Utilizar el enrutamiento de Angular para gestionar las rutas y la navegación entre páginas de la aplicación. 
+
+**Spring:** Se siguieron las convenciones y guías de estilo de código de la documentación oficial de Spring Boot y se destaca lo siguiente: 
+
+- _Uso de Anotaciones:_ Utilizar anotaciones como @Controller, @Service, @Repository y @Component para marcar clases y componentes específicos de Spring. 
+- _Convención de Paquetes:_ Organizar los archivos y clases en carpetas que representen la estructura lógica de la aplicación, como controladores, servicios, repositorios, etc. 
+- _Convención de Nombres en Bases de Datos:_ Utilizar la convención de nombres en bases de datos como snake_case para nombres de tablas y columnas. Spring Boot se encargará de mapear estos nombres a objetos Java. 
+- _Uso de Spring Data JPA:_ Emplear Spring Data JPA para simplificar la interacción con la capa de persistencia y bases de datos. 
+- _Uso de Inyección de Dependencias:_ Aplicar la inyección de dependencias utilizando el constructor de las clases. 
+- _Configuración Externa:_ Utilizar archivos de configuración externos (como application.properties o application.yml) para configurar propiedades de la aplicación. 
+- _Uso de @RestController:_ Usar la anotación @RestController para marcar controladores que devuelven datos en formato JSON. 
+- _Manejo de Excepciones:_ Implementar el manejo de excepciones de manera consistente, utilizando las anotaciones @ExceptionHandler y @ControllerAdvice. 
+- _Logging con SLF4J:_ Realizar el registro de eventos y seguimiento de la aplicación utilizando la interfaz SLF4J (Simple Logging Facade for Java). 
+- _Seguridad con Spring Security:_ Implementar la seguridad en la aplicación utilizando Spring Security para autenticación y autorización. 
+
+**Java:** Se siguieron las convenciones y guías de estilo de código de " Java Style Guide” de Google y se destaca lo siguiente: 
+
+- _Nombres de Clases en CamelCase:_ Los nombres de clases en Java deben seguir la convención CamelCase, donde cada palabra comienza con mayúscula. Ejemplo: MiClase. 
+- _Nombres de Paquetes en minúsculas:_ Los nombres de paquetes en Java se escriben en minúsculas y generalmente reflejan la estructura del proyecto. Ejemplo: com.miproyecto. 
+- _Nombres de Métodos Descriptivos:_ Dar nombres descriptivos a los métodos que reflejen su propósito y acción, utilizando camelCase. Ejemplo: calcularTotal. 
+- _Nombres de Variables en camelCase:_ Los nombres de variables en Java se escriben en camelCase, donde la primera letra comienza con minúscula. Ejemplo: miVariable. 
+- _Uso de Comentarios Javadoc:_ Documentar las clases y métodos utilizando comentarios Javadoc para proporcionar una descripción clara y legible de su funcionalidad. 
+- _Convención de Nombres para Getters y Setters:_ Los métodos de acceso (getters) y modificación (setters) para propiedades deben seguir la convención getPropiedad y setPropiedad. Ejemplo: getNombre y setNombre. 
+- _Uso de Interfaces:_ Utilizar interfaces para definir contratos y proporcionar una forma de implementación común en clases diferentes. 
+- _Convención para Manejo de Excepciones:_ Manejar las excepciones de manera adecuada, preferiblemente utilizando bloques try-catch, y proporcionar mensajes descriptivos en las excepciones personalizadas. 
+- _Convención de Nombres para Enumeraciones:_ Los nombres de enumeraciones se escriben en mayúsculas y suelen representar valores constantes. Ejemplo: DíasDeLaSemana. 
+- _Evitar el Uso de Caracteres Especiales en Nombres:_ Evitar caracteres especiales, espacios y acentos en los nombres de clases, métodos y variables. 
+
+**Gherkin:** Se consideró conveniente usar la guía y convenciones que se mencionan en “Gherkin Conventions for Readable Specifications” para una correcta realización de las pruebas. A continuación, se mencionan los puntos que consideramos más importantes para nuestro trabajo:
+
+- _Los bloques “Give-When-Then” deben ser diferenciados:_ Se recomienda usar una correcta indentación de esos bloques para identificar mejor las secciones de la prueba y también añadiendo la keyword “And” para añadir otra línea en los pasos y otro bloque.
+- _Usar tablas para los pasos:_ Si uno de los pasos requiere de más información es recomendable - usar tablas para organizar dicha información y tenga un aspecto más ordenado.
+- _Usar comillas simples para los parámetros:_ Se recomienda esta práctica para una mejor legibilidad de los parámetros en un paso y tener una sintaxis más simple.
+- _Separar los escenarios con comentarios:_ Si se da el caso de tener muchos escenarios en una prueba, es usar los comentarios como separadores para que visualmente sea más organizado, fácil de leer y distinguir mejor.
+
+### 5.1.4. Software Deployment Configuration
+
+A continuación, se dará a conocer el proceso del despliegue del las aplicaciones para que estas puedan ser visualizadas por el público y todo internet.
+
+**Landing Page:** Para este caso se usó el servicio “GitHub Pages” en donde se desplegará la aplicación automáticamente desde una rama de GitHub y este generará un enlace con un dominio establecido para acceder a la página. Para realizar esto se realizaron los siguientes pasos:
+
+1. Una vez que se haya lanzado el release al repositorio y las ramas estén actualizadas, se procede a ingresar a GitHub, luego acceder al repositorio del proyecto y seguidamente hacer click en la pestaña “Settings”.
+   ![Paso1](https://media.discordapp.net/attachments/1149328487358930944/1149440024312553492/image.png?width=804&height=671)
+
+2. Una vez dentro de la pestaña de “Settings”, buscar el ítem “Pages” del menú lateral.
+   ![Paso2](https://media.discordapp.net/attachments/1149328487358930944/1149440304110370959/image.png?width=809&height=671)
+
+3. Seleccionar la rama de release y confirmar los cambios, luego de esto GitHub comenzará el proceso de deploy.
+   ![Paso3](https://media.discordapp.net/attachments/1149328487358930944/1149440500395425813/image.png?width=808&height=671)
+
+4. Una vez que el proceso de deploy haya finalizado, se mostrará un mensaje de confirmación y se generará un enlace para acceder a la página, este se podrá ver desde el mismo menú en la parte superior.
+   ![Paso4](https://media.discordapp.net/attachments/1149328487358930944/1149440900880158780/image.png)
+
+5. Finalmente, se podrá acceder a la página desde el enlace generado y se podrá visualizar el landing page.
+   ![Paso5](https://media.discordapp.net/attachments/1149328487358930944/1149441037295693854/image.png?width=779&height=671)
+   Enlace del landing page: https://flexdorm.github.io/FlexDormLandingPage/
+
+## 5.2. Landing Page, Services & Applications Implementation
+
+### 5.2.1. Sprint 1
+
+#### 5.2.1.1. Sprint Planning 1
+
+<table align="center"  border="1" width="70%" style="text-align:center;">
+  <tr align="center">
+    <td>
+      Sprint 1
+    </td>
+    <td align="left">
+      Implementación de funcionalidades y diseño de la aplicación.
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2>
+      <b>Sprint Planning Background</b>
+    </td>
+  </tr>
+  <tr align="center">
+    <td>
+      Date
+    </td>
+    <td align="left">
+      3/09/2023
+    </td>
+  </tr>
+  <tr align="center">
+    <td>
+      Time
+    </td>
+    <td align="left">
+      17:00
+    </td>
+  </tr>
+  <tr align="center">
+    <td>
+      Location
+    </td>
+    <td align="left">
+      Reunión realizada mediante Microsoft Teams
+    </td>
+  </tr>
+  <tr align="center">
+    <td>
+      Prepared By 
+    </td>
+    <td align="left">
+      Montes Molina, Sebastian Alejandro
+    </td>
+  </tr>
+  <tr align="center">
+    <td>
+      Attendees (to planning meeting)
+    </td>
+    <td align="left">
+      Montes Molina, Sebastian Alejandro / <br>
+      Aliaga Trevejo, Lucía Guadaluoe / <br>
+      Ortega Vélez, Jamutaq Piero / <br>
+      Ávalos Santos, Anthony Piero / <br>
+      Sanchez Arenas, Manuel Ángel 
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2>
+      <b>Sprint Goal & User Stories</b>
+    </td>
+  </tr>
+  <tr align="center">
+    <td>
+      Sprint 1 Goal
+    </td>
+    <td align="left">
+      Desarrollo, despliegue del Landing Page y documentación del informe funcional
+    </td>
+  </tr>
+  <tr align="center">
+    <td>
+      Sprint 1 Velocity
+    </td>
+    <td align="left">
+      30
+    </td>
+  </tr>
+  <tr align="center">
+    <td>
+      Sum of Story Points
+    </td>
+    <td align="left">
+      26
+    </td>
+  </tr>
+</table>
+
+#### 5.2.1.2. Sprint Backlog 1
+
+<table align="center"  border="1" width="70%" style="text-align:center;">
+  <tr align="center">
+    <td>
+      <b>Sprint #</b>
+    </td>
+    <td colspan=7>
+      Sprint 1
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2>
+      <b>User Story</b>
+    </td>
+    <td colspan=6>
+      Work-Item / Task
+    </td>
+  </tr>
+  <tr align="center">
+    <td>
+      <b>Id</b>
+    </td>
+    <td>
+      <b>Title</b>
+    </td>
+    <td>
+      <b>Id</b>
+    </td>
+    <td>
+      <b>Title</b>
+    </td>
+    <td>
+      <b>Description</b>
+    </td>
+    <td>
+      <b>Estimation (Hours)</b>
+    </td>
+    <td>
+      <b>Assigned To</b>
+    </td>
+    <td>
+      <b>Status</b>
+    </td>
+  </tr>
+  <tr align="left">
+    <td>
+      SS01
+    </td>
+    <td>
+      Sección Header
+    </td>
+    <td>
+      S01
+    </td>
+    <td>
+      Implementación de la sección del header, hero, navbar y estilos
+    </td>
+    <td>
+      Desarrollo e implementación de la barra de navegación, sección hero y estilos CSS y JS
+    </td>
+    <td>
+      3
+    </td>
+    <td>
+      Sebastián Montes
+    </td>
+    <td>
+      Done
+    </td>
+  </tr>
+  <tr align="left">
+    <td>
+      SS02
+    </td>
+    <td>
+      Sección Services
+    </td>
+    <td>
+      S02
+    </td>
+    <td>
+      Implementación de la sección services
+    </td>
+    <td>
+      Desarrollo e implementación de la sección services con estilos responsive
+    </td>
+    <td>
+      2
+    </td>
+    <td>
+      Jamutaq Ortega
+    </td>
+    <td>
+      Done
+    </td>
+  </tr>
+  <tr align="left">
+    <td>
+      SS03
+    </td>
+    <td>
+      Sección Portafolio
+    </td>
+    <td>
+      S03
+    </td>
+    <td>
+      Implementación de la sección portafolio
+    </td>
+    <td>
+      Desarrollo e implementación del portafolio y de forma responsive
+    </td>
+    <td>
+      3
+    </td>
+    <td>
+      Lucía Aliaga
+    </td>
+    <td>
+      Done
+    </td>
+  </tr>
+  <tr align="left">
+    <td>
+      SS04
+    </td>
+    <td>
+      Sección Team
+    </td>
+    <td>
+      S04
+    </td>
+    <td>
+      Implementación del Team section
+    </td>
+    <td>
+      Desarrollo e implementación del team section
+    </td>
+    <td>
+      2
+    </td>
+    <td>
+      Anthony Ávalos
+    </td>
+    <td>
+      Done
+    </td>
+  </tr>
+ <tr align="left">
+    <td>
+      SS05
+    </td>
+    <td>
+      Sección Detalles del portafolio
+    </td>
+    <td>
+      S04
+    </td>
+    <td>
+      Implementación de la sección detalles
+    </td>
+    <td>
+      Desarrollo e implementación de los detalles del portafolio y estilos responsive
+    </td>
+    <td>
+      2
+    </td>
+    <td>
+      Manuel Sanchez
+    </td>
+    <td>
+      Done
+    </td>
+  </tr>
+</table>
+
+
+
+#### 5.2.1.3. Development Evidence for Sprint Review
+
+<table align="center" border="1" width="70%" style="text-align:center;">
+  <tr>
+    <td>
+      <b>Repository</b>
+    </td>
+    <td>
+      <b>Branch</b>
+    </td>
+    <td>
+      <b>Commit Id</b>
+    </td>
+    <td>
+      <b>Commit Message</b>
+    </td>
+    <td>
+      <b>Commit Message Body</b>
+    </td>
+    <td>
+      <b>Commited on (Date)</b>
+    </td>
+  </tr>
+    <tr align="left">
+    <td>
+      FlexDormLandingPage
+    </td>
+    <td>
+      develop
+    </td>
+    <td>
+      8d9bf5f
+    </td>
+    <td>
+      feat: Implementacion inicial landing page
+    </td>
+    <td>
+      -
+    </td>
+    <td>
+      07/09/2023
+    </td>
+  </tr>
+    </tr>
+    <tr align="left">
+    <td>
+      FlexDormLandingPage
+    </td>
+    <td>
+      develop
+    </td>
+    <td>
+      29836f4
+    </td>
+    <td>
+      feat: Heather - Main page
+    </td>
+    <td>
+      -
+    </td>
+    <td>
+      07/09/2023
+    </td>
+  </tr>
+  <tr align="left">
+    <td>
+      FlexDormLandingPage
+    </td>
+    <td>
+      feature/Ortega
+    </td>
+    <td>
+      124bc97
+    </td>
+    <td>
+      feat: services section
+    </td>
+    <td>
+      add services section
+    </td>
+    <td>
+      07/09/2023
+    </td>
+  </tr>
+  <tr align="left">
+    <td>
+      FlexDormLandingPage
+    </td>
+    <td>
+      feature/Aliaga
+    </td>
+    <td>
+      80e93b7
+    </td>
+    <td>
+      feat: Agreement section
+    </td>
+    <td>
+       add Agreement section
+    </td>
+    <td>
+      07/09/2023
+    </td>
+  </tr>
+  <tr align="left">
+    <td>
+      FlexDormLandingPage
+    </td>
+    <td>
+      feature/Avalos
+    </td>
+    <td>
+      f942777
+    </td>
+    <td>
+      feat: team-section
+    </td>
+    <td>
+      -
+    </td>
+    <td>
+      07/09/2023
+    </td>
+  </tr>
+  <tr align="left">
+    <td>
+      FlexDormLandingPage
+    </td>
+    <td>
+      feature/Sanchez
+    </td>
+    <td>
+      11836a2
+    </td>
+    <td>
+      feat: portafolio section added
+    </td>
+    <td>
+      -
+    </td>
+    <td>
+      07/09/2023
+    </td>
+  </tr>
+</table>
+
+#### 5.2.1.4. Testing Suite Evidence for Sprint Review
+
+_En esta entrega, no se incluyó dicha sección, ya que se enfocó en el desarrollo del Landing Page como base del proyecto._
+
+#### 5.2.1.5. Execution Evidence for Sprint Review
+
+Enlace del vídeo: [Execution Evidence for Sprint Review.mp4]()
+
+![preview]()
+
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+_En este primer Sprint, se enfocó exclusivamente en la creación del Landing Page y no se utilizó ningún servicio adicional para la implementación._
+
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+Para llevar a cabo la automatización del despliegue de su Landing Page, utilizaron la herramienta GitHub Pages. Esta plataforma permite generar sitios web directamente desde un repositorio público que contiene el código utilizado para crear la página. A continuación, se proporciona el enlace a su Landing Page: https://flexdorm.github.io/FlexDormLandingPage/
+
+#### 5.2.1.8. Team Collaboration Insights during Sprint
+
+En el primer Sprint, se utilizaron Visual Studio Code, HitHub Desktop y Git para llevar a cabo los commits. Uno de los miembros del equipo realizó el primer commit para crear el repositorio. Luego, se clonó el repositorio utilizando Git y se realizaron modificaciones en Visual Studio Code. Se crearon ramas (branches) correspondientes a estas modificaciones y, finalmente, se efectuaron commits. Estos commits deben ser revisados en el repositorio de GitHub.
+
+![Commits](https://media.discordapp.net/attachments/1149328487358930944/1149443737366319165/image.png)
+
+![Commits2](https://media.discordapp.net/attachments/1149328487358930944/1149444104837677164/image.png)
