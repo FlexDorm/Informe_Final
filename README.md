@@ -84,7 +84,7 @@ Teniendo en cuenta el contexto actual en el que vivimos, hemos identificado dist
 
 Misión:
 
-La misión de ByHours es transformar la forma en que los estudiantes universitarios abordan el hospedaje temporal. Nos comprometemos a ofrecer una ofrecer una plataforma intuitiva y confiable que permita a los estudiantes encontrar y reservar fácilmente habitaciones asequibles en lugares estratégicos. Nos esforzamos por fomentar comunidades acogedoras al conectar a arrendadores responsables con estudiantes que buscan un entorno seguro y conveniente. A través de nuestra tecnología y compromiso, aspiramos a mejorar la experiencia estudiantil al eliminar la preocupación relacionada a encontrar un alojamiento temporal dado el caso de diversas situaciones donde el factor “tiempo” juega un papel muy importante.
+La misión de TechArtristy es transformar la forma en que los estudiantes universitarios abordan el hospedaje temporal. Nos comprometemos a ofrecer una ofrecer una plataforma intuitiva y confiable que permita a los estudiantes encontrar y reservar fácilmente habitaciones asequibles en lugares estratégicos. Nos esforzamos por fomentar comunidades acogedoras al conectar a arrendadores responsables con estudiantes que buscan un entorno seguro y conveniente. A través de nuestra tecnología y compromiso, aspiramos a mejorar la experiencia estudiantil al eliminar la preocupación relacionada a encontrar un alojamiento temporal dado el caso de diversas situaciones donde el factor “tiempo” juega un papel muy importante.
 
 Visión:
 
