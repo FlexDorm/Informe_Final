@@ -42,7 +42,7 @@ Sanchez Arenas, Manuel Ángel
 
 | Versión | Fecha | Autor | Descripción de la modificación |
 | ------- | ----- | ----- | ------------------------------ |
-|         |       |       |                                |
+|   1.0      |   2023-09-07    | Sebastian Montes, Jamutaq Ortega, Antonhy Avalos, Lucia Aliaga, Manuel Sanchez      |          Se implemento la primera version del informe                       |
 |         |       |       |                                |
 
 ---
@@ -71,10 +71,8 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de
 conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro
 del ABET – EAC - Student Outcome 5.
 
-| Criterio específico                                                                                                                                  | Acciones realizadas | Conclusiones |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- | ------------ |
-| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. |                     |              |
-| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.                                                             |                     |              |
+
+![outcome](https://media.discordapp.net/attachments/1149328487358930944/1149504012283039774/8140d758-2350-4da3-9117-cbefbed831c6.png?width=290&height=670)
 
 ---
 # Capítulo I: Introducción
