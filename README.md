@@ -18,7 +18,7 @@ Sección SW53
 
 **_INFORME DE TRABAJO FINAL - TB1_**
 
-**Startup:** ByHours
+**Startup:** TechArtristy
 
 **Producto:** FlexiDorms
 
@@ -1134,17 +1134,17 @@ A continuación, se muestran los diseños elaborados de acuero a las funcionalid
 
 Registro de usuario (Estudiante)
 
-![m001](image-2.png)
-![m002](image-3.png)
+![m001](https://media.discordapp.net/attachments/1149328487358930944/1149396542160130130/image.png)
+![m002](https://media.discordapp.net/attachments/1149328487358930944/1149396553937731725/image.png)
 
 Registro de usuario (Arrendador)
 
 ![m003](https://media.discordapp.net/attachments/1149328487358930944/1149397156403364032/image.png)
-![m004](image-4.png)
+![m004](https://media.discordapp.net/attachments/1149328487358930944/1149397178192769025/image.png)
 
 Inicio de Sesion
 
-![m005](image-5.png)
+![m005](https://media.discordapp.net/attachments/1149328487358930944/1149397371663433909/image.png)
 
 Editar datos personales (Estudiante)
 
@@ -1152,7 +1152,7 @@ Editar datos personales (Estudiante)
 
 Editar datos personales (Arrendador)
 
-![m006](image-6.png)
+![m006](https://media.discordapp.net/attachments/1149328487358930944/1149397591574982716/image.png)
 
 [Enlace a Figma "Ver Diseños"](https://www.figma.com/file/egSLVmoQy8qoMrPGvbyvYy/Designs?type=design&node-id=0%3A1&mode=design&t=8El9n413S2Y3ozDv-1)
 
