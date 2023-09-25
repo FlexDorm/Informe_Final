@@ -745,7 +745,35 @@ Por otra parte, el 50% de ellos mencionó que su marca favorita es Samsung.
   </tr>
 </table>
 
-Al preguntarles si utilizarían una aplicación para buscar y alquilar habitaciones cerca de sus universidades, el 100% de los estudiantes respondió que sí. 
+Un dato relevante obtenido de las entrevistas es que los estudiantes tardan, en promedio, dos horas en movilizarse a la universidad. Los principales desafíos a los que se enfrentan en este trayecto son el tráfico y la inseguridad. 
+
+<table border=1>
+  <tr>
+    <td align=center>
+      <img src="https://media.discordapp.net/attachments/1149328487358930944/1155732860112744518/image.png"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2 style="text-align:center">
+      <b> Fuente: </b> Elaboración propia
+  </tr>
+</table>
+
+A raíz de esto, los sentimientos que experimentan los estudiantes son: preocupación, incomodidad, frustración, agobio y miedo. 
+ 
+<table border=1>
+  <tr>
+    <td align=center>
+      <img src="https://media.discordapp.net/attachments/1149328487358930944/1155732889779060819/image.png"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2 style="text-align:center">
+      <b> Fuente: </b> Elaboración propia
+  </tr>
+</table>
+
+En consecuencia, el 100% de los estudiantes entrevistados estaría dispuesto a utilizar una aplicación para alquilar habitaciones cerca de sus universidades.
 
 <table border=1>
   <tr>
@@ -805,7 +833,30 @@ Respecto a la modalidad de arrendamiento, dos de los usuarios mencionaron que le
   </tr>
 </table>
 
+
+Los arrendadores estarían dispuestos a brindar algunos de los servicios básicos, entre los que destaca el servicio de internet.
+
+<table border=1>
+  <tr>
+    <td align=center>
+      <img src="https://media.discordapp.net/attachments/1149328487358930944/1155736457848291378/image.png"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2 style="text-align:center">
+      <b> Fuente: </b> Elaboración propia
+  </tr>
+</table>
+
 Los usuarios de este segmento manifestaron que una aplicación para arrendar sus habitaciones debe garantizarles seguridad y tener funciones que les permitan gestionar los arrendamientos y comunicarse con los estudiantes. 
+
+**Conclusión**
+
+En conclusión, los estudiantes universitarios y los arrendadores están dispuestos a utilizar una aplicación para alquilar o arrendar habitaciones cerca de las universidades. 
+
+En el caso de los estudiantes, los motivos que los llevarían a utilizar esta aplicación son: ahorrar tiempo en sus traslados y evitar la inseguridad, ya que consideran que son problemas que impactan negativamente en su experiencia universitaria y les generan sentimientos de preocupación. 
+
+Estos hallazgos se relacionan con lo reportado en el análisis de Chavarría y colaboradores (2020). En su estudio, el 90% de una muestra de estudiantes universitarios costarricenses afirmaron que el congestionamiento vial les causaba estrés, en especial al trasladarse durante la tarde o noche. Además, el nivel de estrés estaba relacionado al tiempo de traslado.
 
 ## 2.3. Needfinding
 
