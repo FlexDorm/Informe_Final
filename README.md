@@ -1976,6 +1976,381 @@ En el primer Sprint, se utilizaron Visual Studio Code, HitHub Desktop y Git para
 
 ![Commits2](https://media.discordapp.net/attachments/1149328487358930944/1149444104837677164/image.png)
 
+### 5.2.2. Sprint 2
+
+#### 5.2.2.1. Sprint Planning 2
+
+<table align="center"  border="1" width="70%" style="text-align:center;">
+  <tr align="center">
+    <td>
+      Sprint 2
+    </td>
+    <td align="left">
+      Implementación de .....
+      Para la 
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2>
+      <b>Sprint Planning Background</b>
+    </td>
+  </tr>
+  <tr align="center">
+    <td>
+      Date
+    </td>
+    <td align="left">
+      19/09/2023
+    </td>
+  </tr>
+  <tr align="center">
+    <td>
+      Time
+    </td>
+    <td align="left">
+      20 horas
+    </td>
+  </tr>
+  <tr align="center">
+    <td>
+      Location
+    </td>
+    <td align="left">
+      Reunión realizada mediante Microsoft Teams
+    </td>
+  </tr>
+  <tr align="center">
+    <td>
+      Prepared By 
+    </td>
+    <td align="left">
+      Montes Molina, Sebastian Alejandro
+    </td>
+  </tr>
+  <tr align="center">
+    <td>
+      Attendees (to planning meeting)
+    </td>
+    <td align="left">
+      Montes Molina, Sebastian Alejandro / <br>
+      Aliaga Trevejo, Lucía Guadaluoe / <br>
+      Ortega Vélez, Jamutaq Piero / <br>
+      Ávalos Santos, Anthony Piero  
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Sprint 1 – 1 Review Summary
+    </td>
+    <td align="left">
+      Se logro el resultado de implementar una primera parte de logica de negocio como un despliegue de nuestros recursos de aplicación
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Sprint 1 – 1 Retrospective Summary
+    </td>
+    <td align="left">
+      Mejora en la distribucion de actividades como plasmar los tiempos en base a los story points
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2>
+      <b>Sprint Goal & User Stories</b>
+    </td>
+  </tr>
+  <tr align="center">
+    <td>
+      Sprint 2 Goal
+    </td>
+    <td align="left">
+      26 Story Points para este Sprint
+    </td>
+  </tr>
+  <tr align="center">
+    <td>
+      Sprint 2 Velocity
+    </td>
+    <td align="left">
+      7 Story Points por integrante
+    </td>
+  </tr>
+  <tr align="center">
+    <td>
+      Sum of Story Points
+    </td>
+    <td align="left">
+      30 Story Points en total
+    </td>
+  </tr>
+</table>
+
+#### 5.2.2.2. Sprint Backlog 2
+
+<table align="center"  border="1" width="70%" style="text-align:center;">
+  <tr align="center">
+    <td>
+      <b>Sprint #</b>
+    </td>
+    <td colspan=7>
+      Sprint 2
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2>
+      <b>User Story</b>
+    </td>
+    <td colspan=6>
+      Work-Item / Task
+    </td>
+  </tr>
+  <tr align="center">
+    <td>
+      <b>Id</b>
+    </td>
+    <td>
+      <b>Title</b>
+    </td>
+    <td>
+      <b>Id</b>
+    </td>
+    <td>
+      <b>Title</b>
+    </td>
+    <td>
+      <b>Description</b>
+    </td>
+    <td>
+      <b>Estimation (Hours)</b>
+    </td>
+    <td>
+      <b>Assigned To</b>
+    </td>
+    <td>
+      <b>Status</b>
+    </td>
+  </tr>
+  <tr align="left">
+    <td>
+      US01
+    </td>
+    <td>
+      Usuario se registra en la aplicación con usuario, contraseña, datos personales y correo institucional
+    </td>
+    <td>
+      S01
+    </td>
+    <td>
+      Implementación de la sección de registro
+    </td>
+    <td>
+      Desarrollo e implementación del componente de registro usando Angular Material y TypeScript
+    </td>
+    <td>
+      4
+    </td>
+    <td>
+      Sebastián Montes
+    </td>
+    <td>
+      Done
+    </td>
+  </tr>
+  <tr align="left">
+    <td>
+      US02
+    </td>
+    <td>
+     Usuario completa su registro con sus datos personales
+    </td>
+    <td>
+      S02
+    </td>
+    <td>
+      Implementación de la sección de registro
+    </td>
+    <td>
+      Desarrollo e implementación del componente de registro usando Angular Material y TypeScript
+    </td>
+    <td>
+      4
+    </td>
+    <td>
+      Sebastián Montes
+    </td>
+    <td>
+      Done
+    </td>
+  </tr>
+  <tr align="left">
+    <td>
+      US03
+    </td>
+    <td>
+      Usuario registrado inicia sesión con su usuario y contraseña.
+    </td>
+    <td>
+      S03
+    </td>
+    <td>
+      Implementación de la sección login
+    </td>
+    <td>
+      Desarrollo e implementación del componente de login usando Angular Material y TypeScript
+    </td>
+    <td>
+      2
+    </td>
+    <td>
+      Sebastian Montes
+    </td>
+    <td>
+      Done
+    </td>
+  </tr>
+  <tr align="left">
+    <td>
+      US04
+    </td>
+    <td>
+      Usuario registrado desea cambiar su información personal.
+    </td>
+    <td>
+      S04
+    </td>
+    <td>
+      Implementación de la sección Mi Perfil
+    </td>
+    <td>
+      Desarrollo e implementación de la sección Mi Perfil usando Angular Material y TypeScript
+    </td>
+    <td>
+      5
+    </td>
+    <td>
+      Lucía Aliaga
+    </td>
+    <td>
+      Done
+    </td>
+  </tr>
+ <tr align="left">
+    <td>
+      US06
+    </td>
+    <td>
+      Arrendador registra su habitacion a alquilar en la aplicación con la dirección, precio y tamaño
+    </td>
+    <td>
+      S06
+    </td>
+    <td>
+      Implementación de la sección de registro de habitaciones
+    </td>
+    <td>
+      Desarrollo e implementación de la sección de registro de habitaciones
+    </td>
+    <td>
+      6
+    </td>
+    <td>
+      Jamutaq Ortega
+    </td>
+    <td>
+      Done
+    </td>
+  </tr>
+  <tr align="left">
+    <td>
+      US07
+    </td>
+    <td>
+     Arrendador revisa sus reservas con la informacion de la habitacion y el estado del mismo
+    </td>
+    <td>
+      S07
+    </td>
+    <td>
+      Implementacion de la seccion Mis habitaciones
+    </td>
+    <td>
+      Implementación de la seccion de vista de habitaciones disponibles por parte del arrendador
+    </td>
+    <td>
+      5
+    </td>
+    <td>
+      Jamutaq Ortega
+    </td>
+    <td>
+      Done
+    </td>
+  </tr>
+  <tr align="left">
+    <td>
+      US10
+    </td>
+    <td>
+      Arrendatario reserva una habitacion dentro de la aplicación.
+    </td>
+    <td>
+      S10
+    </td>
+    <td>
+      Implementación de la sección detalles de la habitacion
+    </td>
+    <td>
+      Desarrollo e implementación de los detalles de cada habitacion disponible
+    </td>
+    <td>
+      9
+    </td>
+    <td>Anthony Avalos
+    </td>
+    <td>
+      InProcess 
+    </td>
+  </tr>
+</table>
+
+
+#### 5.2.2.3. Development Evidence for Sprint Review
+
+![Commits evidence](https://media.discordapp.net/attachments/1149328487358930944/1156338176407896185/image.png?ex=65149b58&is=651349d8&hm=9064ca728552bcbae00fb985c1ee693f24bc247d4bee1edafd601e1c3947d673&=&width=834&height=519)
+
+#### 5.2.2.4. Testing Suite Evidence for Sprint Review
+
+_En esta entrega, no se incluyó dicha sección, ya que no se realizaron tests con API._
+
+#### 5.2.2.5. Execution Evidence for Sprint Review
+
+Enlace del vídeo: [Execution Evidence for Sprint Review.mp4]()
+
+![preview]()
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+
+
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+![Deployment evidence1](https://media.discordapp.net/attachments/1149328487358930944/1156354079551930429/image.png?ex=6514aa28&is=651358a8&hm=f161361cab44ceea0c8af4dbbe03899c4150eafe254526a74c670aa874b8a47a&=&width=966&height=519)
+
+![Deployment evidence2](https://media.discordapp.net/attachments/1149328487358930944/1156354114339479613/image.png?ex=6514aa30&is=651358b0&hm=f9244fb0b01d41c9382b6d9bd70efe99417c3482269a33191e8268e4afbafccd&=&width=966&height=519)
+
+![Deployment evidence3](https://media.discordapp.net/attachments/1149328487358930944/1156354153812086865/image.png?ex=6514aa3a&is=651358ba&hm=56d19faf292a2bb661482f9b6c910d3aa8ccd2e09356acdf32717b5088772a89&=&width=966&height=519)
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint
+
+En el segundo Sprint, se utilizaron Visual Studio Code, HitHub Desktop y Git para llevar a cabo los commits. Uno de los miembros del equipo realizó el primer commit para crear el repositorio. Luego, se clonó el repositorio utilizando Git y se realizaron modificaciones en Visual Studio Code. Se crearon ramas (branches) correspondientes a estas modificaciones y, finalmente, se efectuaron commits. Estos commits deben ser revisados en el repositorio de GitHub.
+
+![Commits](https://media.discordapp.net/attachments/1149328487358930944/1156323581291143178/image.png?ex=65148dc1&is=65133c41&hm=6d291904afdb1b71350f66ebdb823cbe5303067eb7a765d104ab61e1cd765956&=&width=1109&height=610)
+
+![Commits2](https://media.discordapp.net/attachments/1149328487358930944/1156323480334250105/image.png?ex=65148da9&is=65133c29&hm=9074029224fa8e0d5bdd0c9bd791746b524563c611529b899bd1ccc959c2eba6&=&width=1109&height=609)
+
+![Commits3](https://media.discordapp.net/attachments/1149328487358930944/1156324257274544329/image.png?ex=65148e62&is=65133ce2&hm=b179af4acb9cc2ac12ff6a53906175f4e1f60cbedc6c052da96f6b41f610c8fe&=&width=683&height=618) 
+
 # Conclusiones
 
 - Llevar a cabo un análisis exhaustivo de la competencia nos brinda la capacidad de identificar nuestras áreas de destaque y aquellas que necesitan mejoras. Esto, a su vez, nos capacita para ofrecer un servicio que se ajuste perfectamente a las demandas de nuestra audiencia.
