@@ -80,15 +80,16 @@ del ABET – EAC - Student Outcome 5.
 ## 1.1. Startup Profile
 
 ### 1.1.1. Descripción de la Startup
-Teniendo en cuenta el contexto actual en el que vivimos, hemos identificado distintos problemas los cuales generan un impacto directo a la sociedad e integridad de las personas. Es por eso que nace ByHours, nuestro startup, la cual busca dar una solución estable a los conflictos que se encuentran presentes en la sociedad peruana.
+TechArtistry es la respuesta a los desafíos contemporáneos que impactan directamente en la sociedad peruana. Bajo la marca FlexiDorm, nuestra plataforma se dedica a transformar la manera en que los estudiantes universitarios abordan la búsqueda de hospedaje temporal. 
+En un mundo donde el tiempo es esencial y las preocupaciones sobre el alojamiento temporal pueden afectar la integridad de las personas, nace FlexiDorm. Facilitamos una experiencia de alojamiento intuitiva y confiable, permitiendo que los estudiantes encuentren con facilidad habitaciones asequibles en ubicaciones estratégicas. Conectamos a arrendadores responsables con estudiantes que buscan un entorno seguro y conveniente, lo que resulta en la creación de comunidades acogedoras. Nuestra misión es eliminar las preocupaciones relacionadas con la búsqueda de alojamiento temporal en situaciones donde el tiempo es crucial. 
 
 Misión:
 
-La misión de TechArtristy es transformar la forma en que los estudiantes universitarios abordan el hospedaje temporal. Nos comprometemos a ofrecer una ofrecer una plataforma intuitiva y confiable que permita a los estudiantes encontrar y reservar fácilmente habitaciones asequibles en lugares estratégicos. Nos esforzamos por fomentar comunidades acogedoras al conectar a arrendadores responsables con estudiantes que buscan un entorno seguro y conveniente. A través de nuestra tecnología y compromiso, aspiramos a mejorar la experiencia estudiantil al eliminar la preocupación relacionada a encontrar un alojamiento temporal dado el caso de diversas situaciones donde el factor “tiempo” juega un papel muy importante.
+En TechArtistry, a través de FlexiDorm, nuestra misión es mejorar la experiencia estudiantil al ofrecer soluciones flexibles de hospedaje temporal. Utilizamos tecnología avanzada y un compromiso profundo para brindar tranquilidad a los estudiantes al garantizar alojamientos adaptados a sus horarios y necesidades cambiantes. 
 
 Visión:
 
-Nuestra visión es ser una empresa reconocida a nivel nacional e internación por facilitar la vida estudiantil al proporcionar soluciones flexibles de hospedaje temporal. Queremos ser la plataforma líder que conecta a estudiantes con espacios de hospedaje seguros y cómodos, brindando tranquilidad y conveniencia a aquellos que necesitan alojamiento durante periodos cortos, ya sea para estudiar, trabajar o descansar
+Buscamos ser reconocidos a nivel nacional e internacional como la plataforma líder que conecta a estudiantes con espacios de hospedaje seguros y cómodos bajo el nombre FlexiDorm. Aspiramos a simplificar la vida estudiantil al proporcionar soluciones de alojamiento temporal confiables y convenientes para estudiar, trabajar o descansar, de manera que los estudiantes puedan enfocarse en lo que realmente importa. TechArtistry es la fuerza impulsora detrás de esta visión que transforma la manera en que los estudiantes experimentan el hospedaje temporal.
 
 
 ### 1.1.2. Perfiles de integrantes del equipo
@@ -109,7 +110,7 @@ Nuestra visión es ser una empresa reconocida a nivel nacional e internación po
     <td><b>Nombre:</b> Anthony Avalos Santos<br>
         <b>Carrera:</b> Ingenieria de Software <br>
        <b>Descripcion:</b> Las habilidades que poseo pueden ayudar <br>mucho al equipo, puesto que mi capacidad comunicativa, organización y disciplina<br> pueden hacer que logremos realizar un excelente trabajo.<br> Además, mis conocimientos en redacción pueden hacer que este proyecto se realice y presente sin errores. </td>
-    <td><img src="https://cdn.discordapp.com/attachments/1149328487358930944/1149409291745370213/image.png" alt="Anthony" width="150" height="200"></td>
+    <td><img src="https://media.discordapp.net/attachments/1156307442116870187/1156307600909013032/WhatsApp_Image_2023-09-26_at_14.12.07.jpg?ex=65147edf&is=65132d5f&hm=04907734a9fb8d353ea6210cbab561df79d1695d263a065ff1c5c366a2aaed3b&=&width=638&height=670" alt="Anthony" width="150" height="200"></td>
 <tr>
     <td><b>Nombre:</b> Jamutaq Ortega Vélez<br>
         <b>Carrera:</b> Ingeniería de Software <br>
