@@ -122,7 +122,7 @@ Buscamos ser reconocidos a nivel nacional e internacional como la plataforma lí
        <b>Descripcion:</b> 
        Mi nombre es Lucía Aliaga y soy estudiante de la carrera de Ingeniería <br>de Software. Como algunas de mis fortalezas, considero que soy proactiva, responsable <br>y organizada, además, me gusta aportar ideas creativas y contribuir a la solución <br>de problemas cuando trabajo en equipo.
        </td>
-    <td><img src="https://media.discordapp.net/attachments/818234057389375488/1149491490528165980/img.jpg?width=436&height=582" alt="Lucía A" width="150" height="200"></td>
+    <td><img src="https://media.discordapp.net/attachments/818234057389375488/1156362233828343888/26585202145852354.jpeg?ex=6514b1c0&is=65136040&hm=4a2d981ffe1c844fb7c0d20d08f5924a7f0fb3495d6faebb9c2bb6fa0e9f7e0d&=&width=343&height=519" alt="Lucía A" width="150" height="200"></td>
   </tr>
 
   <tr>
