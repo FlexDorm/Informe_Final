@@ -110,7 +110,7 @@ Buscamos ser reconocidos a nivel nacional e internacional como la plataforma lí
     <td><b>Nombre:</b> Anthony Avalos Santos<br>
         <b>Carrera:</b> Ingenieria de Software <br>
        <b>Descripcion:</b> Las habilidades que poseo pueden ayudar <br>mucho al equipo, puesto que mi capacidad comunicativa, organización y disciplina<br> pueden hacer que logremos realizar un excelente trabajo.<br> Además, mis conocimientos en redacción pueden hacer que este proyecto se realice y presente sin errores. </td>
-    <td><img src="https://media.discordapp.net/attachments/1156307442116870187/1156307600909013032/WhatsApp_Image_2023-09-26_at_14.12.07.jpg?ex=65147edf&is=65132d5f&hm=04907734a9fb8d353ea6210cbab561df79d1695d263a065ff1c5c366a2aaed3b&=&width=638&height=670" alt="Anthony" width="150" height="200"></td>
+    <td><img src="https://acortar.link/lRLHr7" alt="Anthony" width="150" height="200"></td>
 <tr>
     <td><b>Nombre:</b> Jamutaq Ortega Vélez<br>
         <b>Carrera:</b> Ingeniería de Software <br>
