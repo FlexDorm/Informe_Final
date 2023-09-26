@@ -10,11 +10,11 @@ Ciclo 2023-02
 
 <h2>Aplicaciones Open Source</h2>
 
-<h3>TB1 REPORT</h3>
+<h3>TP1 REPORT</h3>
 
 Sección SW53
 
-**Profesor:** Elio Jeff
+**Profesor:** Elio Jefferrson Navarrete Vilca
 
 **_INFORME DE TRABAJO FINAL - TB1_**
 
@@ -28,7 +28,7 @@ Aliaga Trevejo, Lucía Guadalupe <br>
 Ávalos Santos, Anthony Piero <br>
 Montes Molina, Sebastián Alejandro <br>
 Ortega Vélez, Jamutaq Piero <br>
-Sanchez Arenas, Manuel Ángel
+
 
 **Link al video de exposición:** [Ver enlace]()
 
@@ -72,7 +72,9 @@ conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el l
 del ABET – EAC - Student Outcome 5.
 
 
-![outcome](https://media.discordapp.net/attachments/1149328487358930944/1149504012283039774/8140d758-2350-4da3-9117-cbefbed831c6.png?width=290&height=670)
+![outcome](https://media.discordapp.net/attachments/1149328487358930944/1156373834912501790/image.png?ex=6514bc8e&is=65136b0e&hm=56bc0850a3243d93e87b2b3c7b042da5293f742ea93330f18b760f47423a4506&=&width=384&height=663)
+
+![outcome2](https://media.discordapp.net/attachments/1149328487358930944/1156373889090330684/image.png?ex=6514bc9b&is=65136b1b&hm=1a8163c4b0f672b3c77573ea767a4c9a67cb76a01c6af4a22954b93674be4845&=&width=392&height=663)
 
 ---
 # Capítulo I: Introducción
@@ -104,7 +106,7 @@ Buscamos ser reconocidos a nivel nacional e internacional como la plataforma lí
     <td><b>Nombre:</b> Sebastian Alejandro Montes Molina<br>
         <b>Carrera:</b> Ingenieria de Software <br>
        <b>Descripcion:</b> Mi nombre es Sebastian Alejandro Montes Molina con código u201712366 y soy estudiante de la carrera de ingeniería de software. Lo que puedo aportar con el equipo es en poder flexibilizar con la carga de tareas dentro del equipo, asimismo con mi experiencia en cursos pasados llevados y adelantados, como manejo de Azure y conocimientos en Angular y React. Mis expectativas para el curso es poder aprender un poco más de Backend con Java, ya que lo siento más profundo, al ser un tema muy amplio y con muchas configuraciones. 
-    <td><img src="https://media.discordapp.net/attachments/1149328487358930944/1149490319201681490/image.png" alt="Anthony" width="150" height="200"></td>
+    <td><img src="https://media.discordapp.net/attachments/1149328487358930944/1156356656259674142/image.png?ex=6514ac8e&is=65135b0e&hm=9a1f1f2cccb590c61f9cb4964fc7294ceb7cf1053d349495c3ebc9c26c33ff76&=" alt="Anthony" width="150" height="200"></td>
    
   </tr>
     <td><b>Nombre:</b> Anthony Avalos Santos<br>
@@ -124,17 +126,6 @@ Buscamos ser reconocidos a nivel nacional e internacional como la plataforma lí
        </td>
     <td><img src="https://media.discordapp.net/attachments/818234057389375488/1156362233828343888/26585202145852354.jpeg?ex=6514b1c0&is=65136040&hm=4a2d981ffe1c844fb7c0d20d08f5924a7f0fb3495d6faebb9c2bb6fa0e9f7e0d&=&width=343&height=519" alt="Lucía A" width="150" height="200"></td>
   </tr>
-
-  <tr>
-    <td>
-        <b>Nombre:</b> Manuel Angel Sanchez Arenas<br>
-        <b>Carrera:</b> Ingeniería de Software <br>
-        <b>Descripción:</b> Encontré mi pasión por el software hace 5 años y desde entonces me encuentro estudiando nuevas herramientas y lenguajes para mejorar mis habilidades. Actualmente cuento con conocimientos de Javascript, Node.js, React.js, C#, Python y bases de datos como SQL y MongoDB<br>
-    </td>
-    <td>
-        <img src="https://media.discordapp.net/attachments/1149328487358930944/1149490975543152660/AITFw-z7B-oYAblp6lDVbRER5WGAL7MNJVaPulwfiir30Xtj_6XK-Vm89ul4Y0HstWXQpch7jyuTov9FTbPQCtAPQtG_lKN50gw1920-h897.png?width=451&height=583" alt="Manuel">
-    </td>
-</tr
 
 </table>
 
@@ -1372,6 +1363,13 @@ Room: Esta clase representa las habitaciones dentro de un alojamiento que es pub
 
 Picture: Esta clase representa las imágenes asociadas a cada una de las habitaciones que tendrá disponible el arrendador.
 Notification: Esta clase representa las notificaciones que ambos usuarios pueden o no recibir en la plataforma.
+### Dababase Desing.
+
+![C1](https://media.discordapp.net/attachments/1149328487358930944/1156284679733915738/image.png?ex=65146986&is=65131806&hm=9d25ab6c8c0a0010bcf21024fbaa29542452e0d7ef40598cfd8f27520eaa335f&=&width=1181&height=663)
+
+### Database Diagram.
+
+![C1](https://media.discordapp.net/attachments/1149328487358930944/1156284772381888665/image.png?ex=6514699c&is=6513181c&hm=49a35a6fc751474d8a1bbaf935d33a5829542061d162221e05ad76f5ad68a3bd&=&width=1188&height=663)
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
@@ -2324,13 +2322,17 @@ _En esta entrega, no se incluyó dicha sección, ya que no se realizaron tests c
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
 
-Enlace del vídeo: [Execution Evidence for Sprint Review.mp4]()
+![](https://media.discordapp.net/attachments/1149328487358930944/1156372691528466442/image.png?ex=6514bb7e&is=651369fe&hm=868d8bb786e80eb84ee37ff76018361eeb984d51ed1ad715e985c31260c06a9c&=&width=1186&height=663)
 
-![preview]()
+Enlace del vídeo: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u201712366_upc_edu_pe/EYB93ee4JGBLnZ9BoXQyweYBgmRNbxNN6nSHoD4ZNLrQlA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=3RPnYP]()
+
+
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
+![asa](https://media.discordapp.net/attachments/1149328487358930944/1156371532008927282/image.png?ex=6514ba69&is=651368e9&hm=1c1223e0984155512fdec0ff1cf7034413843e1c29565922cf565cad0d2f69ac&=&width=1431&height=592)
 
+Enlace del vídeo: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u201712366_upc_edu_pe/EZZMcVLFkfFNv4mJWDdBMjoBQXqeeHYkS-Tsc4Fb4tUjPg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=BwM0e6]()
 
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
