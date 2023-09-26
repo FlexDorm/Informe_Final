@@ -115,7 +115,7 @@ Buscamos ser reconocidos a nivel nacional e internacional como la plataforma lí
     <td><b>Nombre:</b> Jamutaq Ortega Vélez<br>
         <b>Carrera:</b> Ingeniería de Software <br>
        <b>Descripción:</b> Tengo experiencia en el desarrollo frontend con tecnologías como React, Angular y HTML, y también en el backend con Spring, .Net Core y Express.js; sin embargo, me especializo más en el desarrollo backend y base de datos. Soy una persona honesta, responsable y dispuesto a aprender más y dar lo mejor de mi persona.</td>
-    <td><img src="https://media.discordapp.net/attachments/1149328487358930944/1149490452978995250/photo_2020-11-29_17-19-46_2.jpg?width=655&height=655" alt="Anthony"></td>
+    <td><img src="https://media.discordapp.net/attachments/1146180316269129799/1156355949414592642/foto_formal-removebg-preview.jpg" alt="Jamutaq O" width="150" height="150"></td>
 <tr>
     <td><b>Nombre:</b> Lucía Aliaga Trevejo<br>
         <b>Carrera:</b> Ingenieria de Software <br>
