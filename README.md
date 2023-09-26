@@ -16,7 +16,7 @@ Sección SW53
 
 **Profesor:** Elio Jefferrson Navarrete Vilca
 
-**_INFORME DE TRABAJO FINAL - TB1_**
+**_INFORME DE TRABAJO FINAL - TP1_**
 
 **Startup:** TechArtristy
 
