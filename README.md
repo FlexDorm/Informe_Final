@@ -169,7 +169,7 @@ Who (quién)
 
 La población a la que afecta este problema son los estudiantes universitarios que viven lejos de sus centros de estudio. Ellos utilizarán nuestra aplicación para arrendar alojamientos temporales, económicos y cerca de sus universidades en situaciones de urgencia. Por ejemplo, si tienen un examen a primera hora y temen llegar tarde por el tráfico o si sus clases terminan tarde por la noche y quieren evitar exponerse a la inseguridad.
 
-Why (por qué)
+Why (por qué) 
 
 La causa principal del problema es la distancia que existe entre la vivienda del estudiante y la universidad. Dado que la cercanía al domicilio no es uno de los principales motivos por los que los universitarios eligen su lugar de estudios, un gran porcentaje de ellos hace uso del transporte público (INEI, 2015; Dirección General de Educación Superior Universitaria [DIGESU], 2021). Esta realidad empeora en una ciudad como Lima, que en el 2018 fue considerada como una de las ciudades con el peor tráfico del mundo (Almeida, 2019).
 
@@ -184,8 +184,8 @@ De acuerdo al Instituto Nacional de Estadística e Informática, en el 2014, el 
 <b>Gráfico 1. Egresados universitarios, según los motivos por los que eligieron la universidad donde estudiaron, 2014</b>
 
 <img src="https://cdn.discordapp.com/attachments/1149328487358930944/1149400236305948733/image.png" alt="Estadistica">
-
-<b>Fuente: INEI - Encuesta Nacional a Egresados y Universidades, 2014</b>
+ 
+<b>Fuente: INEI - Encuesta Nacional a Egresados y Universidades, 2014</b> 
 
 No se cuenta con cifras más recientes de esta entidad, sin embargo, en el 2021 se realizó una investigación sobre los factores que influyen en la elección de una universidad en jóvenes de Piura. En ella se encontró que solo el 12% de los estudiantes considera como “muy importante” que la universidad se encuentre cerca de su vivienda, priorizando otros factores como el prestigio del centro de estudios (Sota & Viteri, 2021). Esto resalta que, para una parte significativa de los estudiantes, vivir lejos de sus universidades no es un factor determinante en la elección de su institución educativa.
 
