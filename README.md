@@ -2738,12 +2738,12 @@ Para llevar a cabo los registros de cambio hemos empleado las aplicaciones Intel
 
 <table border=1>
   <tr>
-    <td>
-      <b>Nombres y apellidos:</b> Aldo Mendoza Canchari <br>
-      <b>Edad:</b> 20 años <br>
-      <b>Distrito:</b> San Juan de Lurigancho <br>
-      <b>Timing:</b> 16:15 - 25:29 <br>
-      <b>Duración:</b> 9:14 minutos
+     <td>
+      <b>Nombres y apellidos:</b> Lorena Sophia Castro Nuñez <br>
+      <b>Edad:</b> 19 años <br>
+      <b>Distrito:</b> Los Olivos <br>
+      <b>Timing:</b> 00:00 - 06:02 <br>
+      <b>Duración:</b> 06:02 minutos 
     </td>
     <td align=center>
       <img src="https://media.discordapp.net/attachments/1149328487358930944/1149338864197050368/image.png" alt="img"  width="80%"/>
@@ -2753,7 +2753,31 @@ Para llevar a cabo los registros de cambio hemos empleado las aplicaciones Intel
     <td colspan=2>
         <b>Enlace:</b> <a>https://upcedupe.sharepoint.com/:v:/s/APLICACIONESOPENSOURCE850/EUwKjCeVpmBJrHiSvrAX1TMBeU9W77Ml0ZYInd5_sEesGQ?e=Epv5HE</a>
       <br>
-      <b>Resumen:</b> Aldo es un estudiante de la carrera de Odontología de la Universidad Nacional Federico Villarreal en Pueblo Libre. Se considera una persona tranquila y conversadora, cuya habilidad más resaltante es bailar. Los dispositivos que usa con más frecuencia son su laptop y celular. Sus marcas favoritas son HP y Samsung. Sus canales principales de comunicación son Whatsapp y Facebook, los cuales usa para comunicarse con sus compañeros de la universidad. Aldo comenta que tarda un promedio de dos horas en movilizarse desde su casa a la universidad y sus principales desafíos son el tráfico y la delincuencia, en especial durante la noche, lo cual le hace sentir agobiado. Por esta razón, estaría dispuesto a usar una aplicación que le ayude a encontrar habitaciones cerca del campus. Él sugiere que la búsqueda se realice ingresando la dirección de la universidad y no necesariamente requiera que se comparta su ubicación. Le gustaría que la app contenga información detallada de las habitaciones y poder visualizarlas en un mapa. También considera útil tener un chat de voz o videollamada con el arrendador para tener una comunicación más fluida. 
+      <b>Resumen:</b> Sophia es una estudiante de Diseño Profesional Gráfico que está interesada en arrendar habitaciones cerca de su universidad, ya que suele tener clases durante la tarde y noche. Ella  comenta que el diseño del Landing Page le parece atractivo y que la información es clara y concisa. Respecto a la aplicación web, menciona que le fue fácil navegar y alquilar una habitación. Sin embargo, considera que el diseño es algo simple a diferencia del Landing Page. Como propuesta de mejora, sugiere agregar una sección de comentarios y valoraciones por cada habitación.
+    </td>
+  </tr>
+</table>
+
+- **Entrevista 2**
+  
+<table border=1>
+  <tr>
+     <td>
+      <b>Nombres y apellidos:</b> Rudy Jayde Choque Cruz <br>
+      <b>Edad:</b> 24 años <br>
+      <b>Distrito:</b> Cercado de Lima <br>
+      <b>Timing:</b> 06:02 - 10:08 <br>
+      <b>Duración:</b> 04:06 minutos 
+    </td>
+    <td align=center>
+      <img src="https://media.discordapp.net/attachments/1149328487358930944/1149338864197050368/image.png" alt="img"  width="80%"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2>
+        <b>Enlace:</b> <a>https://upcedupe.sharepoint.com/:v:/s/APLICACIONESOPENSOURCE850/EUwKjCeVpmBJrHiSvrAX1TMBeU9W77Ml0ZYInd5_sEesGQ?e=Epv5HE</a>
+      <br>
+      <b>Resumen:</b> Rudy es un estudiante de Ingeniería de Sistemas de la Universidad Peruana de Ciencias Aplicadas que vive lejos del campus, por lo que le interesaría contar con una aplicación que le permita alquilar habitaciones cerca de su centro de estudios. Él comenta que el Landing Page le parece atractivo ya que contiene la información necesaria para el usuario. Además, no presentó ningún problema para la navegación en los dispositivos que utilizó (computadora y celular). Sobre la aplicación web, menciona que no tuvo complicaciones para hacer la reserva de una habitación, pero le gustaría ver más habitaciones disponibles.
     </td>
   </tr>
 </table>
