@@ -72,9 +72,9 @@ conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el l
 del ABET – EAC - Student Outcome 5.
 
 
-![outcome](https://media.discordapp.net/attachments/1149328487358930944/1156373834912501790/image.png?ex=6514bc8e&is=65136b0e&hm=56bc0850a3243d93e87b2b3c7b042da5293f742ea93330f18b760f47423a4506&=&width=384&height=663)
+![outcome](https://media.discordapp.net/attachments/1149328487358930944/1170403835752239114/image.png?ex=6558ea83&is=65467583&hm=4e29ea0de7119a0fce59dff68a86406041fdb84f36c84f0b2ed174907a9fda08&=&width=727&height=528)
 
-![outcome2](https://media.discordapp.net/attachments/1149328487358930944/1156373889090330684/image.png?ex=6514bc9b&is=65136b1b&hm=1a8163c4b0f672b3c77573ea767a4c9a67cb76a01c6af4a22954b93674be4845&=&width=392&height=663)
+![outcome2](https://media.discordapp.net/attachments/1149328487358930944/1170404062047502407/image.png?ex=6558eab9&is=654675b9&hm=8a36a19b8a04b8978c0a179e5ec95ad143f6063cd3180d2f1daeaa48022df123&=&width=728&height=555)
 
 ---
 # Capítulo I: Introducción
@@ -2912,11 +2912,15 @@ En el landing page, no se proporciona un "call to action" (llamado a la acción)
 
 ## 5.4. Video About-the-Product
 
-Link al video: [Video About-the-Product]()
+![img](https://media.discordapp.net/attachments/1149328487358930944/1170402568397140038/image.png?ex=6558e955&is=65467455&hm=3fb72a11382525ba6315e98e97f3327de330572f7ced37271dd5a4159a2c8fce&=&width=1178&height=662)
+
+Link al video: [Video About-the-Product](https://www.youtube.com/watch?v=c3L6tnErgUg)
 
 ## 5.5. Video About-the-Team
 
-Link al video: [Video About-the-Team]()
+![img](https://media.discordapp.net/attachments/1149328487358930944/1170412310150529084/image.png?ex=6558f267&is=65467d67&hm=1547ea42c49d8b90210a82e7b6da5ab63b38172a8a74f13c3d37014f7f376cb3&=&width=1222&height=662)
+
+Link al video: [Video About-the-Team](https://upcedupe.sharepoint.com/:v:/s/APLICACIONESOPENSOURCE850/ERFkU6TC-ElMhCIy66isNMABpiSO4zSPyx-Ocj5UWBeiBA?e=PcV5ic&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
 # Conclusiones
 
