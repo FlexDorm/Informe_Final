@@ -2762,7 +2762,7 @@ Para llevar a cabo los registros de cambio hemos empleado las aplicaciones Intel
   </tr>
   <tr>
     <td colspan=2>
-        <b>Enlace:</b> <a>https://upcedupe.sharepoint.com/:v:/s/APLICACIONESOPENSOURCE850/EUwKjCeVpmBJrHiSvrAX1TMBeU9W77Ml0ZYInd5_sEesGQ?e=Epv5HE</a>
+        <b>Enlace:</b> <a>https://upcedupe.sharepoint.com/:v:/s/APLICACIONESOPENSOURCE850/ESSFvUA0UTNMqYE4thpf2HQB8Zs9WijaNjj71smz9SyM4w?e=LOA8yF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19</a>
       <br>
       <b>Resumen:</b> Sophia es una estudiante de Diseño Profesional Gráfico que está interesada en arrendar habitaciones cerca de su universidad, ya que suele tener clases durante la tarde y noche. Ella  comenta que el diseño del Landing Page le parece atractivo y que la información es clara y concisa. Respecto a la aplicación web, menciona que le fue fácil navegar y alquilar una habitación. Sin embargo, considera que el diseño es algo simple a diferencia del Landing Page. Como propuesta de mejora, sugiere agregar una sección de comentarios y valoraciones por cada habitación.
     </td>
@@ -2786,7 +2786,7 @@ Para llevar a cabo los registros de cambio hemos empleado las aplicaciones Intel
   </tr>
   <tr>
     <td colspan=2>
-        <b>Enlace:</b> <a>https://upcedupe.sharepoint.com/:v:/s/APLICACIONESOPENSOURCE850/EUwKjCeVpmBJrHiSvrAX1TMBeU9W77Ml0ZYInd5_sEesGQ?e=Epv5HE</a>
+        <b>Enlace:</b> <a>https://upcedupe.sharepoint.com/:v:/s/APLICACIONESOPENSOURCE850/ESSFvUA0UTNMqYE4thpf2HQB8Zs9WijaNjj71smz9SyM4w?e=LOA8yF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19</a>
       <br>
       <b>Resumen:</b> Rudy es un estudiante de Ingeniería de Sistemas de la Universidad Peruana de Ciencias Aplicadas que vive lejos del campus, por lo que le interesaría contar con una aplicación que le permita alquilar habitaciones cerca de su centro de estudios. Él comenta que el Landing Page le parece atractivo ya que contiene la información necesaria para el usuario. Además, no presentó ningún problema para la navegación en los dispositivos que utilizó (computadora y celular). Sobre la aplicación web, menciona que no tuvo complicaciones para hacer la reserva de una habitación, pero le gustaría ver más habitaciones disponibles.
     </td>
@@ -2813,7 +2813,7 @@ Para llevar a cabo los registros de cambio hemos empleado las aplicaciones Intel
   </tr>
   <tr>
     <td colspan=2>
-        <b>Enlace:</b> <a> </a>
+        <b>Enlace:</b> <a> https://upcedupe.sharepoint.com/:v:/s/APLICACIONESOPENSOURCE850/ESSFvUA0UTNMqYE4thpf2HQB8Zs9WijaNjj71smz9SyM4w?e=LOA8yF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19 </a>
       <br>
       <b>Resumen:</b> En la entrevista Vladimir comenta que le gusta el estilo minimalista de la aplicación, también recomienda agregar más colores que hagan contraste y agregar nuevos temas. En general, le gustó el propósito y diseño de la app, el proceso de reserva fue familiar para el y está satisfecho con el resultado
     </td>
@@ -2839,7 +2839,7 @@ Para llevar a cabo los registros de cambio hemos empleado las aplicaciones Intel
   </tr>
   <tr>
     <td colspan=2>
-        <b>Enlace:</b> <a> </a>
+        <b>Enlace:</b> <a> https://upcedupe.sharepoint.com/:v:/s/APLICACIONESOPENSOURCE850/ESSFvUA0UTNMqYE4thpf2HQB8Zs9WijaNjj71smz9SyM4w?e=LOA8yF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19 </a>
       <br>
       <b>Resumen:</b> Lucero Lizbeth nos comenta que su experiencia usando la aplicacion fue muy buena, le convence demasiado la interfaz, le parece que es facil de manejar. Referente al LandingPage, nos comenta que tiene todo lo necesario para darle la idea base del proposito de la startup. Tambien nos comenta que el apartado de registrar habitacion es muy bueno y que solicita la informacion necesaria para que el estudiante pueda facilitar su tarea.
     </td>
