@@ -2795,33 +2795,56 @@ Para llevar a cabo los registros de cambio hemos empleado las aplicaciones Intel
 
 <br>
 
+
+- **Entrevista 3**
+
+<table border=1>
+  <tr>
+     <td>
+      <b>Nombres y apellidos:</b> Quique Jara Vladimir <br>
+      <b>Edad:</b> 20 <br>
+      <b>Distrito:</b> Monterrico <br>
+      <b>Timing:</b> 10:08 - 17:00 <br>
+      <b>Duración:</b> 6:52  
+    </td>
+    <td align=center>
+      <img src="https://media.discordapp.net/attachments/1149328487358930944/1170400668251603046/image.png?ex=6558e790&is=65467290&hm=b1df63131afb25fc33f53532ccc27d45ad5a26d75f2cfbf3b68594dee801a146&=&width=1174&height=655"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2>
+        <b>Enlace:</b> <a> </a>
+      <br>
+      <b>Resumen:</b> En la entrevista Vladimir comenta que le gusta el estilo minimalista de la aplicación, también recomienda agregar más colores que hagan contraste y agregar nuevos temas. En general, le gustó el propósito y diseño de la app, el proceso de reserva fue familiar para el y está satisfecho con el resultado
+    </td>
+  </tr>
+</table>
+
 #### Segmento 2: Arrendadores
 
 - **Entrevista 1**
 
 <table border=1>
   <tr>
-    <td>
-      <b>Nombres y apellidos:</b> Aldo Mendoza Canchari <br>
-      <b>Edad:</b> 20 años <br>
-      <b>Distrito:</b> San Juan de Lurigancho <br>
-      <b>Timing:</b> 16:15 - 25:29 <br>
-      <b>Duración:</b> 9:14 minutos
+     <td>
+      <b>Nombres y apellidos:</b> Lucero Aranda Site <br>
+      <b>Edad:</b> 31 <br>
+      <b>Distrito:</b> San Borja <br>
+      <b>Timing:</b> 17:00 - 17:06 <br>
+      <b>Duración:</b> 6:00  
     </td>
     <td align=center>
-      <img src="https://media.discordapp.net/attachments/1149328487358930944/1149338864197050368/image.png" alt="img"  width="80%"/>
+      <img src="https://media.discordapp.net/attachments/1149328487358930944/1170400520020701274/image.png?ex=6558e76c&is=6546726c&hm=c47320b8ece85ac574f050508a88bd712347aa385bad29a3fd86b582d39d7394&=&width=1190&height=617"/>
     </td>
   </tr>
   <tr>
     <td colspan=2>
-        <b>Enlace:</b> <a>https://upcedupe.sharepoint.com/:v:/s/APLICACIONESOPENSOURCE850/EUwKjCeVpmBJrHiSvrAX1TMBeU9W77Ml0ZYInd5_sEesGQ?e=Epv5HE</a>
+        <b>Enlace:</b> <a> </a>
       <br>
-      <b>Resumen:</b> Aldo es un estudiante de la carrera de Odontología de la Universidad Nacional Federico Villarreal en Pueblo Libre. Se considera una persona tranquila y conversadora, cuya habilidad más resaltante es bailar. Los dispositivos que usa con más frecuencia son su laptop y celular. Sus marcas favoritas son HP y Samsung. Sus canales principales de comunicación son Whatsapp y Facebook, los cuales usa para comunicarse con sus compañeros de la universidad. Aldo comenta que tarda un promedio de dos horas en movilizarse desde su casa a la universidad y sus principales desafíos son el tráfico y la delincuencia, en especial durante la noche, lo cual le hace sentir agobiado. Por esta razón, estaría dispuesto a usar una aplicación que le ayude a encontrar habitaciones cerca del campus. Él sugiere que la búsqueda se realice ingresando la dirección de la universidad y no necesariamente requiera que se comparta su ubicación. Le gustaría que la app contenga información detallada de las habitaciones y poder visualizarlas en un mapa. También considera útil tener un chat de voz o videollamada con el arrendador para tener una comunicación más fluida. 
+      <b>Resumen:</b> Lucero Lizbeth nos comenta que su experiencia usando la aplicacion fue muy buena, le convence demasiado la interfaz, le parece que es facil de manejar. Referente al LandingPage, nos comenta que tiene todo lo necesario para darle la idea base del proposito de la startup. Tambien nos comenta que el apartado de registrar habitacion es muy bueno y que solicita la informacion necesaria para que el estudiante pueda facilitar su tarea.
     </td>
   </tr>
 </table>
-
-<br>
 
 ### 5.3.3. Evaluaciones según heurísticas
 
