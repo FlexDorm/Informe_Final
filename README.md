@@ -2353,6 +2353,452 @@ En el segundo Sprint, se utilizaron Visual Studio Code, HitHub Desktop y Git par
 
 ![Commits3](https://media.discordapp.net/attachments/1149328487358930944/1156324257274544329/image.png?ex=65148e62&is=65133ce2&hm=b179af4acb9cc2ac12ff6a53906175f4e1f60cbedc6c052da96f6b41f610c8fe&=&width=683&height=618) 
 
+
+### 5.2.3. Sprint 3
+
+#### 5.2.3.1. Spring Planning 3
+
+|Sprint 3|Mejoras en las Funcionalidades de la aplicación - Backend|
+| :- | :- |
+|**Sprint Planning Background**||
+|Date|20/10/2023|
+|Time|22:00|
+|Location|Microsoft Teams|
+|Prepared By |Sebastian Montes Molina|
+|Attendees|<p>Aliaga Trevejo, Lucía Guadalupe /</p><p>Ávalos Santos, Anthony Piero /</p><p>Montes Molina, Sebastian Alejando /</p><p>Ortega Vélez, Jamutaq Piero </p>|
+|Sprint 3 Review Summary|Se logro el resultado de implementar la lógica de negocio en el backend, desarrollando una primera versión de la API|
+|Sprint 3 Retrospective Summary|Mejora en la distribucion de actividades y trabajo colaborativo en parejas|
+|**Sprint Goal & User Stories**||
+|Sprint 3 Goal|26 Story Points para este Sprint|
+|Sprint 3 Velocity|7 Story Points por integrante|
+|Sum of Story Points|30 Story Points en total|
+
+#### 5.2.3.2. Sprint Backlog 3
+
+<table align="center"  border="1" width="70%" style="text-align:center;">
+  <tr align="center">
+    <td>
+      <b>Sprint #</b>
+    </td>
+    <td colspan=7>
+      Sprint 2
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2>
+      <b>User Story</b>
+    </td>
+    <td colspan=6>
+      Work-Item / Task
+    </td>
+  </tr>
+  <tr align="center">
+    <td>
+      <b>Id</b>
+    </td>
+    <td>
+      <b>Title</b>
+    </td>
+    <td>
+      <b>Id</b>
+    </td>
+    <td>
+      <b>Title</b>
+    </td>
+    <td>
+      <b>Description</b>
+    </td>
+    <td>
+      <b>Estimation (Hours)</b>
+    </td>
+    <td>
+      <b>Assigned To</b>
+    </td>
+    <td>
+      <b>Status</b>
+    </td>
+  </tr>
+  <tr align="left">
+    <td>
+      US01
+    </td>
+    <td>
+      Usuario se registra en la aplicación con usuario, contraseña, datos personales y correo institucional
+    </td>
+    <td>
+      S01
+    </td>
+    <td>
+      Implementación del bounded context Security_Management
+    </td>
+    <td>
+      Desarrollo e implementación de entidades y servicios para el registro de usuarios usando Spring Boot y Java
+    </td>
+    <td>
+      4
+    </td>
+    <td>
+      Lucía Aliaga / Jamutaq Ortega
+    </td>
+    <td>
+      Done
+    </td>
+  </tr>
+  <tr align="left">
+    <td>
+      US02
+    </td>
+    <td>
+     Usuario completa su registro con sus datos personales
+    </td>
+    <td>
+      S02
+    </td>
+    <td>
+      Implementación del bounded context Security_Management
+    </td>
+    <td>
+      Desarrollo e implementación de entidades y servicios para el registro de usuarios usando Spring Boot y Java
+    </td>
+    <td>
+      4
+    </td>
+    <td>
+      Lucía Aliaga / Jamutaq Ortega
+    </td>
+    <td>
+      Done
+    </td>
+  </tr>
+  <tr align="left">
+    <td>
+      US03
+    </td>
+    <td>
+      Usuario registrado inicia sesión con su usuario y contraseña.
+    </td>
+    <td>
+      S03
+    </td>
+    <td>
+      Implementación del bounded context Security_Management
+    </td>
+    <td>
+      Desarrollo e implementación de entidades y servicios para el inicio de sesión usando Spring Boot y Java
+    </td>
+    <td>
+      2
+    </td>
+    <td>
+      Lucía Aliaga / Jamutaq Ortega
+    </td>
+    <td>
+      Done
+    </td>
+  </tr>
+  <tr align="left">
+    <td>
+      US04
+    </td>
+    <td>
+      Usuario registrado desea cambiar su información personal.
+    </td>
+    <td>
+      S04
+    </td>
+    <td>
+      Implementación del bounded context Security_Management
+    </td>
+    <td>
+      Desarrollo e implementación del método update para editar la información del usuario
+    </td>
+    <td>
+      5
+    </td>
+    <td>
+      Lucía Aliaga / Jamutaq Ortega
+    </td>
+    <td>
+      Done
+    </td>
+  </tr>
+ <tr align="left">
+    <td>
+      US06
+    </td>
+    <td>
+      Arrendador registra su habitacion a alquilar en la aplicación con la dirección, precio y tamaño
+    </td>
+    <td>
+      S06
+    </td>
+    <td>
+      Implementación del bounded context Rental_Management
+    </td>
+    <td>
+      Desarrollo e implementación de entidades y servicios para el registro de habitaciones usando Spring Boot y Java
+    </td>
+    <td>
+      6
+    </td>
+    <td>
+      Sebastian Montes / Anthony Ávalos
+    </td>
+    <td>
+      Done
+    </td>
+  </tr>
+  <tr align="left">
+    <td>
+      US07
+    </td>
+    <td>
+     Arrendador revisa sus reservas con la informacion de la habitacion y el estado del mismo
+    </td>
+    <td>
+      S07
+    </td>
+    <td>
+      Implementación del bounded context Rental_Management
+    </td>
+    <td>
+      Implementación de método read para obtener la información de las habitaciones
+    </td>
+    <td>
+      5
+    </td>
+    <td>
+      Sebastian Montes / Anthony Ávalos
+    </td>
+    <td>
+      Done
+    </td>
+  </tr>
+  <tr align="left">
+    <td>
+      US10
+    </td>
+    <td>
+      Arrendatario reserva una habitacion dentro de la aplicación.
+    </td>
+    <td>
+      S10
+    </td>
+    <td>
+      Implementación del bounded context Rental_Management
+    </td>
+    <td>
+      Implementación de método post para realizar la reserva de habitación
+    </td>
+    <td>
+      9
+    </td>
+    <td>
+      Sebastian Montes / Anthony Ávalos
+    </td>
+    <td>
+      Done 
+    </td>
+  </tr>
+</table>
+
+#### 5.2.3.3. Development Evidence for Sprint Review
+
+![img](https://media.discordapp.net/attachments/1149328487358930944/1170224149038366832/image.png?ex=6558432a&is=6545ce2a&hm=5b235dfb76fe80dc20dde61efefbfea3910cd9ccca9814921190aad2aad946d3&=&width=1239&height=655)
+
+#### 5.2.3.4. Testing Suite Evidence for Sprint Review
+
+#### 5.2.3.5. Execution Evidence for Sprint Review
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+<table align="center">
+  <thead>
+    <tr>
+      <th>EndPoint</th>
+      <th>Detalles</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>(PUT) /api/v1/auth/student/{studentId}</td>
+      <td>Actualiza los datos de un estudiante</td>
+    </tr>
+    <tr>
+      <td>(PUT) /api/v1/auth/reactivate/{userId}</td>
+      <td>Reactiva la cuenta de un estudiante</td>
+    </tr>
+    <tr>
+      <td>(PUT) /api/v1/auth/delete/{userId}</td>
+      <td>Elimina lógicamente la cuenta de un usuario</td>
+    </tr>
+    <tr>
+      <td>(PUT) /api/v1/auth/arrender/{arrenderId}</td>
+      <td>Actualiza los datos de un arrendador</td>
+    </tr>
+    <tr>
+      <td>(POST) /api/v1/auth/signUp/student</td>
+      <td>Registra un estudiante</td>
+    </tr>
+    <tr>
+      <td>(POST) /api/v1/auth/signUp/arrender</td>
+      <td>Registra un arrendador</td>
+    </tr>
+    <tr>
+      <td>(POST) /api/v1/auth/signIn</td>
+      <td>Inicia sesión (usuario y arrendador)</td>
+    </tr>
+    <tr>
+      <td>(POST) /api/v1/room/registerRoom</td>
+      <td>Registra una habitación</td>
+    </tr>
+    <tr>
+      <td>(GET) /api/v1/room/getRoomsByStatusId/{status}</td>
+      <td>Obtiene el listado de habitaciones por estado</td>
+    </tr>
+    <tr>
+      <td>(GET) /api/v1/room/getRoomsByRoomId/{roomId}</td>
+      <td>Obtiene el listado de habitaciones por ID</td>
+    </tr>
+    <tr>
+      <td>(GET) /api/v1/room/getRoomsByArrenderId/{arrenderId}</td>
+      <td>Obtiene el listado de habitaciones por ID del arrendador</td>
+    </tr>
+    <tr>
+      <td>(POST) /api/v1/rental/registerRental</td>
+      <td>Registra un alquiler</td>
+    </tr>
+    <tr>
+      <td>(GET) /api/v1/rental/getRentalsByStudentId/{student}</td>
+      <td>Obtiene el listado de alquileres por ID de estudiante</td>
+    </tr>
+  </tbody>
+</table>
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+Para automatizar la publicación de nuestra interfaz de usuario, utilizamos la plataforma Vercel, la cual facilita el despliegue de forma eficiente y veloz, garantizando una compilación sin fallos. Esto nos permite crear un sitio web accesible a través del siguiente enlace: https://flex-dorm-web-application-mu.vercel.app/login
+
+![img](https://media.discordapp.net/attachments/1149328487358930944/1170229414420824145/image.png?ex=65584812&is=6545d312&hm=10b6ee18683abd5dde8ff5bac273d171a3c32a96bd734ee9554aa33149080882&=&width=866&height=653)
+
+Por otro lado, para el despliegue de nuestra API, utilizamos la plataforma Digital Ocean, la cual nos permite desplegar nuestra aplicación de forma gratuita. Esto nos permite crear un sitio web accesible a través del siguiente enlace: https://flexidorm-api-fkacd.ondigitalocean.app/swagger-ui/index.html
+
+![img](https://media.discordapp.net/attachments/1149328487358930944/1170229884237398116/image.png?ex=65584882&is=6545d382&hm=98949a6116a4c9440779655fad9284061c1cec4fd7c3d8b403cb44efaf21eea6&=&width=1122&height=655)
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint
+
+Para llevar a cabo los registros de cambio hemos empleado las aplicaciones IntelliJ y Visual Studio Code, junto con la plataforma Git y GitHub. Inicialmente, uno de los miembros realizó el primer registro para establecer el repositorio. Posteriormente, utilizamos Git para clonar este repositorio y efectuar las modificaciones necesarias. Luego, creamos ramas específicas para cada conjunto de cambios antes de efectuar los registros, los cuales serán revisados en el repositorio de Github.
+
+![Network-graph](https://media.discordapp.net/attachments/1149328487358930944/1170239454099820624/image.png?ex=6558516b&is=6545dc6b&hm=8769c0816d029a50a10f201b5a5903ecb115ca4f30c50054a7dddcbb1b3e3795&=)
+
+![Network-graph](https://media.discordapp.net/attachments/1149328487358930944/1170239537922973786/image.png?ex=6558517f&is=6545dc7f&hm=bff6e063e5b38dc27772a280a1e879fce204323722026811a15be3f645538f48&=)
+
+![img](https://media.discordapp.net/attachments/1149328487358930944/1170231290625261608/image.png?ex=655849d1&is=6545d4d1&hm=0fed6e4088439834bb34b0e23198ead37d94b021d9120146c5a053e78660b100&=)
+
+![img](https://media.discordapp.net/attachments/1149328487358930944/1170231725306150922/image.png?ex=65584a39&is=6545d539&hm=53c4e569bd7ad558065b481cdb7a0b852ecb38af487186da3b5d0067e398f33c&=&width=652&height=655)
+
+## 5.3. Validation Interviews
+
+### 5.3.1. Diseño de Entrevistas
+
+#### Segmento 1: Estudiantes Universitarios
+
+1. ¿Cuál es tu nombre?
+2. ¿Cuántos años tienes?
+3. ¿En qué universidad estudias?
+4. ¿Te parece útil alquilar una habitación cerca de tu centro de estudios?
+5. ¿Te parece atractiva la manera en la que se promociona nuestra aplicación en la Landing Page?
+6. ¿Consideras que contiene toda la información necesaria sobre el funcionamiento y propósito de la aplicación?
+7. ¿Qué opinas sobre el diseño de la página y qué calificación le darías del 1 al 10?
+8. ¿Qué dispositivo usaste para acceder a la página? ¿Presentaste algún inconveniente para navegar o interactuar con la página?
+9. ¿Qué opinas sobre el apartado de reservas?
+10. ¿Te resultó fácil realizar la reserva de una habitación?
+11. ¿Qué características consideras que son útiles y cuáles se podrían mejorar o agregar?
+12. ¿Consideras que el diseño es adecuado?
+
+#### Segmento 2: Arrendadores
+
+1. ¿Cuál es su nombre?
+2. ¿Cuál es su edad?
+3. ¿Desde hace cuánto tiempo arrienda habitaciones para estudiantes?
+4. ¿Le parece atractiva la manera en la que se promociona nuestra aplicación en la Landing Page?
+5. ¿Considera que contiene toda la información necesaria sobre el funcionamiento y propósito de la aplicación?
+6. ¿Qué opina sobre el diseño de la página y qué calificación le daría del 1 al 10?
+7. ¿Qué dispositivo usó para acceder a la página? ¿Presentó algún inconveniente para navegar o interactuar con la página?
+8. ¿Qué opina sobre el apartado para agregar habitaciones?
+9. ¿Le resultó fácil realizar agregar una habitación para alquilar?
+10. ¿Qué características considera que son útiles y cuáles se podrían mejorar o agregar?
+11. ¿Considera que el diseño es adecuado?
+
+### 5.3.2. Registro de Entrevistas
+
+#### Segmento 1: Estudiantes Universitarios
+
+- **Entrevista 1**
+
+<table border=1>
+  <tr>
+    <td>
+      <b>Nombres y apellidos:</b> Aldo Mendoza Canchari <br>
+      <b>Edad:</b> 20 años <br>
+      <b>Distrito:</b> San Juan de Lurigancho <br>
+      <b>Timing:</b> 16:15 - 25:29 <br>
+      <b>Duración:</b> 9:14 minutos
+    </td>
+    <td align=center>
+      <img src="https://media.discordapp.net/attachments/1149328487358930944/1149338864197050368/image.png" alt="img"  width="80%"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2>
+        <b>Enlace:</b> <a>https://upcedupe.sharepoint.com/:v:/s/APLICACIONESOPENSOURCE850/EUwKjCeVpmBJrHiSvrAX1TMBeU9W77Ml0ZYInd5_sEesGQ?e=Epv5HE</a>
+      <br>
+      <b>Resumen:</b> Aldo es un estudiante de la carrera de Odontología de la Universidad Nacional Federico Villarreal en Pueblo Libre. Se considera una persona tranquila y conversadora, cuya habilidad más resaltante es bailar. Los dispositivos que usa con más frecuencia son su laptop y celular. Sus marcas favoritas son HP y Samsung. Sus canales principales de comunicación son Whatsapp y Facebook, los cuales usa para comunicarse con sus compañeros de la universidad. Aldo comenta que tarda un promedio de dos horas en movilizarse desde su casa a la universidad y sus principales desafíos son el tráfico y la delincuencia, en especial durante la noche, lo cual le hace sentir agobiado. Por esta razón, estaría dispuesto a usar una aplicación que le ayude a encontrar habitaciones cerca del campus. Él sugiere que la búsqueda se realice ingresando la dirección de la universidad y no necesariamente requiera que se comparta su ubicación. Le gustaría que la app contenga información detallada de las habitaciones y poder visualizarlas en un mapa. También considera útil tener un chat de voz o videollamada con el arrendador para tener una comunicación más fluida. 
+    </td>
+  </tr>
+</table>
+
+<br>
+
+#### Segmento 2: Arrendadores
+
+- **Entrevista 1**
+
+<table border=1>
+  <tr>
+    <td>
+      <b>Nombres y apellidos:</b> Aldo Mendoza Canchari <br>
+      <b>Edad:</b> 20 años <br>
+      <b>Distrito:</b> San Juan de Lurigancho <br>
+      <b>Timing:</b> 16:15 - 25:29 <br>
+      <b>Duración:</b> 9:14 minutos
+    </td>
+    <td align=center>
+      <img src="https://media.discordapp.net/attachments/1149328487358930944/1149338864197050368/image.png" alt="img"  width="80%"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2>
+        <b>Enlace:</b> <a>https://upcedupe.sharepoint.com/:v:/s/APLICACIONESOPENSOURCE850/EUwKjCeVpmBJrHiSvrAX1TMBeU9W77Ml0ZYInd5_sEesGQ?e=Epv5HE</a>
+      <br>
+      <b>Resumen:</b> Aldo es un estudiante de la carrera de Odontología de la Universidad Nacional Federico Villarreal en Pueblo Libre. Se considera una persona tranquila y conversadora, cuya habilidad más resaltante es bailar. Los dispositivos que usa con más frecuencia son su laptop y celular. Sus marcas favoritas son HP y Samsung. Sus canales principales de comunicación son Whatsapp y Facebook, los cuales usa para comunicarse con sus compañeros de la universidad. Aldo comenta que tarda un promedio de dos horas en movilizarse desde su casa a la universidad y sus principales desafíos son el tráfico y la delincuencia, en especial durante la noche, lo cual le hace sentir agobiado. Por esta razón, estaría dispuesto a usar una aplicación que le ayude a encontrar habitaciones cerca del campus. Él sugiere que la búsqueda se realice ingresando la dirección de la universidad y no necesariamente requiera que se comparta su ubicación. Le gustaría que la app contenga información detallada de las habitaciones y poder visualizarlas en un mapa. También considera útil tener un chat de voz o videollamada con el arrendador para tener una comunicación más fluida. 
+    </td>
+  </tr>
+</table>
+
+<br>
+
+### 5.3.3. Evaluaciones según heurísticas
+
+
+## 5.4. Video About-the-Product
+
+Link al video: [Video About-the-Product]()
+
+## 5.5. Video About-the-Team
+
+Link al video: [Video About-the-Team]()
+
 # Conclusiones
 
 - Llevar a cabo un análisis exhaustivo de la competencia nos brinda la capacidad de identificar nuestras áreas de destaque y aquellas que necesitan mejoras. Esto, a su vez, nos capacita para ofrecer un servicio que se ajuste perfectamente a las demandas de nuestra audiencia.
