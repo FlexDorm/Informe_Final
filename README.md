@@ -10,7 +10,7 @@ Ciclo 2023-02
 
 <h2>Aplicaciones Open Source</h2>
 
-<h3>TP1 REPORT</h3>
+<h3>TB2 REPORT</h3>
 
 Sección SW53
 
@@ -1365,11 +1365,9 @@ Picture: Esta clase representa las imágenes asociadas a cada una de las habitac
 Notification: Esta clase representa las notificaciones que ambos usuarios pueden o no recibir en la plataforma.
 ### Dababase Desing.
 
-![C1](https://media.discordapp.net/attachments/1149328487358930944/1156284679733915738/image.png?ex=65146986&is=65131806&hm=9d25ab6c8c0a0010bcf21024fbaa29542452e0d7ef40598cfd8f27520eaa335f&=&width=1181&height=663)
-
 ### Database Diagram.
 
-![C1](https://media.discordapp.net/attachments/1149328487358930944/1156284772381888665/image.png?ex=6514699c&is=6513181c&hm=49a35a6fc751474d8a1bbaf935d33a5829542061d162221e05ad76f5ad68a3bd&=&width=1188&height=663)
+![C1](https://media.discordapp.net/attachments/1149328487358930944/1170389739321438208/c6c20f33-a121-4298-9175-7b479f881e11.png?ex=6558dd62&is=65466862&hm=57d915890e94bc9c1a75248aa3ea57b298733f577a3efb8ff97de228bbeb0686&=&width=678&height=634)
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
@@ -2608,6 +2606,19 @@ En el segundo Sprint, se utilizaron Visual Studio Code, HitHub Desktop y Git par
 
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review
 
+![img](https://media.discordapp.net/attachments/1149328487358930944/1170390864774828112/image.png?ex=6558de6e&is=6546696e&hm=ce54c51d99f7f8a8b1a0ccaeae269689e126232357b75d2653c093dbb2fe3e97&=&width=1065&height=656)
+
+![img](https://media.discordapp.net/attachments/1149328487358930944/1170391268753424434/image.png?ex=6558decf&is=654669cf&hm=ffc464f4aabf428a92bed9dc5b0a606106797316f0e1811a27a83a4b62335f75&=&width=1058&height=411)
+
+![imp](https://media.discordapp.net/attachments/1149328487358930944/1170391502032220283/image.png?ex=6558df06&is=65466a06&hm=8c1eb3ff0baf4e1c09df270a29749c2829dc0d8d87b6e9824015fb7f215da71c&=&width=956&height=363)
+
+![imp](https://media.discordapp.net/attachments/1149328487358930944/1170391852302749706/image.png?ex=6558df5a&is=65466a5a&hm=cbd3cf8bb123e4ba74a3c985a38baef629b12c2d59b35a37979aabe1488d703b&=&width=1010&height=518)
+
+![img](https://media.discordapp.net/attachments/1149328487358930944/1170392063997640815/image.png?ex=6558df8c&is=65466a8c&hm=89dc4076fc6710b058aacf9457021f5e50ed351235a07b187678edb25c81f629&=&width=915&height=224)
+
+![img](https://media.discordapp.net/attachments/1149328487358930944/1170392095589146674/image.png?ex=6558df94&is=65466a94&hm=72c31739a471d29a8db812cb86db220e934a56ead23dcddb24fc21d05e0c8efb&=&width=896&height=206)
+
+![img](https://media.discordapp.net/attachments/1149328487358930944/1170392400997388389/image.png?ex=6558dfdd&is=65466add&hm=7a60b440d2af35b2acf900e7bd0746f23e552e5aaa98a7b818ff6997f933edbf&=&width=1430&height=494)
 #### 5.2.3.5. Execution Evidence for Sprint Review
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
@@ -2746,7 +2757,7 @@ Para llevar a cabo los registros de cambio hemos empleado las aplicaciones Intel
       <b>Duración:</b> 06:02 minutos 
     </td>
     <td align=center>
-      <img src="https://media.discordapp.net/attachments/1149328487358930944/1170377065455955968/image.png?ex=6558d194&is=65465c94&hm=f9d54fe5f46fe4bd868e300cd6182d55d05b273373ad4d94c6bb5dc52b5b88a9&=" alt="img"  width="80%"/>
+      <img src="https://media.discordapp.net/attachments/1149328487358930944/1149338864197050368/image.png" alt="img"  width="80%"/>
     </td>
   </tr>
   <tr>
@@ -2770,7 +2781,7 @@ Para llevar a cabo los registros de cambio hemos empleado las aplicaciones Intel
       <b>Duración:</b> 04:06 minutos 
     </td>
     <td align=center>
-      <img src="https://media.discordapp.net/attachments/1149328487358930944/1170377631057842227/image.png?ex=6558d21b&is=65465d1b&hm=1f2fab56e6efff1602065db60067acada1f3ef48cb3c183dab27a051a6241f8a&=" alt="img"  width="80%"/>
+      <img src="https://media.discordapp.net/attachments/1149328487358930944/1149338864197050368/image.png" alt="img"  width="80%"/>
     </td>
   </tr>
   <tr>
@@ -2813,6 +2824,67 @@ Para llevar a cabo los registros de cambio hemos empleado las aplicaciones Intel
 <br>
 
 ### 5.3.3. Evaluaciones según heurísticas
+
+UX Heuristics & Principles Evaluation
+Usability – Inclusive Design – Information Architecture
+
+CARRERA : Ingeniería de Software
+CURSO : Desarrollo de Aplicaciones Open Source
+SECCIÓN : SW53
+PROFESORES : Elio Jefferrson Navarrete Vilca
+AUDITOR : TechArtristy
+CLIENTE(S) :       Aliaga Trevejo, Lucía Guadalupe 
+Ávalos Santos, Anthony Piero 
+Montes Molina, Sebastián Alejandro 
+Ortega Vélez, Jamutaq Piero 
+
+APP A EVALUAR: Flexdorm
+
+TAREAS A EVALUAR
+Registro de un nuevo usuario
+Publicacion de una Habitación
+Búsqueda de Habitaciones
+Reserva de Habitaciones
+Detalle de Habitaciones
+
+
+![img](https://media.discordapp.net/attachments/1149328487358930944/1170399144519663747/image.png?ex=6558e625&is=65467125&hm=b079fda8f1391571ac497d2f4bce7025dcc2aaa6a67f57ff52297b3843c0b66d&=&width=566&height=287)
+
+![img](https://media.discordapp.net/attachments/1149328487358930944/1170399178850058300/image.png?ex=6558e62d&is=6546712d&hm=66447c601759af0678efa6267c52bd501426c71314c075e2819971b8067ba4e4&=&width=659&height=401)
+
+PROBLEMA #1: Falta de Validaciones en los Registros de Usuario y Habitaciones
+
+Severidad: 3
+Heurística violada: Validación y retroalimentación
+Problema:
+No se han implementado todas las validaciones necesarias en el proceso de registro de usuarios y habitaciones. Esto puede llevar a la entrada de datos incorrectos o incompletos en la base de datos, lo que a su vez puede causar problemas de integridad de datos y la mala experiencia del usuario. La falta de validaciones adecuadas también puede exponer el sistema a posibles amenazas de seguridad, como la inyección de código malicioso.
+
+PROBLEMA #2: Opciones que Deberían Ser Inhabilitadas
+
+Severidad: 3
+Heurística violada: Control y libertad del usuario
+Problema:
+En la interfaz de usuario, existen opciones que deberían estar inhabilitadas en ciertos contextos, pero no lo están. Esto puede llevar a la confusión del usuario y la selección de acciones no deseadas. La falta de control sobre las opciones puede dificultar la navegación y la toma de decisiones, lo que resulta en una experiencia de usuario menos eficiente.
+
+PROBLEMA #3: Falta de Atributos "alt" en Todas las Imágenes
+
+Severidad: 2
+Heurística violada: Accesibilidad web y SEO
+Problema:
+Algunas imágenes en la interfaz no tienen atributos "alt" o estos atributos no están debidamente configurados. Esto compromete la accesibilidad web, ya que los usuarios con discapacidades visuales no pueden acceder a información importante contenida en las imágenes. Además, la falta de texto alternativo puede afectar negativamente el SEO del sitio, ya que los motores de búsqueda no pueden indexar y entender el contenido de las imágenes.
+
+PROBLEMA #4: Actualizaciones de Perfil no son Inmediatas
+
+Severidad: 3
+Heurística violada: Retroalimentación del sistema
+Problema:
+Las actualizaciones realizadas en los perfiles de usuario no se reflejan de manera inmediata en la interfaz. Esto puede confundir a los usuarios, ya que esperan ver los cambios reflejados de inmediato. La falta de retroalimentación inmediata puede resultar en una experiencia de usuario frustrante y poco intuitiva.
+PROBLEMA #5: Falta de Call to Action que Redirija del Landing Page a la Web Principal
+
+Severidad: 1
+Heurística violada: Principio de diseño de llamada a la acción (Call to Action)
+Problema:
+En el landing page, no se proporciona un "call to action" (llamado a la acción) claro que dirija a los usuarios a la web principal. Esto puede llevar a una falta de claridad en la navegación y dificultar la transición a otras partes del sitio. Un "call to action" efectivo puede mejorar la experiencia del usuario al proporcionar una guía clara sobre cómo continuar explorando el sitio.
 
 
 ## 5.4. Video About-the-Product
