@@ -2746,7 +2746,7 @@ Para llevar a cabo los registros de cambio hemos empleado las aplicaciones Intel
       <b>Duración:</b> 06:02 minutos 
     </td>
     <td align=center>
-      <img src="https://media.discordapp.net/attachments/1149328487358930944/1149338864197050368/image.png" alt="img"  width="80%"/>
+      <img src="https://media.discordapp.net/attachments/1149328487358930944/1170377065455955968/image.png?ex=6558d194&is=65465c94&hm=f9d54fe5f46fe4bd868e300cd6182d55d05b273373ad4d94c6bb5dc52b5b88a9&=" alt="img"  width="80%"/>
     </td>
   </tr>
   <tr>
@@ -2770,7 +2770,7 @@ Para llevar a cabo los registros de cambio hemos empleado las aplicaciones Intel
       <b>Duración:</b> 04:06 minutos 
     </td>
     <td align=center>
-      <img src="https://media.discordapp.net/attachments/1149328487358930944/1149338864197050368/image.png" alt="img"  width="80%"/>
+      <img src="https://media.discordapp.net/attachments/1149328487358930944/1170377631057842227/image.png?ex=6558d21b&is=65465d1b&hm=1f2fab56e6efff1602065db60067acada1f3ef48cb3c183dab27a051a6241f8a&=" alt="img"  width="80%"/>
     </td>
   </tr>
   <tr>
