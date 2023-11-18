@@ -71,6 +71,12 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de
 conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro
 del ABET – EAC - Student Outcome 5.
 
+| Criterio específico | Acciones realizadas | Conclusiones |
+| --- | --- | --- |
+| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en Ingeniería | <b>Ortega Velez, Jamutaq Piero</b> <br> TB1: Colaboré y apoyé con el equipo de manera activa, me encargué de la investigación de las convenciones de los lenguajes y frameworks y poner en conocimiento sobre dichas tecnologías a mis compañeros de equipo. <br> TP: Me encargué de desarrollar e implementar el listado en cards de las habitaciones y el registro a través de un formulario. <br> TB2: Me encargué de desarrollar el backend con el framework SpringBoot, haciendo uso del DDD. También me encargué de la configuración y despliegue de la aplicación. <br>  TF: Me encargue de investigar e implementar Spring Security en nuestra aplicacion siguiendo las buenas practicas estandares. <br> <b> Aliaga Trevejo, Lucía Guadalupe </b> <br> TB1: Colaboré con el equipo de manera organizada, manteniendo una comunicación eficiente y participación activa. A su vez, las entrevistas a nuestros usuarios me permitieron interactuar con un público distinto. <br> TP: Colaboré en todas las sesiones de reunión con mi equipo, manteniendo una comunicación fluida durante el trabajo síncrono y asíncrono.   <br> TB2: Colaboré en la implementación del Security Management context, aplicando DDD y los principios RESTful en el diseño de los endpoints. <br> TF: Colabore en la elaboracion del video about the product, asi como tambien apoyar en la implementacion de algunos metodos en el backend para lograr las user stories establecidas <br> <b> Montes Molina, Sebastian Montes </b> <br> TB1: Colabore con la elección, análisis y evaluación del diseño del proyecto así como la gestión de las actividades para lograr el resultado que se espera <br> TP1: Colabore con el analisis para el desarrollo del despliegue y la logica de negocio para nuestra inicial implementacion <br> TB2: Colabore con la implementación del Rental Management context. Asimismo, me encargué de realizar el despliegue del backend de la aplicación web. <br> TF: Colabore en la implementacion de metodos para las user stories de arrendatario y estudiantes, asi como tambien apoye en la implementacion del sprint security para proteger el api <br> <b>Avalos Santos, Anthony Piero</b> <br> TB1: Colabore y apoye en la organización del equipo apoyando en las reuniones qué teníamos cada fecha acordada. También en la investigación de la problemática abordada en el proyecto. <br> TB2: Participé en la elaboración del backend, donde implementé el Rental Management context, asegurando el cumplimiento de los elementos del product backlog y los objetivos del sprint. <br> TF: Participé en la implemetacion de algunos metodos para cumplir con user stories de estudiantes como el listado de favoritos, aplicando buenas practicas y manejo de las exceptiones con los codigos http adecuados| Se lograron los objetivos gracias a la comunicación y organización del equipo, siempre actuando con el apoyo mutuo entre todos los integrantes |
+| --- | --- | --- |
+| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.| <b>Ortega Vélez, Jamutaq Piero</b> <br> TB1: Colaboré en el diseño de los prototipos de la aplicación, también con las entrevistas y apoyé en la implementación de gitflow en los proyectos y su despligue. <br> TP:  Colaboré en la realización del informe y despliegue de la aplicación usando servicios SaaS, y también en la mejora del diseño de la app. <br> TB2: Colaboré en la realización de los artefactos del sprint manteniendo una documentación adecuada. También apliqué convenciones y herramientas como GitFlow. <br> TF: Colaboré con la mejora continua de la solución, agregando la documentación. Realicé entrevistas de validación con los usuarios de los segmentos objetivo para mejorar las funciones de la aplicación. <br> <b>Aliaga Trevejo, Lucía Guadalupe</b> <br> TB1: Utilicé técnicas y herramientas de Lean UX para investigar y diseñar, junto al equipo, una aplicación que se adapte a las necesidades de nuestros usuarios. También aprendí y colaboré con la implementación de gitflow.  <br> TP: Desarrollé e implementé la vista del perfil de usuario, agregando un formulario para editar la información. Además, añadí el nombre e imagen de usuario en el toolbar, obteniendo la información de localhost. También colaboré con mis compañeros en la elaboración del informe del proyecto. <br> TB2: Colaboré con la implementación del backend utilizando buenas prácticas y workflow con GitFlow. Trabajé con un enfoque ágil, documentando de manera escrita y en video las actividades solicitadas para el hito. <br> TF: Participé en las sesiones de validación de la solución y registré las propuestas de mejora de los usuarios. Colaboré con las evidencias del trabajo colaborativo y en la creación del video about the product. Asimismo, colaboré con la documentación del proyecto. <br> <b>Montes Molina, Sebastian Montes</b> <br> TB1: Colabore con el desarrollo y elección del diseño del esqueleto de la aplicación, se realizo el despliegue y creación de los repositorios <br> TP1: Colabore con el desarrollo del despliegue de la logica del servidor asi como pantallas de consultas para la aplicación web <br> TB2: Participé en la ejecución del backend siguiendo las mejores prácticas y el flujo de trabajo de GitFlow. Implementé la mejora continua en los entregables.<br> TF: Colaboré con las entrevistas de validacióncon los usuarios. Apliqué mejora continua y trabajo colaborativo, corrigiendo y añadiendo las funcionalidades faltantes en el front y back. <br> <b>Avalos Santos, Anthony Piero</b> <br>TB1: Colabore en el diseño de los prototipos así como también la implementación de algunos user storys en figma. Además colabore en la realización del diagrama de clases a usarse. <br> TP: Desarrolle e implemente algunos user stories usando angular y el lenguaje de programación TS. Además apoye en la realización de la presentación del proyecto. <br> TB2: Colaboré en la creación de los entregables del sprint trabajando con GitFlow. También apliqué el enfoque agile. <br> TF: Participé en las entrevistas a usuarios. Colaboré en equipo para implementar las historias de usuario y cumplir los objetivos del sprint.|  Se logro el objetivo del desarrollo de un informe técnico y funcional, así como un despliegue exitoso de nuestra aplicación. |
+
 
 ![outcome](https://media.discordapp.net/attachments/1149328487358930944/1170403835752239114/image.png?ex=6558ea83&is=65467583&hm=4e29ea0de7119a0fce59dff68a86406041fdb84f36c84f0b2ed174907a9fda08&=&width=727&height=528)
 
@@ -2708,6 +2714,266 @@ Para llevar a cabo los registros de cambio hemos empleado las aplicaciones Intel
 
 ![img](https://media.discordapp.net/attachments/1149328487358930944/1170231725306150922/image.png?ex=65584a39&is=6545d539&hm=53c4e569bd7ad558065b481cdb7a0b852ecb38af487186da3b5d0067e398f33c&=&width=652&height=655)
 
+### 5.2.4. Sprint 4
+
+#### 5.2.4.1. Spring Planning 4
+
+|Sprint 4|Mejoras en las Funcionalidades de la aplicación - Backend|
+| :- | :- |
+|**Sprint Planning Background**||
+|Date|07/11/2023|
+|Time|15 horas|
+|Location|Microsoft Teams|
+|Prepared By |Sebastian Montes Molina|
+|Attendees|<p>Aliaga Trevejo, Lucía Guadalupe /</p><p>Ávalos Santos, Anthony Piero /</p><p>Montes Molina, Sebastian Alejando /</p><p>Ortega Vélez, Jamutaq Piero </p>|
+|Sprint 3 Review Summary|Se logró implementar la lógica de negocio, integrando el front y back. Se despliega la aplicación en su versión final.|
+|Sprint 3 Retrospective Summary|Mejora en la distribucion de actividades.|
+|**Sprint Goal & User Stories**||
+|Sprint 3 Goal|24 Story Points para este Sprint|
+|Sprint 3 Velocity|6 Story Points por integrante|
+|Sum of Story Points|24 Story Points en total|
+
+#### 5.2.4.2. Sprint Backlog 4
+
+<table align="center"  border="1" width="70%" style="text-align:center;">
+  <tr align="center">
+    <td>
+      <b>Sprint #</b>
+    </td>
+    <td colspan=7>
+      Sprint 4
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2>
+      <b>User Story</b>
+    </td>
+    <td colspan=6>
+      Work-Item / Task
+    </td>
+  </tr>
+  <tr align="center">
+    <td>
+      <b>Id</b>
+    </td>
+    <td>
+      <b>Title</b>
+    </td>
+    <td>
+      <b>Id</b>
+    </td>
+    <td>
+      <b>Title</b>
+    </td>
+    <td>
+      <b>Description</b>
+    </td>
+    <td>
+      <b>Estimation (Hours)</b>
+    </td>
+    <td>
+      <b>Assigned To</b>
+    </td>
+    <td>
+      <b>Status</b>
+    </td>
+  </tr>
+  <tr align="left">
+    <td>
+      US07
+    </td>
+    <td>
+      Arrendador revisa sus reservas con la informacion de la habitacion y el estado del mismo
+    </td>
+    <td>
+      S07
+    </td>
+    <td>
+      Implementación del bounded context Rental_Management
+    </td>
+    <td>
+      Implementación de método read para obtener la información de las habitaciones
+    </td>
+    <td>
+      5
+    </td>
+    <td>
+      Sebastian Montes/ Anthony Avalos
+    </td>
+    <td>
+      Done
+    </td>
+  </tr>
+  <tr align="left">
+    <td>
+      US08
+    </td>
+    <td>
+     Arrendador revisa sus movimientos realizados por las reservas de sus habitaciones
+    </td>
+    <td>
+      S08
+    </td>
+    <td>
+      Implementación del bounded context Rental_Management
+    </td>
+    <td>
+      Implementacion del metodo "getMovimentByArrenderId" para obtener los movimientos de las reservas de sus habitaciones
+    </td>
+    <td>
+      5
+    </td>
+    <td>
+      Sebastian Montes/ Anthony Avalos
+    </td>
+    <td>
+      Done
+    </td>
+  </tr>
+  <tr align="left">
+    <td>
+      US011
+    </td>
+    <td>
+      Arrendatario agrega una habitacion a su lista de favoritos.
+    </td>
+    <td>
+      S011
+    </td>
+    <td>
+      Implementación del bounded context Rental_Management
+    </td>
+    <td>
+      Implementacion del metodo "toggleFavorite" para agregar una habitacion reservada por el estudiante a su lista de favoritos
+    </td>
+    <td>
+      4
+    </td>
+    <td>
+      Sebastian Montes/ Anthony Avalos
+    </td>
+    <td>
+      Done
+    </td>
+  </tr>
+  <tr align="left">
+    <td>
+      US12
+    </td>
+    <td>
+      Arrendatario revisa sus reservas activas.
+    </td>
+    <td>
+      S012
+    </td>
+    <td>
+      Implementación del bounded context Rental_Management
+    </td>
+    <td>
+      Implementacion del metodo para revisar las reservas vigentes hechas por el estudiante
+    </td>
+    <td>
+      5
+    </td>
+    <td>
+      Sebastian Montes/ Anthony Avalos
+    </td>
+    <td>
+      Done
+    </td>
+</table>
+
+#### 5.2.4.3. Development Evidence for Sprint Review
+
+![img](https://media.discordapp.net/attachments/1149328487358930944/1175225566694224012/image.png?ex=656a7519&is=65580019&hm=da76b6a15d1292de2c28a046e89efd2a011a390d6d9bcbe93acad3137c66652f&=&width=938&height=237)
+
+#### 5.2.4.4. Testing Suite Evidence for Sprint Review
+
+#### 5.2.4.5. Execution Evidence for Sprint Review
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+<table align="center">
+  <thead>
+    <tr>
+      <th>EndPoint</th>
+      <th>Detalles</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>(PUT) /api/v1/auth/student/{studentId}</td>
+      <td>Actualiza los datos de un estudiante</td>
+    </tr>
+    <tr>
+      <td>(PUT) /api/v1/auth/reactivate/{userId}</td>
+      <td>Reactiva la cuenta de un estudiante</td>
+    </tr>
+    <tr>
+      <td>(PUT) /api/v1/auth/delete/{userId}</td>
+      <td>Elimina lógicamente la cuenta de un usuario</td>
+    </tr>
+    <tr>
+      <td>(PUT) /api/v1/auth/arrender/{arrenderId}</td>
+      <td>Actualiza los datos de un arrendador</td>
+    </tr>
+    <tr>
+      <td>(POST) /api/v1/auth/signUp/student</td>
+      <td>Registra un estudiante</td>
+    </tr>
+    <tr>
+      <td>(POST) /api/v1/auth/signUp/arrender</td>
+      <td>Registra un arrendador</td>
+    </tr>
+    <tr>
+      <td>(POST) /api/v1/auth/signIn</td>
+      <td>Inicia sesión (usuario y arrendador)</td>
+    </tr>
+    <tr>
+      <td>(POST) /api/v1/room/registerRoom</td>
+      <td>Registra una habitación</td>
+    </tr>
+    <tr>
+      <td>(GET) /api/v1/room/getRoomsByStatusId/{status}</td>
+      <td>Obtiene el listado de habitaciones por estado</td>
+    </tr>
+    <tr>
+      <td>(GET) /api/v1/room/getRoomsByRoomId/{roomId}</td>
+      <td>Obtiene el listado de habitaciones por ID</td>
+    </tr>
+    <tr>
+      <td>(GET) /api/v1/room/getRoomsByArrenderId/{arrenderId}</td>
+      <td>Obtiene el listado de habitaciones por ID del arrendador</td>
+    </tr>
+    <tr>
+      <td>(POST) /api/v1/rental/registerRental</td>
+      <td>Registra un alquiler</td>
+    </tr>
+    <tr>
+      <td>(GET) /api/v1/rental/getRentalsByStudentId/{student}</td>
+      <td>Obtiene el listado de alquileres por ID de estudiante</td>
+    </tr>
+  </tbody>
+</table>
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+Para automatizar la publicación de nuestra interfaz de usuario, utilizamos la plataforma Vercel, la cual facilita el despliegue de forma eficiente y veloz, garantizando una compilación sin fallos. Esto nos permite crear un sitio web accesible a través del siguiente enlace: https://flex-dorm-web-application-mu.vercel.app/login
+
+![img](https://media.discordapp.net/attachments/1149328487358930944/1170229414420824145/image.png?ex=65584812&is=6545d312&hm=10b6ee18683abd5dde8ff5bac273d171a3c32a96bd734ee9554aa33149080882&=&width=866&height=653)
+
+Por otro lado, para el despliegue de nuestra API, utilizamos la plataforma Digital Ocean, la cual nos permite desplegar nuestra aplicación de forma gratuita. Esto nos permite crear un sitio web accesible a través del siguiente enlace: https://flexidorm-api-fkacd.ondigitalocean.app/swagger-ui/index.html
+
+![img](https://media.discordapp.net/attachments/1149328487358930944/1170229884237398116/image.png?ex=65584882&is=6545d382&hm=98949a6116a4c9440779655fad9284061c1cec4fd7c3d8b403cb44efaf21eea6&=&width=1122&height=655)
+
+#### 5.2.4.8. Team Collaboration Insights during Sprint
+
+Para llevar a cabo los registros de cambio hemos empleado las aplicaciones IntelliJ y Visual Studio Code, junto con la plataforma Git y GitHub. Inicialmente, uno de los miembros realizó el primer registro para establecer el repositorio. Posteriormente, utilizamos Git para clonar este repositorio y efectuar las modificaciones necesarias. Luego, creamos ramas específicas para cada conjunto de cambios antes de efectuar los registros, los cuales serán revisados en el repositorio de Github.
+
+
+
+
+
 ## 5.3. Validation Interviews
 
 ### 5.3.1. Diseño de Entrevistas
@@ -2757,7 +3023,7 @@ Para llevar a cabo los registros de cambio hemos empleado las aplicaciones Intel
       <b>Duración:</b> 06:02 minutos 
     </td>
     <td align=center>
-      <img src="https://media.discordapp.net/attachments/1149328487358930944/1149338864197050368/image.png" alt="img"  width="80%"/>
+      <img src="https://media.discordapp.net/attachments/1149328487358930944/1170377065455955968/image.png?ex=65620c14&is=654f9714&hm=1216f679c95ef0855e638f5fe46eb55a00dbf4886ad1072e20f4cbbe7c4a0264&=&width=938&height=526" alt="img"  width="80%"/>
     </td>
   </tr>
   <tr>
@@ -2781,7 +3047,7 @@ Para llevar a cabo los registros de cambio hemos empleado las aplicaciones Intel
       <b>Duración:</b> 04:06 minutos 
     </td>
     <td align=center>
-      <img src="https://media.discordapp.net/attachments/1149328487358930944/1149338864197050368/image.png" alt="img"  width="80%"/>
+      <img src="https://media.discordapp.net/attachments/1149328487358930944/1170377631057842227/image.png?ex=65620c9b&is=654f979b&hm=6da3a37654eb75b2b581ca7d984d1b398c2b7ecb6f5a8e7c45207b03d94692d8&=&width=938&height=523" alt="img"  width="80%"/>
     </td>
   </tr>
   <tr>
@@ -2808,7 +3074,7 @@ Para llevar a cabo los registros de cambio hemos empleado las aplicaciones Intel
       <b>Duración:</b> 6:52  
     </td>
     <td align=center>
-      <img src="https://media.discordapp.net/attachments/1149328487358930944/1170400668251603046/image.png?ex=6558e790&is=65467290&hm=b1df63131afb25fc33f53532ccc27d45ad5a26d75f2cfbf3b68594dee801a146&=&width=1174&height=655"/>
+      <img src="https://media.discordapp.net/attachments/1149328487358930944/1170400668251603046/image.png?ex=65622210&is=654fad10&hm=ef7aad8ad7a6e1ff7253ff7947a5f491694e9c2d7112d1450c9422ed974db09e&=&width=938&height=523"/>
     </td>
   </tr>
   <tr>
@@ -2834,7 +3100,7 @@ Para llevar a cabo los registros de cambio hemos empleado las aplicaciones Intel
       <b>Duración:</b> 6:00  
     </td>
     <td align=center>
-      <img src="https://media.discordapp.net/attachments/1149328487358930944/1170400520020701274/image.png?ex=6558e76c&is=6546726c&hm=c47320b8ece85ac574f050508a88bd712347aa385bad29a3fd86b582d39d7394&=&width=1190&height=617"/>
+      <img src="https://media.discordapp.net/attachments/1149328487358930944/1170400520020701274/image.png?ex=656221ec&is=654facec&hm=440bbb499c400f76b103702fe92f45a788df53be0066e7a335e86da67e1ce7b0&=&width=938&height=486"/>
     </td>
   </tr>
   <tr>
@@ -2912,9 +3178,9 @@ En el landing page, no se proporciona un "call to action" (llamado a la acción)
 
 ## 5.4. Video About-the-Product
 
-![img](https://media.discordapp.net/attachments/1149328487358930944/1170402568397140038/image.png?ex=6558e955&is=65467455&hm=3fb72a11382525ba6315e98e97f3327de330572f7ced37271dd5a4159a2c8fce&=&width=1178&height=662)
+![img](https://media.discordapp.net/attachments/1149328487358930944/1175222205261545522/image.png?ex=656a71f8&is=6557fcf8&hm=b968719598cf5333049654e0500348c30d6f3df926581d934f231f9d9dda8469&=&width=938&height=528)
 
-Link al video: [Video About-the-Product](https://www.youtube.com/watch?v=c3L6tnErgUg)
+Link al video: [Video About-the-Product](https://youtu.be/T6PL9CYZWZ8)
 
 ## 5.5. Video About-the-Team
 
