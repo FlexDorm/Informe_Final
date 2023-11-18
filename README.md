@@ -42,14 +42,18 @@ Ortega Vélez, Jamutaq Piero <br>
 
 | Versión | Fecha | Autor | Descripción de la modificación |
 | ------- | ----- | ----- | ------------------------------ |
-|   1.0      |   2023-09-07    | Sebastian Montes, Jamutaq Ortega, Antonhy Avalos, Lucia Aliaga, Manuel Sanchez      |          Se implemento la primera version del informe                       |
-|         |       |       |                                |
-
+|   1.0      |   2023-09-07    | Sebastian Montes, Jamutaq Ortega, Antonhy Avalos, Lucía Aliaga, Manuel Sanchez      |          Se implemento la primera versión del informe                       |
+|   2.0      |   2023-09-19    |  Sebastian Montes, Jamutaq Ortega, Antonhy Avalos, Lucía Aliaga      |    Se implemento la segunda versión del informe                                        |
+|   3.0      |   2023-10-20   |   Sebastian Montes, Jamutaq Ortega, Antonhy Avalos, Lucía Aliaga     | Se implemento la tercera versión del informe                                           |
+|   4.0      |   2023-11-17    |    Sebastian Montes, Jamutaq Ortega, Antonhy Avalos, Lucía Aliaga    | Se implemento versión final del informe                                           |
 ---
 
 # Project Report Collaboration Insights
 
-Link de repositorio Github:
+Links de repositorio Github:
+* Landing Page: https://github.com/FlexDorm/FlexDormLandingPage
+* Front: https://github.com/FlexDorm/FlexDormWebApplication
+* Back: https://github.com/FlexDorm/FlexDormSpringBootApplication
 
 ---
 
