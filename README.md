@@ -2897,6 +2897,8 @@ Para llevar a cabo los registros de cambio hemos empleado las aplicaciones Intel
 
 #### 5.2.4.5. Execution Evidence for Sprint Review
 
+![img](https://cdn.discordapp.com/attachments/1149328486868209678/1175871147947085904/image.png?ex=656cce58&is=655a5958&hm=152a1ab8c53b71882a7baf2f3978312cf3c75399225a31838c4ff845c7582827&)
+
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
 <table align="center">
@@ -2977,7 +2979,9 @@ Por otro lado, para el despliegue de nuestra API, utilizamos la plataforma Digit
 Para llevar a cabo los registros de cambio hemos empleado las aplicaciones IntelliJ y Visual Studio Code, junto con la plataforma Git y GitHub. Inicialmente, uno de los miembros realizó el primer registro para establecer el repositorio. Posteriormente, utilizamos Git para clonar este repositorio y efectuar las modificaciones necesarias. Luego, creamos ramas específicas para cada conjunto de cambios antes de efectuar los registros, los cuales serán revisados en el repositorio de Github.
 
 
-
+![img](https://cdn.discordapp.com/attachments/1149328486868209678/1175870517060833404/image.png?ex=656ccdc1&is=655a58c1&hm=54109615f6191487456a8b477f25d4ab460f9dd2bb200d45f050a0264c90edb7&)
+![img](https://cdn.discordapp.com/attachments/1149328486868209678/1175870563961549020/image.png?ex=656ccdcd&is=655a58cd&hm=6878620c41a518c1febdd32b8b34046fcb9e835443b68c54e37d2287850569ac&)
+![img](https://cdn.discordapp.com/attachments/1149328486868209678/1175870607305474068/image.png?ex=656ccdd7&is=655a58d7&hm=c2f65f5eaba88adf10906b75f65a7d7293d59ea43591069ab88cce7b9bc8fda3&)
 
 
 ## 5.3. Validation Interviews
