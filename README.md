@@ -30,7 +30,7 @@ Montes Molina, Sebastián Alejandro <br>
 Ortega Vélez, Jamutaq Piero <br>
 
 
-**Link al video de exposición:** [Ver enlace]()
+**Link al video de exposición:** https://upcedupe.sharepoint.com/sites/APLICACIONESOPENSOURCE850/_layouts/15/stream.aspx?id=%2Fsites%2FAPLICACIONESOPENSOURCE850%2FShared%20Documents%2FGeneral%2FRecordings%2FReuni%C3%B3n%20en%20%5FGeneral%5F%2D20231119%5F125916%2DGrabaci%C3%B3n%20de%20la%20reuni%C3%B3n%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview
 
 **Agosto del 2023**
 
@@ -2894,7 +2894,6 @@ Para llevar a cabo los registros de cambio hemos empleado las aplicaciones Intel
 
 ![img](https://media.discordapp.net/attachments/1149328487358930944/1175225566694224012/image.png?ex=656a7519&is=65580019&hm=da76b6a15d1292de2c28a046e89efd2a011a390d6d9bcbe93acad3137c66652f&=&width=938&height=237)
 
-#### 5.2.4.4. Testing Suite Evidence for Sprint Review
 
 #### 5.2.4.5. Execution Evidence for Sprint Review
 
