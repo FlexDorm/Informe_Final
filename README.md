@@ -2897,8 +2897,11 @@ Para llevar a cabo los registros de cambio hemos empleado las aplicaciones Intel
 
 #### 5.2.4.5. Execution Evidence for Sprint Review
 
-![img](https://cdn.discordapp.com/attachments/1149328487358930944/1175867723939582033/image.png?ex=656ccb27&is=655a5627&hm=b7469be91071172fa8bd9c59205407398c90a19ca887f2b7de0dcf861a7dbe3b&)
 
+
+![img](https://media.discordapp.net/attachments/1149328487358930944/1175878692719841400/image.png?ex=656cd55f&is=655a605f&hm=8d64494d86d9705bc300b66996b545da36d784075943fdc2983a2f0dab29dc43&=&width=1109&height=670)
+
+![img](https://media.discordapp.net/attachments/1149328487358930944/1175881136895963166/image.png?ex=656cd7a5&is=655a62a5&hm=0db3613c1f6109e3e5a2ec2f1f01bbf1370aba3eaef9aebef8871c5e5f8d6b58&=&width=807&height=670)
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
 <table align="center">
