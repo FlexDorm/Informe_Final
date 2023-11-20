@@ -10,13 +10,13 @@ Ciclo 2023-02
 
 <h2>Aplicaciones Open Source</h2>
 
-<h3>TB2 REPORT</h3>
+<h3>TF REPORT</h3>
 
 Sección SW53
 
 **Profesor:** Elio Jefferrson Navarrete Vilca
 
-**_INFORME DE TRABAJO FINAL - TP1_**
+**_INFORME DE TRABAJO FINAL - TF1_**
 
 **Startup:** TechArtristy
 
